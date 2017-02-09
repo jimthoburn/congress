@@ -16,84 +16,84 @@
 .congress .members li,
 .congress .search,
 .congress .contact,
-.congress .totals + h2 {
+.congress .statistics + h2 {
   margin-top: 3em;
 }
-.congress .totals + h2 {
+.congress .statistics + h2 {
   margin-top: 6em;
 }
-.copy .congress .members    li {
+.copy .congress .members li {
   opacity: 1;
 }
-.copy .congress .members    li::before {
+.copy .congress .members li::before {
   content: none;
 }
 
 
-.congress .totals {
+.congress .statistics {
   margin-top: 9em;
   margin-bottom: 6em;
   font-family: "Freight Text W03", Georgia, serif;
 }
-.congress .totals,
-.congress .totals li {
+.congress .statistics,
+.congress .statistics li {
   list-style: none;
   padding-left: 0;
 }
-.congress .totals::after {
+.congress .statistics::after {
   content: "";
   display: table;
   clear: both;
 }
-.congress .totals li {
+.congress .statistics li {
   float: left;
   opacity: 1;
   line-height: 1.5;
   height: 1.5em;
 }
-.congress .totals li a {
+.congress .statistics li a {
   display: block;
   height: 1.5em;
   text-shadow: none !important;
   background-image: none;
   line-height: 1.5;
 }
-.congress .totals li span {
+.congress .statistics li span {
   position: absolute;
   white-space: nowrap;
   margin-top: 3em;
   text-align: center;
   line-height: 1.5;
 }
-.congress .totals li span i {
+.congress .statistics li span i {
   font-style: italic;
   color: #202f33;
 }
-.congress .totals li span b {
+.congress .statistics li span b {
   margin-top: -0.25em;
 }
-.congress .totals .undecided span b {
+.congress .statistics .undecided span b {
   position: absolute;
   top: 0;
   margin-top: -1.25em;
 }
-.congress .totals .support span {
+.congress .statistics .support span {
   text-align: left;
 }
-.congress .totals .oppose span {
+.congress .statistics .oppose span {
   text-align: right;
 }
 
-.congress .totals .undecided span {
+.congress .statistics .undecided span {
   margin-top: -3em;
   left: 50%;
   transform: translateX(-50%);
 }
-.congress .totals .oppose span {
+.congress .statistics .oppose span {
   right: 0;
 }
 
-.congress .totals li span::before {
+.congress .statistics li span::before {
   content: "";
   border-left: 2px solid;
   position: absolute;
@@ -102,53 +102,53 @@
   height: 1.5em;
 }
 
-.congress .totals .undecided span::before {
+.congress .statistics .undecided span::before {
   top: auto;
   bottom: -1.5em;
   left: 50%;
 }
 
-.congress .totals .oppose span::before {
+.congress .statistics .oppose span::before {
   left: auto;
   right: 0;
 }
 
-.congress .totals li span b {
+.congress .statistics li span b {
   display: block;
   font-size: 3em;
   line-height: 1.25;
 }
-.congress .totals li::before {
+.congress .statistics li::before {
   display: none;
 }
 
-.congress .totals .support {
+.congress .statistics .support {
   background: rgb(15, 157, 255); /* --blue */
 }
-.congress .totals .oppose {
+.congress .statistics .oppose {
   background: rgb(238, 19, 92); /* --red */
 }
-.congress .totals .undecided {
+.congress .statistics .undecided {
   background: rgb(125, 33, 190); /* --purple */
 }
 
-.congress .totals .support span::before {
+.congress .statistics .support span::before {
   color: rgb(15, 157, 255); /* --blue */
 }
-.congress .totals .oppose span::before {
+.congress .statistics .oppose span::before {
   color: rgb(238, 19, 92); /* --red */
 }
-.congress .totals .undecided span::before {
+.congress .statistics .undecided span::before {
   color: rgb(125, 33, 190); /* --purple */
 }
 
-.congress .totals .support b {
+.congress .statistics .support b {
   color: rgb(15, 157, 255); /* --blue */
 }
-.congress .totals .oppose b {
+.congress .statistics .oppose b {
   color: rgb(238, 19, 92); /* --red */
 }
-.congress .totals .undecided b {
+.congress .statistics .undecided b {
   color: rgb(125, 33, 190); /* --purple */
 }
 
@@ -229,37 +229,23 @@
 
 .copy .congress .members .support ~ a,
 .copy .congress .members .support ~ * a {
-  color: rgb(47, 216, 100) !important; /* --green */
-  color: rgb(238, 19, 92) !important; /* --red */
   color: rgb(15, 157, 255) !important; /* --blue */
 }
 .copy .congress .support {
-  color: rgb(47, 216, 100) !important; /* --green */
-  color: rgb(238, 19, 92) !important; /* --red */
   color: rgb(15, 157, 255) !important; /* --blue */
 }
 .copy .congress .members .oppose ~ a,
 .copy .congress .members .oppose ~ * a {
-  color: rgb(125, 33, 190) !important; /* --purple */
-  color: rgb(253, 79, 25) !important; /* --orange */
-  color: rgb(15, 157, 255) !important; /* --blue */
   color: rgb(238, 19, 92) !important; /* --red */
 }
 .copy .congress .oppose {
-  color: rgb(125, 33, 190) !important; /* --purple */
-  color: rgb(253, 79, 25) !important; /* --orange */
-  color: rgb(15, 157, 255) !important; /* --blue */
   color: rgb(238, 19, 92) !important; /* --red */
 }
 .copy .congress .members .undecided ~ a,
 .copy .congress .members .undecided ~ * a {
-  color: rgb(247, 2, 124) !important; /* --pink */
-  color: rgb(15, 157, 255) !important; /* --blue */
   color: rgb(125, 33, 190) !important; /* --purple */
 }
 .copy .congress .undecided {
-  color: rgb(247, 2, 124) !important; /* --pink */
-  color: rgb(15, 157, 255) !important; /* --blue */
   color: rgb(125, 33, 190) !important; /* --purple */
 }
 .copy .congress .members .support ~ a:hover span,
