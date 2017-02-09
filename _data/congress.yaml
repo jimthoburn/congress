@@ -2,6 +2,7 @@
   full_name: Jeff Sessions
   type: Senator
   state: Alabama
+  website: 'http://www.sessions.senate.gov/public'
   phone: 202-224-4124
   stance: undecided
   quote_html: ''
@@ -9,6 +10,7 @@
   full_name: Richard C. Shelby
   type: Senator
   state: Alabama
+  website: 'http://www.shelby.senate.gov'
   phone: 202-224-5744
   stance: undecided
   quote_html: ''
@@ -16,6 +18,7 @@
   full_name: Bradley Byrne
   type: Representative
   state: Alabama
+  website: 'https://byrne.house.gov'
   phone: 202-225-4931
   stance: undecided
   district: 1
@@ -24,6 +27,7 @@
   full_name: Martha Roby
   type: Representative
   state: Alabama
+  website: 'http://roby.house.gov'
   phone: 202-225-2901
   stance: undecided
   district: 2
@@ -32,6 +36,7 @@
   full_name: Mike Rogers
   type: Representative
   state: Alabama
+  website: 'https://mikerogers.house.gov'
   phone: 202-225-3261
   stance: undecided
   district: 3
@@ -40,6 +45,7 @@
   full_name: Robert B. Aderholt
   type: Representative
   state: Alabama
+  website: 'https://aderholt.house.gov'
   phone: 202-225-4876
   stance: undecided
   district: 4
@@ -48,6 +54,7 @@
   full_name: Mo Brooks
   type: Representative
   state: Alabama
+  website: 'https://brooks.house.gov'
   phone: 202-225-4801
   stance: undecided
   district: 5
@@ -56,6 +63,7 @@
   full_name: Gary J. Palmer
   type: Representative
   state: Alabama
+  website: 'https://palmer.house.gov'
   phone: 202-225-4921
   stance: undecided
   district: 6
@@ -64,6 +72,7 @@
   full_name: Terri A. Sewell
   type: Representative
   state: Alabama
+  website: 'https://sewell.house.gov'
   phone: 202-225-2665
   stance: undecided
   district: 7
@@ -72,6 +81,7 @@
   full_name: Dan Sullivan
   type: Senator
   state: Alaska
+  website: 'http://www.sullivan.senate.gov'
   phone: 202-224-3004
   stance: undecided
   quote_html: ''
@@ -79,6 +89,7 @@
   full_name: Lisa Murkowski
   type: Senator
   state: Alaska
+  website: 'https://www.murkowski.senate.gov'
   phone: 202-224-6665
   stance: undecided
   quote_html: ''
@@ -86,6 +97,7 @@
   full_name: Don Young
   type: Representative
   state: Alaska
+  website: 'http://donyoung.house.gov'
   phone: 202-225-5765
   stance: undecided
   quote_html: ''
@@ -93,6 +105,7 @@
   full_name: Aumua Amata Coleman Radewagen
   type: Representative
   state: American Samoa
+  website: 'https://radewagen.house.gov'
   phone: 202-225-8577
   stance: undecided
   quote_html: ''
@@ -100,6 +113,7 @@
   full_name: Jeff Flake
   type: Senator
   state: Arizona
+  website: 'http://www.flake.senate.gov/public'
   phone: 202-224-4521
   stance: undecided
   quote_html: ''
@@ -107,6 +121,7 @@
   full_name: John McCain
   type: Senator
   state: Arizona
+  website: 'http://www.mccain.senate.gov'
   phone: 202-224-2235
   stance: undecided
   quote_html: ''
@@ -114,6 +129,7 @@
   full_name: Tom O'Halleran
   type: Representative
   state: Arizona
+  website: 'https://ohalleran.house.gov'
   phone: 202-225-3361
   stance: undecided
   district: 1
@@ -122,6 +138,7 @@
   full_name: Martha McSally
   type: Representative
   state: Arizona
+  website: 'https://mcsally.house.gov'
   phone: 202-225-2542
   stance: undecided
   district: 2
@@ -130,6 +147,7 @@
   full_name: Raúl M. Grijalva
   type: Representative
   state: Arizona
+  website: 'https://grijalva.house.gov'
   phone: 202-225-2435
   stance: undecided
   district: 3
@@ -138,6 +156,7 @@
   full_name: Paul A. Gosar
   type: Representative
   state: Arizona
+  website: 'http://gosar.house.gov'
   phone: 202-225-2315
   stance: undecided
   district: 4
@@ -146,6 +165,7 @@
   full_name: Andy Biggs
   type: Representative
   state: Arizona
+  website: 'https://biggs.house.gov'
   phone: 202-225-2635
   stance: undecided
   district: 5
@@ -154,6 +174,7 @@
   full_name: David Schweikert
   type: Representative
   state: Arizona
+  website: 'https://schweikert.house.gov'
   phone: 202-225-2190
   stance: undecided
   district: 6
@@ -162,6 +183,7 @@
   full_name: Ruben Gallego
   type: Representative
   state: Arizona
+  website: 'https://rubengallego.house.gov'
   phone: 202-225-4065
   stance: undecided
   district: 7
@@ -170,6 +192,7 @@
   full_name: Trent Franks
   type: Representative
   state: Arizona
+  website: 'https://franks.house.gov'
   phone: 202-225-4576
   stance: undecided
   district: 8
@@ -178,6 +201,7 @@
   full_name: Kyrsten Sinema
   type: Representative
   state: Arizona
+  website: 'https://sinema.house.gov'
   phone: 202-225-9888
   stance: undecided
   district: 9
@@ -186,6 +210,7 @@
   full_name: John Boozman
   type: Senator
   state: Arkansas
+  website: 'https://www.boozman.senate.gov/public/index.cfm/home'
   phone: 202-224-4843
   stance: undecided
   quote_html: ''
@@ -193,6 +218,7 @@
   full_name: Tom Cotton
   type: Senator
   state: Arkansas
+  website: 'https://www.cotton.senate.gov'
   phone: 202-224-2353
   stance: undecided
   quote_html: ''
@@ -200,6 +226,7 @@
   full_name: Eric A. "Rick" Crawford
   type: Representative
   state: Arkansas
+  website: 'http://crawford.house.gov'
   phone: 202-225-4076
   stance: undecided
   district: 1
@@ -208,6 +235,7 @@
   full_name: J. French Hill
   type: Representative
   state: Arkansas
+  website: 'https://hill.house.gov'
   phone: 202-225-2506
   stance: undecided
   district: 2
@@ -216,6 +244,7 @@
   full_name: Steve Womack
   type: Representative
   state: Arkansas
+  website: 'http://womack.house.gov'
   phone: 202-225-4301
   stance: undecided
   district: 3
@@ -224,6 +253,7 @@
   full_name: Bruce Westerman
   type: Representative
   state: Arkansas
+  website: 'https://westerman.house.gov'
   phone: 202-225-3772
   stance: undecided
   district: 4
@@ -232,6 +262,7 @@
   full_name: Dianne Feinstein
   type: Senator
   state: California
+  website: 'http://www.feinstein.senate.gov'
   phone: 202-224-3841
   stance: oppose
   quote_html: >
@@ -241,6 +272,7 @@
   full_name: Kamala D. Harris
   type: Senator
   state: California
+  website: 'https://www.harris.senate.gov'
   phone: 202-224-3553
   stance: oppose
   quote_html: >
@@ -250,6 +282,7 @@
   full_name: Doug LaMalfa
   type: Representative
   state: California
+  website: 'http://lamalfa.house.gov'
   phone: 202-225-3076
   stance: support
   district: 1
@@ -262,6 +295,7 @@
   full_name: Jared Huffman
   type: Representative
   state: California
+  website: 'http://huffman.house.gov'
   phone: 202-225-5161
   stance: oppose
   district: 2
@@ -274,6 +308,7 @@
   full_name: John Garamendi
   type: Representative
   state: California
+  website: 'http://garamendi.house.gov'
   phone: 202-225-1880
   stance: oppose
   district: 3
@@ -286,6 +321,7 @@
   full_name: Tom McClintock
   type: Representative
   state: California
+  website: 'http://mcclintock.house.gov'
   phone: 202-225-2511
   stance: support
   district: 4
@@ -298,6 +334,7 @@
   full_name: Mike Thompson
   type: Representative
   state: California
+  website: 'http://mikethompson.house.gov'
   phone: 202-225-3311
   stance: oppose
   district: 5
@@ -310,6 +347,7 @@
   full_name: Doris O. Matsui
   type: Representative
   state: California
+  website: 'https://matsui.house.gov'
   phone: 202-225-7163
   stance: oppose
   district: 6
@@ -322,6 +360,7 @@
   full_name: Ami Bera
   type: Representative
   state: California
+  website: 'http://bera.house.gov'
   phone: 202-225-5716
   stance: oppose
   district: 7
@@ -334,6 +373,7 @@
   full_name: Paul Cook
   type: Representative
   state: California
+  website: 'http://cook.house.gov'
   phone: 202-225-5861
   stance: undecided
   district: 8
@@ -346,6 +386,7 @@
   full_name: Jerry McNerney
   type: Representative
   state: California
+  website: 'http://mcnerney.house.gov'
   phone: 202-225-1947
   stance: oppose
   district: 9
@@ -358,6 +399,7 @@
   full_name: Jeff Denham
   type: Representative
   state: California
+  website: 'http://denham.house.gov'
   phone: 202-225-4540
   stance: undecided
   district: 10
@@ -370,6 +412,7 @@
   full_name: Mark DeSaulnier
   type: Representative
   state: California
+  website: 'https://desaulnier.house.gov'
   phone: 202-225-2095
   stance: oppose
   district: 11
@@ -382,6 +425,7 @@
   full_name: Nancy Pelosi
   type: Representative
   state: California
+  website: 'http://pelosi.house.gov'
   phone: 202-225-4965
   stance: oppose
   district: 12
@@ -394,6 +438,7 @@
   full_name: Barbara Lee
   type: Representative
   state: California
+  website: 'https://lee.house.gov'
   phone: 202-225-2661
   stance: oppose
   district: 13
@@ -406,6 +451,7 @@
   full_name: Jackie Speier
   type: Representative
   state: California
+  website: 'https://speier.house.gov'
   phone: 202-225-3531
   stance: oppose
   district: 14
@@ -418,6 +464,7 @@
   full_name: Eric Swalwell
   type: Representative
   state: California
+  website: 'https://swalwell.house.gov'
   phone: 202-225-5065
   stance: oppose
   district: 15
@@ -430,6 +477,7 @@
   full_name: Jim Costa
   type: Representative
   state: California
+  website: 'https://costa.house.gov'
   phone: 202-225-3341
   stance: oppose
   district: 16
@@ -443,6 +491,7 @@
   full_name: Ro Khanna
   type: Representative
   state: California
+  website: 'https://khanna.house.gov'
   phone: 202-225-2631
   stance: oppose
   district: 17
@@ -455,6 +504,7 @@
   full_name: Anna G. Eshoo
   type: Representative
   state: California
+  website: 'http://eshoo.house.gov'
   phone: 202-225-8104
   stance: oppose
   district: 18
@@ -467,6 +517,7 @@
   full_name: Zoe Lofgren
   type: Representative
   state: California
+  website: 'https://lofgren.house.gov'
   phone: 202-225-3072
   stance: oppose
   district: 19
@@ -479,6 +530,7 @@
   full_name: Jimmy Panetta
   type: Representative
   state: California
+  website: 'https://panetta.house.gov'
   phone: 202-225-2861
   stance: oppose
   district: 20
@@ -491,6 +543,7 @@
   full_name: David G. Valadao
   type: Representative
   state: California
+  website: 'http://valadao.house.gov'
   phone: 202-225-4695
   stance: undecided
   district: 21
@@ -503,6 +556,7 @@
   full_name: Devin Nunes
   type: Representative
   state: California
+  website: 'http://nunes.house.gov'
   phone: 202-225-2523
   stance: support
   district: 22
@@ -515,6 +569,7 @@
   full_name: Kevin McCarthy
   type: Representative
   state: California
+  website: 'http://kevinmccarthy.house.gov'
   phone: 202-225-2915
   stance: undecided
   district: 23
@@ -527,6 +582,7 @@
   full_name: Salud O. Carbajal
   type: Representative
   state: California
+  website: 'https://carbajal.house.gov'
   phone: 202-225-3601
   stance: oppose
   district: 24
@@ -539,6 +595,7 @@
   full_name: Stephen Knight
   type: Representative
   state: California
+  website: 'https://knight.house.gov'
   phone: 202-225-1956
   stance: undecided
   district: 25
@@ -551,6 +608,7 @@
   full_name: Julia Brownley
   type: Representative
   state: California
+  website: 'http://juliabrownley.house.gov'
   phone: 202-225-5811
   stance: oppose
   district: 26
@@ -563,6 +621,7 @@
   full_name: Judy Chu
   type: Representative
   state: California
+  website: 'https://chu.house.gov'
   phone: 202-225-5464
   stance: oppose
   district: 27
@@ -573,6 +632,7 @@
   full_name: Adam B. Schiff
   type: Representative
   state: California
+  website: 'http://schiff.house.gov'
   phone: 202-225-4176
   stance: oppose
   district: 28
@@ -585,6 +645,7 @@
   full_name: Tony Cárdenas
   type: Representative
   state: California
+  website: 'https://cardenas.house.gov'
   phone: 202-225-6131
   stance: oppose
   district: 29
@@ -597,6 +658,7 @@
   full_name: Brad Sherman
   type: Representative
   state: California
+  website: 'http://sherman.house.gov'
   phone: 202-225-5911
   stance: oppose
   district: 30
@@ -609,6 +671,7 @@
   full_name: Pete Aguilar
   type: Representative
   state: California
+  website: 'https://aguilar.house.gov'
   phone: 202-225-3201
   stance: oppose
   district: 31
@@ -621,6 +684,7 @@
   full_name: Grace F. Napolitano
   type: Representative
   state: California
+  website: 'http://napolitano.house.gov'
   phone: 202-225-5256
   stance: oppose
   district: 32
@@ -633,6 +697,7 @@
   full_name: Ted Lieu
   type: Representative
   state: California
+  website: 'https://lieu.house.gov'
   phone: 202-225-3976
   stance: oppose
   district: 33
@@ -643,6 +708,7 @@
   full_name: Norma J. Torres
   type: Representative
   state: California
+  website: 'https://torres.house.gov'
   phone: 202-225-6161
   stance: oppose
   district: 35
@@ -655,6 +721,7 @@
   full_name: Raul Ruiz
   type: Representative
   state: California
+  website: 'https://ruiz.house.gov'
   phone: 202-225-5330
   stance: oppose
   district: 36
@@ -667,6 +734,7 @@
   full_name: Karen Bass
   type: Representative
   state: California
+  website: 'https://bass.house.gov'
   phone: 202-225-7084
   stance: oppose
   district: 37
@@ -679,6 +747,7 @@
   full_name: Linda T. Sánchez
   type: Representative
   state: California
+  website: 'https://lindasanchez.house.gov'
   phone: 202-225-6676
   stance: undecided
   district: 38
@@ -687,6 +756,7 @@
   full_name: Edward R. Royce
   type: Representative
   state: California
+  website: 'http://royce.house.gov'
   phone: 202-225-4111
   stance: undecided
   district: 39
@@ -695,6 +765,7 @@
   full_name: Lucille Roybal-Allard
   type: Representative
   state: California
+  website: 'http://roybal-allard.house.gov'
   phone: 202-225-1766
   stance: oppose
   district: 40
@@ -707,6 +778,7 @@
   full_name: Mark Takano
   type: Representative
   state: California
+  website: 'https://takano.house.gov'
   phone: 202-225-2305
   stance: oppose
   district: 41
@@ -719,6 +791,7 @@
   full_name: Ken Calvert
   type: Representative
   state: California
+  website: 'http://calvert.house.gov'
   phone: 202-225-1986
   stance: support
   district: 42
@@ -731,6 +804,7 @@
   full_name: Maxine Waters
   type: Representative
   state: California
+  website: 'https://waters.house.gov'
   phone: 202-225-2201
   stance: oppose
   district: 43
@@ -743,6 +817,7 @@
   full_name: Nanette Diaz Barragán
   type: Representative
   state: California
+  website: 'https://barragan.house.gov'
   phone: 202-225-8220
   stance: oppose
   district: 44
@@ -756,6 +831,7 @@
   full_name: Mimi Walters
   type: Representative
   state: California
+  website: 'https://walters.house.gov'
   phone: 202-225-5611
   stance: undecided
   district: 45
@@ -770,6 +846,7 @@
   full_name: J. Luis Correa
   type: Representative
   state: California
+  website: 'https://correa.house.gov'
   phone: 202-225-2965
   stance: undecided
   district: 46
@@ -778,6 +855,7 @@
   full_name: Alan S. Lowenthal
   type: Representative
   state: California
+  website: 'http://lowenthal.house.gov'
   phone: 202-225-7924
   stance: oppose
   district: 47
@@ -790,6 +868,7 @@
   full_name: Dana Rohrabacher
   type: Representative
   state: California
+  website: 'https://rohrabacher.house.gov'
   phone: 202-225-2415
   stance: undecided
   district: 48
@@ -802,6 +881,7 @@
   full_name: Darrell E. Issa
   type: Representative
   state: California
+  website: 'https://issa.house.gov'
   phone: 202-225-3906
   stance: undecided
   district: 49
@@ -814,6 +894,7 @@
   full_name: Duncan Hunter
   type: Representative
   state: California
+  website: 'https://hunter.house.gov'
   phone: 202-225-5672
   stance: support
   district: 50
@@ -826,6 +907,7 @@
   full_name: Juan Vargas
   type: Representative
   state: California
+  website: 'http://vargas.house.gov'
   phone: 202-225-8045
   stance: oppose
   district: 51
@@ -838,6 +920,7 @@
   full_name: Scott H. Peters
   type: Representative
   state: California
+  website: 'http://scottpeters.house.gov'
   phone: 202-225-0508
   stance: oppose
   district: 52
@@ -850,6 +933,7 @@
   full_name: Susan A. Davis
   type: Representative
   state: California
+  website: 'https://susandavis.house.gov'
   phone: 202-225-2040
   stance: oppose
   district: 53
@@ -862,6 +946,7 @@
   full_name: Cory Gardner
   type: Senator
   state: Colorado
+  website: 'https://www.gardner.senate.gov'
   phone: 202-224-5941
   stance: undecided
   quote_html: ''
@@ -869,6 +954,7 @@
   full_name: Michael F. Bennet
   type: Senator
   state: Colorado
+  website: 'https://www.bennet.senate.gov'
   phone: 202-224-5852
   stance: oppose
   quote_html: >
@@ -878,6 +964,7 @@
   full_name: Diana DeGette
   type: Representative
   state: Colorado
+  website: 'http://degette.house.gov'
   phone: 202-225-4431
   stance: undecided
   district: 1
@@ -886,6 +973,7 @@
   full_name: Jared Polis
   type: Representative
   state: Colorado
+  website: 'http://polis.house.gov'
   phone: 202-225-2161
   stance: undecided
   district: 2
@@ -894,6 +982,7 @@
   full_name: Scott R. Tipton
   type: Representative
   state: Colorado
+  website: 'http://tipton.house.gov'
   phone: 202-225-4761
   stance: undecided
   district: 3
@@ -902,6 +991,7 @@
   full_name: Ken Buck
   type: Representative
   state: Colorado
+  website: 'https://buck.house.gov'
   phone: 202-225-4676
   stance: undecided
   district: 4
@@ -910,6 +1000,7 @@
   full_name: Doug Lamborn
   type: Representative
   state: Colorado
+  website: 'http://lamborn.house.gov'
   phone: 202-225-4422
   stance: undecided
   district: 5
@@ -918,6 +1009,7 @@
   full_name: Mike Coffman
   type: Representative
   state: Colorado
+  website: 'http://coffman.house.gov'
   phone: 202-225-7882
   stance: undecided
   district: 6
@@ -926,6 +1018,7 @@
   full_name: Ed Perlmutter
   type: Representative
   state: Colorado
+  website: 'https://perlmutter.house.gov'
   phone: 202-225-2645
   stance: undecided
   district: 7
@@ -934,6 +1027,7 @@
   full_name: Christopher Murphy
   type: Senator
   state: Connecticut
+  website: 'https://www.murphy.senate.gov'
   phone: 202-224-4041
   stance: undecided
   quote_html: ''
@@ -941,6 +1035,7 @@
   full_name: Richard Blumenthal
   type: Senator
   state: Connecticut
+  website: 'https://www.blumenthal.senate.gov'
   phone: 202-224-2823
   stance: oppose
   quote_html: >
@@ -950,6 +1045,7 @@
   full_name: John B. Larson
   type: Representative
   state: Connecticut
+  website: 'https://larson.house.gov'
   phone: 202-225-2265
   stance: undecided
   district: 1
@@ -958,6 +1054,7 @@
   full_name: Joe Courtney
   type: Representative
   state: Connecticut
+  website: 'https://courtney.house.gov'
   phone: 202-225-2076
   stance: undecided
   district: 2
@@ -966,6 +1063,7 @@
   full_name: Rosa L. DeLauro
   type: Representative
   state: Connecticut
+  website: 'https://delauro.house.gov'
   phone: 202-225-3661
   stance: undecided
   district: 3
@@ -974,6 +1072,7 @@
   full_name: James A. Himes
   type: Representative
   state: Connecticut
+  website: 'https://himes.house.gov'
   phone: 202-225-5541
   stance: undecided
   district: 4
@@ -982,6 +1081,7 @@
   full_name: Elizabeth H. Esty
   type: Representative
   state: Connecticut
+  website: 'https://esty.house.gov'
   phone: 202-225-4476
   stance: undecided
   district: 5
@@ -990,6 +1090,7 @@
   full_name: Christopher A. Coons
   type: Senator
   state: Delaware
+  website: 'https://www.coons.senate.gov'
   phone: 202-224-5042
   stance: oppose
   quote_html: >
@@ -999,6 +1100,7 @@
   full_name: Thomas R. Carper
   type: Senator
   state: Delaware
+  website: 'http://www.carper.senate.gov/public'
   phone: 202-224-2441
   stance: undecided
   quote_html: ''
@@ -1006,6 +1108,7 @@
   full_name: Lisa Blunt Rochester
   type: Representative
   state: Delaware
+  website: 'https://bluntrochester.house.gov'
   phone: 202-225-4165
   stance: undecided
   quote_html: ''
@@ -1013,6 +1116,7 @@
   full_name: Eleanor Holmes Norton
   type: Representative
   state: District of Columbia
+  website: 'https://norton.house.gov'
   phone: 202-225-8050
   stance: undecided
   quote_html: ''
@@ -1020,6 +1124,7 @@
   full_name: Bill Nelson
   type: Senator
   state: Florida
+  website: 'https://www.billnelson.senate.gov'
   phone: 202-224-5274
   stance: undecided
   quote_html: ''
@@ -1027,6 +1132,7 @@
   full_name: Marco Rubio
   type: Senator
   state: Florida
+  website: 'http://www.rubio.senate.gov'
   phone: 202-224-3041
   stance: undecided
   quote_html: ''
@@ -1034,6 +1140,7 @@
   full_name: Matt Gaetz
   type: Representative
   state: Florida
+  website: 'https://gaetz.house.gov'
   phone: 202-225-4136
   stance: undecided
   district: 1
@@ -1042,6 +1149,7 @@
   full_name: Neal P. Dunn
   type: Representative
   state: Florida
+  website: 'https://dunn.house.gov'
   phone: 202-225-5235
   stance: undecided
   district: 2
@@ -1050,6 +1158,7 @@
   full_name: Ted S. Yoho
   type: Representative
   state: Florida
+  website: 'http://yoho.house.gov'
   phone: 202-225-5744
   stance: undecided
   district: 3
@@ -1058,6 +1167,7 @@
   full_name: John H. Rutherford
   type: Representative
   state: Florida
+  website: 'https://rutherford.house.gov'
   phone: 202-225-2501
   stance: undecided
   district: 4
@@ -1066,6 +1176,7 @@
   full_name: 'Al Lawson, Jr.'
   type: Representative
   state: Florida
+  website: 'https://lawson.house.gov'
   phone: 202-225-0123
   stance: undecided
   district: 5
@@ -1074,6 +1185,7 @@
   full_name: Ron DeSantis
   type: Representative
   state: Florida
+  website: 'http://desantis.house.gov'
   phone: 202-225-2706
   stance: undecided
   district: 6
@@ -1082,6 +1194,7 @@
   full_name: Stephanie N. Murphy
   type: Representative
   state: Florida
+  website: 'https://stephaniemurphy.house.gov'
   phone: 202-225-4035
   stance: undecided
   district: 7
@@ -1090,6 +1203,7 @@
   full_name: Bill Posey
   type: Representative
   state: Florida
+  website: 'http://posey.house.gov'
   phone: 202-225-3671
   stance: undecided
   district: 8
@@ -1098,6 +1212,7 @@
   full_name: Darren Soto
   type: Representative
   state: Florida
+  website: 'https://soto.house.gov'
   phone: 202-225-9889
   stance: undecided
   district: 9
@@ -1106,6 +1221,7 @@
   full_name: Val Butler Demings
   type: Representative
   state: Florida
+  website: 'https://demings.house.gov'
   phone: 202-225-2176
   stance: undecided
   district: 10
@@ -1114,6 +1230,7 @@
   full_name: Daniel Webster
   type: Representative
   state: Florida
+  website: 'http://webster.house.gov'
   phone: 202-225-1002
   stance: undecided
   district: 11
@@ -1122,6 +1239,7 @@
   full_name: Gus M. Bilirakis
   type: Representative
   state: Florida
+  website: 'https://bilirakis.house.gov'
   phone: 202-225-5755
   stance: undecided
   district: 12
@@ -1130,6 +1248,7 @@
   full_name: Charlie Crist
   type: Representative
   state: Florida
+  website: 'https://crist.house.gov'
   phone: 202-225-5961
   stance: undecided
   district: 13
@@ -1138,6 +1257,7 @@
   full_name: Kathy Castor
   type: Representative
   state: Florida
+  website: 'http://castor.house.gov'
   phone: 202-225-3376
   stance: undecided
   district: 14
@@ -1146,6 +1266,7 @@
   full_name: Dennis A. Ross
   type: Representative
   state: Florida
+  website: 'http://dennisross.house.gov'
   phone: 202-225-1252
   stance: undecided
   district: 15
@@ -1154,6 +1275,7 @@
   full_name: Vern Buchanan
   type: Representative
   state: Florida
+  website: 'https://buchanan.house.gov'
   phone: 202-225-5015
   stance: undecided
   district: 16
@@ -1162,6 +1284,7 @@
   full_name: Thomas J. Rooney
   type: Representative
   state: Florida
+  website: 'https://rooney.house.gov'
   phone: 202-225-5792
   stance: undecided
   district: 17
@@ -1170,6 +1293,7 @@
   full_name: Brian J. Mast
   type: Representative
   state: Florida
+  website: 'https://mast.house.gov'
   phone: 202-225-3026
   stance: undecided
   district: 18
@@ -1178,6 +1302,7 @@
   full_name: Francis Rooney
   type: Representative
   state: Florida
+  website: 'https://francisrooney.house.gov'
   phone: 202-225-2536
   stance: undecided
   district: 19
@@ -1186,6 +1311,7 @@
   full_name: Alcee L. Hastings
   type: Representative
   state: Florida
+  website: 'http://alceehastings.house.gov'
   phone: 202-225-1313
   stance: undecided
   district: 20
@@ -1194,6 +1320,7 @@
   full_name: Lois Frankel
   type: Representative
   state: Florida
+  website: 'http://frankel.house.gov'
   phone: 202-225-9890
   stance: undecided
   district: 21
@@ -1202,6 +1329,7 @@
   full_name: Theodore E. Deutch
   type: Representative
   state: Florida
+  website: 'http://teddeutch.house.gov'
   phone: 202-225-3001
   stance: undecided
   district: 22
@@ -1210,6 +1338,7 @@
   full_name: Debbie Wasserman Schultz
   type: Representative
   state: Florida
+  website: 'https://wassermanschultz.house.gov'
   phone: 202-225-7931
   stance: undecided
   district: 23
@@ -1218,6 +1347,7 @@
   full_name: Frederica S. Wilson
   type: Representative
   state: Florida
+  website: 'https://wilson.house.gov'
   phone: 202-225-4506
   stance: undecided
   district: 24
@@ -1226,6 +1356,7 @@
   full_name: Mario Diaz-Balart
   type: Representative
   state: Florida
+  website: 'http://mariodiazbalart.house.gov'
   phone: 202-225-4211
   stance: undecided
   district: 25
@@ -1234,6 +1365,7 @@
   full_name: Carlos Curbelo
   type: Representative
   state: Florida
+  website: 'http://curbelo.house.gov'
   phone: 202-225-2778
   stance: undecided
   district: 26
@@ -1242,6 +1374,7 @@
   full_name: Ileana Ros-Lehtinen
   type: Representative
   state: Florida
+  website: 'http://ros-lehtinen.house.gov'
   phone: 202-225-3931
   stance: undecided
   district: 27
@@ -1250,6 +1383,7 @@
   full_name: David Perdue
   type: Senator
   state: Georgia
+  website: 'http://www.perdue.senate.gov'
   phone: 202-224-3521
   stance: undecided
   quote_html: ''
@@ -1257,6 +1391,7 @@
   full_name: Johnny Isakson
   type: Senator
   state: Georgia
+  website: 'http://www.isakson.senate.gov'
   phone: 202-224-3643
   stance: undecided
   quote_html: ''
@@ -1264,6 +1399,7 @@
   full_name: Earl L. "Buddy" Carter
   type: Representative
   state: Georgia
+  website: 'http://buddycarter.house.gov'
   phone: 202-225-5831
   stance: undecided
   district: 1
@@ -1272,6 +1408,7 @@
   full_name: 'Sanford D. Bishop, Jr.'
   type: Representative
   state: Georgia
+  website: 'http://bishop.house.gov'
   phone: 202-225-3631
   stance: undecided
   district: 2
@@ -1280,6 +1417,7 @@
   full_name: A. Drew Ferguson IV
   type: Representative
   state: Georgia
+  website: 'https://ferguson.house.gov'
   phone: 202-225-5901
   stance: undecided
   district: 3
@@ -1288,6 +1426,7 @@
   full_name: 'Henry C. "Hank" Johnson, Jr.'
   type: Representative
   state: Georgia
+  website: 'https://hankjohnson.house.gov'
   phone: 202-225-1605
   stance: undecided
   district: 4
@@ -1296,6 +1435,7 @@
   full_name: John Lewis
   type: Representative
   state: Georgia
+  website: 'https://johnlewis.house.gov'
   phone: 202-225-3801
   stance: oppose
   district: 5
@@ -1306,6 +1446,7 @@
   full_name: Tom Price
   type: Representative
   state: Georgia
+  website: 'https://tomprice.house.gov'
   phone: 202-225-4501
   stance: undecided
   district: 6
@@ -1314,6 +1455,7 @@
   full_name: Rob Woodall
   type: Representative
   state: Georgia
+  website: 'https://woodall.house.gov'
   phone: 202-225-4272
   stance: undecided
   district: 7
@@ -1322,6 +1464,7 @@
   full_name: Austin Scott
   type: Representative
   state: Georgia
+  website: 'https://austinscott.house.gov'
   phone: 202-225-6531
   stance: undecided
   district: 8
@@ -1330,6 +1473,7 @@
   full_name: Doug Collins
   type: Representative
   state: Georgia
+  website: 'https://dougcollins.house.gov'
   phone: 202-225-9893
   stance: undecided
   district: 9
@@ -1338,6 +1482,7 @@
   full_name: Jody B. Hice
   type: Representative
   state: Georgia
+  website: 'https://hice.house.gov'
   phone: 202-225-4101
   stance: undecided
   district: 10
@@ -1346,6 +1491,7 @@
   full_name: Barry Loudermilk
   type: Representative
   state: Georgia
+  website: 'http://loudermilk.house.gov'
   phone: 202-225-2931
   stance: undecided
   district: 11
@@ -1354,6 +1500,7 @@
   full_name: Rick W. Allen
   type: Representative
   state: Georgia
+  website: 'http://allen.house.gov'
   phone: 202-225-2823
   stance: undecided
   district: 12
@@ -1362,6 +1509,7 @@
   full_name: David Scott
   type: Representative
   state: Georgia
+  website: 'http://davidscott.house.gov'
   phone: 202-225-2939
   stance: undecided
   district: 13
@@ -1370,6 +1518,7 @@
   full_name: Tom Graves
   type: Representative
   state: Georgia
+  website: 'http://tomgraves.house.gov'
   phone: 202-225-5211
   stance: undecided
   district: 14
@@ -1378,6 +1527,7 @@
   full_name: Madeleine Z. Bordallo
   type: Representative
   state: Guam
+  website: 'https://bordallo.house.gov'
   phone: 202-225-1188
   stance: undecided
   quote_html: ''
@@ -1385,6 +1535,7 @@
   full_name: Brian Schatz
   type: Senator
   state: Hawaii
+  website: 'http://www.schatz.senate.gov'
   phone: 202-224-3934
   stance: undecided
   quote_html: ''
@@ -1392,6 +1543,7 @@
   full_name: Mazie K. Hirono
   type: Senator
   state: Hawaii
+  website: 'https://www.hirono.senate.gov'
   phone: 202-224-6361
   stance: oppose
   quote_html: >
@@ -1401,6 +1553,7 @@
   full_name: Colleen Hanabusa
   type: Representative
   state: Hawaii
+  website: 'https://hanabusa.house.gov'
   phone: 202-225-2726
   stance: undecided
   district: 1
@@ -1409,6 +1562,7 @@
   full_name: Tulsi Gabbard
   type: Representative
   state: Hawaii
+  website: 'https://gabbard.house.gov'
   phone: 202-225-4906
   stance: undecided
   district: 2
@@ -1417,6 +1571,7 @@
   full_name: James E. Risch
   type: Senator
   state: Idaho
+  website: 'http://www.risch.senate.gov'
   phone: 202-224-2752
   stance: undecided
   quote_html: ''
@@ -1424,6 +1579,7 @@
   full_name: Mike Crapo
   type: Senator
   state: Idaho
+  website: 'http://www.crapo.senate.gov'
   phone: 202-224-6142
   stance: undecided
   quote_html: ''
@@ -1431,6 +1587,7 @@
   full_name: Raúl R. Labrador
   type: Representative
   state: Idaho
+  website: 'https://labrador.house.gov'
   phone: 202-225-6611
   stance: undecided
   district: 1
@@ -1439,6 +1596,7 @@
   full_name: Michael K. Simpson
   type: Representative
   state: Idaho
+  website: 'http://simpson.house.gov'
   phone: 202-225-5531
   stance: undecided
   district: 2
@@ -1447,6 +1605,7 @@
   full_name: Richard J. Durbin
   type: Senator
   state: Illinois
+  website: 'http://www.durbin.senate.gov'
   phone: 202-224-2152
   stance: undecided
   quote_html: ''
@@ -1454,6 +1613,7 @@
   full_name: Tammy Duckworth
   type: Senator
   state: Illinois
+  website: 'https://www.duckworth.senate.gov'
   phone: 202-224-2854
   stance: undecided
   quote_html: ''
@@ -1461,6 +1621,7 @@
   full_name: Bobby L. Rush
   type: Representative
   state: Illinois
+  website: 'http://rush.house.gov'
   phone: 202-225-4372
   stance: undecided
   district: 1
@@ -1469,6 +1630,7 @@
   full_name: Robin L. Kelly
   type: Representative
   state: Illinois
+  website: 'https://robinkelly.house.gov'
   phone: 202-225-0773
   stance: undecided
   district: 2
@@ -1477,6 +1639,7 @@
   full_name: Daniel Lipinski
   type: Representative
   state: Illinois
+  website: 'https://lipinski.house.gov'
   phone: 202-225-5701
   stance: undecided
   district: 3
@@ -1485,6 +1648,7 @@
   full_name: Luis V. Gutiérrez
   type: Representative
   state: Illinois
+  website: 'https://gutierrez.house.gov'
   phone: 202-225-8203
   stance: undecided
   district: 4
@@ -1493,6 +1657,7 @@
   full_name: Mike Quigley
   type: Representative
   state: Illinois
+  website: 'https://quigley.house.gov'
   phone: 202-225-4061
   stance: undecided
   district: 5
@@ -1501,6 +1666,7 @@
   full_name: Peter J. Roskam
   type: Representative
   state: Illinois
+  website: 'https://roskam.house.gov'
   phone: 202-225-4561
   stance: undecided
   district: 6
@@ -1509,6 +1675,7 @@
   full_name: Danny K. Davis
   type: Representative
   state: Illinois
+  website: 'https://davis.house.gov'
   phone: 202-225-5006
   stance: undecided
   district: 7
@@ -1517,6 +1684,7 @@
   full_name: Raja Krishnamoorthi
   type: Representative
   state: Illinois
+  website: 'https://krishnamoorthi.house.gov'
   phone: 202-225-3711
   stance: undecided
   district: 8
@@ -1525,6 +1693,7 @@
   full_name: Janice D. Schakowsky
   type: Representative
   state: Illinois
+  website: 'https://schakowsky.house.gov'
   phone: 202-225-2111
   stance: undecided
   district: 9
@@ -1533,6 +1702,7 @@
   full_name: Bradley Scott Schneider
   type: Representative
   state: Illinois
+  website: 'https://schneider.house.gov'
   phone: 202-225-4835
   stance: undecided
   district: 10
@@ -1541,6 +1711,7 @@
   full_name: Bill Foster
   type: Representative
   state: Illinois
+  website: 'http://foster.house.gov'
   phone: 202-225-3515
   stance: undecided
   district: 11
@@ -1549,6 +1720,7 @@
   full_name: Mike Bost
   type: Representative
   state: Illinois
+  website: 'https://bost.house.gov'
   phone: 202-225-5661
   stance: undecided
   district: 12
@@ -1557,6 +1729,7 @@
   full_name: Rodney Davis
   type: Representative
   state: Illinois
+  website: 'http://rodneydavis.house.gov'
   phone: 202-225-2371
   stance: undecided
   district: 13
@@ -1565,6 +1738,7 @@
   full_name: Randy Hultgren
   type: Representative
   state: Illinois
+  website: 'http://hultgren.house.gov'
   phone: 202-225-2976
   stance: undecided
   district: 14
@@ -1573,6 +1747,7 @@
   full_name: John Shimkus
   type: Representative
   state: Illinois
+  website: 'https://shimkus.house.gov'
   phone: 202-225-5271
   stance: undecided
   district: 15
@@ -1581,6 +1756,7 @@
   full_name: Adam Kinzinger
   type: Representative
   state: Illinois
+  website: 'http://kinzinger.house.gov'
   phone: 202-225-3635
   stance: undecided
   district: 16
@@ -1589,6 +1765,7 @@
   full_name: Cheri Bustos
   type: Representative
   state: Illinois
+  website: 'https://bustos.house.gov'
   phone: 202-225-5905
   stance: undecided
   district: 17
@@ -1597,6 +1774,7 @@
   full_name: Darin LaHood
   type: Representative
   state: Illinois
+  website: 'https://lahood.house.gov'
   phone: 202-225-6201
   stance: undecided
   district: 18
@@ -1605,6 +1783,7 @@
   full_name: Joe Donnelly
   type: Senator
   state: Indiana
+  website: 'http://www.donnelly.senate.gov'
   phone: 202-224-4814
   stance: oppose
   quote_html: >
@@ -1614,6 +1793,7 @@
   full_name: Todd Young
   type: Senator
   state: Indiana
+  website: 'https://www.young.senate.gov'
   phone: 202-224-5623
   stance: undecided
   quote_html: ''
@@ -1621,6 +1801,7 @@
   full_name: Peter J. Visclosky
   type: Representative
   state: Indiana
+  website: 'https://visclosky.house.gov'
   phone: 202-225-2461
   stance: undecided
   district: 1
@@ -1629,6 +1810,7 @@
   full_name: Jackie Walorski
   type: Representative
   state: Indiana
+  website: 'http://walorski.house.gov'
   phone: 202-225-3915
   stance: undecided
   district: 2
@@ -1637,6 +1819,7 @@
   full_name: Jim Banks
   type: Representative
   state: Indiana
+  website: 'https://banks.house.gov'
   phone: 202-225-4436
   stance: undecided
   district: 3
@@ -1645,6 +1828,7 @@
   full_name: Todd Rokita
   type: Representative
   state: Indiana
+  website: 'http://rokita.house.gov'
   phone: 202-225-5037
   stance: undecided
   district: 4
@@ -1653,6 +1837,7 @@
   full_name: Susan W. Brooks
   type: Representative
   state: Indiana
+  website: 'http://susanwbrooks.house.gov'
   phone: 202-225-2276
   stance: undecided
   district: 5
@@ -1661,6 +1846,7 @@
   full_name: Luke Messer
   type: Representative
   state: Indiana
+  website: 'https://messer.house.gov'
   phone: 202-225-3021
   stance: undecided
   district: 6
@@ -1669,6 +1855,7 @@
   full_name: André Carson
   type: Representative
   state: Indiana
+  website: 'http://carson.house.gov'
   phone: 202-225-4011
   stance: undecided
   district: 7
@@ -1677,6 +1864,7 @@
   full_name: Larry Bucshon
   type: Representative
   state: Indiana
+  website: 'https://bucshon.house.gov'
   phone: 202-225-4636
   stance: undecided
   district: 8
@@ -1685,6 +1873,7 @@
   full_name: Trey Hollingsworth
   type: Representative
   state: Indiana
+  website: 'https://hollingsworth.house.gov'
   phone: 202-225-5315
   stance: undecided
   district: 9
@@ -1693,6 +1882,7 @@
   full_name: Chuck Grassley
   type: Senator
   state: Iowa
+  website: 'http://www.grassley.senate.gov'
   phone: 202-224-3744
   stance: undecided
   quote_html: ''
@@ -1700,6 +1890,7 @@
   full_name: Joni Ernst
   type: Senator
   state: Iowa
+  website: 'http://www.ernst.senate.gov/public'
   phone: 202-224-3254
   stance: undecided
   quote_html: ''
@@ -1707,6 +1898,7 @@
   full_name: Rod Blum
   type: Representative
   state: Iowa
+  website: 'https://blum.house.gov'
   phone: 202-225-2911
   stance: undecided
   district: 1
@@ -1715,6 +1907,7 @@
   full_name: David Loebsack
   type: Representative
   state: Iowa
+  website: 'http://loebsack.house.gov'
   phone: 202-225-6576
   stance: undecided
   district: 2
@@ -1723,6 +1916,7 @@
   full_name: David Young
   type: Representative
   state: Iowa
+  website: 'https://davidyoung.house.gov'
   phone: 202-225-5476
   stance: undecided
   district: 3
@@ -1731,6 +1925,7 @@
   full_name: Steve King
   type: Representative
   state: Iowa
+  website: 'https://steveking.house.gov'
   phone: 202-225-4426
   stance: undecided
   district: 4
@@ -1739,6 +1934,7 @@
   full_name: Jerry Moran
   type: Senator
   state: Kansas
+  website: 'http://www.moran.senate.gov'
   phone: 202-224-6521
   stance: undecided
   quote_html: ''
@@ -1746,6 +1942,7 @@
   full_name: Pat Roberts
   type: Senator
   state: Kansas
+  website: 'http://www.roberts.senate.gov'
   phone: 202-224-4774
   stance: undecided
   quote_html: ''
@@ -1753,6 +1950,7 @@
   full_name: Roger W. Marshall
   type: Representative
   state: Kansas
+  website: 'https://marshall.house.gov'
   phone: 202-225-2715
   stance: undecided
   district: 1
@@ -1761,6 +1959,7 @@
   full_name: Lynn Jenkins
   type: Representative
   state: Kansas
+  website: 'https://lynnjenkins.house.gov'
   phone: 202-225-6601
   stance: undecided
   district: 2
@@ -1769,6 +1968,7 @@
   full_name: Kevin Yoder
   type: Representative
   state: Kansas
+  website: 'http://yoder.house.gov'
   phone: 202-225-2865
   stance: undecided
   district: 3
@@ -1777,6 +1977,7 @@
   full_name: Mitch McConnell
   type: Senator
   state: Kentucky
+  website: 'http://www.mcconnell.senate.gov'
   phone: 202-224-2541
   stance: undecided
   quote_html: ''
@@ -1784,6 +1985,7 @@
   full_name: Rand Paul
   type: Senator
   state: Kentucky
+  website: 'https://www.paul.senate.gov'
   phone: 202-224-4343
   stance: undecided
   quote_html: ''
@@ -1791,6 +1993,7 @@
   full_name: James Comer
   type: Representative
   state: Kentucky
+  website: 'https://comer.house.gov'
   phone: 202-225-3115
   stance: undecided
   district: 1
@@ -1799,6 +2002,7 @@
   full_name: Brett Guthrie
   type: Representative
   state: Kentucky
+  website: 'https://guthrie.house.gov'
   phone: 202-225-3501
   stance: undecided
   district: 2
@@ -1807,6 +2011,7 @@
   full_name: John A. Yarmuth
   type: Representative
   state: Kentucky
+  website: 'https://yarmuth.house.gov'
   phone: 202-225-5401
   stance: undecided
   district: 3
@@ -1815,6 +2020,7 @@
   full_name: Thomas Massie
   type: Representative
   state: Kentucky
+  website: 'https://massie.house.gov'
   phone: 202-225-3465
   stance: undecided
   district: 4
@@ -1823,6 +2029,7 @@
   full_name: Harold Rogers
   type: Representative
   state: Kentucky
+  website: 'http://halrogers.house.gov'
   phone: 202-225-4601
   stance: undecided
   district: 5
@@ -1831,6 +2038,7 @@
   full_name: Andy Barr
   type: Representative
   state: Kentucky
+  website: 'https://barr.house.gov'
   phone: 202-225-4706
   stance: undecided
   district: 6
@@ -1839,6 +2047,7 @@
   full_name: Bill Cassidy
   type: Senator
   state: Louisiana
+  website: 'http://www.cassidy.senate.gov'
   phone: 202-224-5824
   stance: undecided
   quote_html: ''
@@ -1846,6 +2055,7 @@
   full_name: John Kennedy
   type: Senator
   state: Louisiana
+  website: 'https://www.kennedy.senate.gov'
   phone: 202-224-4623
   stance: undecided
   quote_html: ''
@@ -1853,6 +2063,7 @@
   full_name: Steve Scalise
   type: Representative
   state: Louisiana
+  website: 'http://scalise.house.gov'
   phone: 202-225-3015
   stance: undecided
   district: 1
@@ -1861,6 +2072,7 @@
   full_name: Cedric L. Richmond
   type: Representative
   state: Louisiana
+  website: 'https://richmond.house.gov'
   phone: 202-225-6636
   stance: undecided
   district: 2
@@ -1869,6 +2081,7 @@
   full_name: Clay Higgins
   type: Representative
   state: Louisiana
+  website: 'https://clayhiggins.house.gov'
   phone: 202-225-2031
   stance: undecided
   district: 3
@@ -1877,6 +2090,7 @@
   full_name: Mike Johnson
   type: Representative
   state: Louisiana
+  website: 'https://mikejohnson.house.gov'
   phone: 202-225-2777
   stance: undecided
   district: 4
@@ -1885,6 +2099,7 @@
   full_name: Ralph Lee Abraham
   type: Representative
   state: Louisiana
+  website: 'https://abraham.house.gov'
   phone: 202-225-8490
   stance: undecided
   district: 5
@@ -1893,6 +2108,7 @@
   full_name: Garret Graves
   type: Representative
   state: Louisiana
+  website: 'https://garretgraves.house.gov'
   phone: 202-225-3901
   stance: undecided
   district: 6
@@ -1901,6 +2117,7 @@
   full_name: 'Angus S. King, Jr.'
   type: Senator
   state: Maine
+  website: 'http://www.king.senate.gov'
   phone: 202-224-5344
   stance: undecided
   quote_html: ''
@@ -1908,6 +2125,7 @@
   full_name: Susan M. Collins
   type: Senator
   state: Maine
+  website: 'https://www.collins.senate.gov'
   phone: 202-224-2523
   stance: undecided
   quote_html: ''
@@ -1915,6 +2133,7 @@
   full_name: Chellie Pingree
   type: Representative
   state: Maine
+  website: 'https://pingree.house.gov'
   phone: 202-225-6116
   stance: undecided
   district: 1
@@ -1923,6 +2142,7 @@
   full_name: Bruce Poliquin
   type: Representative
   state: Maine
+  website: 'https://poliquin.house.gov'
   phone: 202-225-6306
   stance: undecided
   district: 2
@@ -1931,6 +2151,7 @@
   full_name: Benjamin L. Cardin
   type: Senator
   state: Maryland
+  website: 'https://www.cardin.senate.gov'
   phone: 202-224-4524
   stance: undecided
   quote_html: ''
@@ -1938,6 +2159,7 @@
   full_name: Chris Van Hollen
   type: Senator
   state: Maryland
+  website: 'https://www.vanhollen.senate.gov'
   phone: 202-224-4654
   stance: undecided
   quote_html: ''
@@ -1945,6 +2167,7 @@
   full_name: Andy Harris
   type: Representative
   state: Maryland
+  website: 'http://harris.house.gov'
   phone: 202-225-5311
   stance: undecided
   district: 1
@@ -1953,6 +2176,7 @@
   full_name: C. A. Dutch Ruppersberger
   type: Representative
   state: Maryland
+  website: 'http://ruppersberger.house.gov'
   phone: 202-225-3061
   stance: undecided
   district: 2
@@ -1961,6 +2185,7 @@
   full_name: John P. Sarbanes
   type: Representative
   state: Maryland
+  website: 'https://sarbanes.house.gov'
   phone: 202-225-4016
   stance: undecided
   district: 3
@@ -1969,6 +2194,7 @@
   full_name: Anthony G. Brown
   type: Representative
   state: Maryland
+  website: 'https://anthonybrown.house.gov'
   phone: 202-225-8699
   stance: undecided
   district: 4
@@ -1977,6 +2203,7 @@
   full_name: Steny H. Hoyer
   type: Representative
   state: Maryland
+  website: 'https://hoyer.house.gov'
   phone: 202-225-4131
   stance: undecided
   district: 5
@@ -1985,6 +2212,7 @@
   full_name: John K. Delaney
   type: Representative
   state: Maryland
+  website: 'http://delaney.house.gov'
   phone: 202-225-2721
   stance: undecided
   district: 6
@@ -1993,6 +2221,7 @@
   full_name: Elijah E. Cummings
   type: Representative
   state: Maryland
+  website: 'https://cummings.house.gov'
   phone: 202-225-4741
   stance: undecided
   district: 7
@@ -2001,6 +2230,7 @@
   full_name: Jamie Raskin
   type: Representative
   state: Maryland
+  website: 'https://raskin.house.gov'
   phone: 202-225-5341
   stance: oppose
   district: 8
@@ -2011,6 +2241,7 @@
   full_name: Edward J. Markey
   type: Senator
   state: Massachusetts
+  website: 'http://www.markey.senate.gov'
   phone: 202-224-2742
   stance: undecided
   quote_html: ''
@@ -2018,6 +2249,7 @@
   full_name: Elizabeth Warren
   type: Senator
   state: Massachusetts
+  website: 'http://www.warren.senate.gov'
   phone: 202-224-4543
   stance: oppose
   quote_html: >
@@ -2027,6 +2259,7 @@
   full_name: Richard E. Neal
   type: Representative
   state: Massachusetts
+  website: 'https://neal.house.gov'
   phone: 202-225-5601
   stance: undecided
   district: 1
@@ -2035,6 +2268,7 @@
   full_name: James P. McGovern
   type: Representative
   state: Massachusetts
+  website: 'http://mcgovern.house.gov'
   phone: 202-225-6101
   stance: undecided
   district: 2
@@ -2043,6 +2277,7 @@
   full_name: Niki Tsongas
   type: Representative
   state: Massachusetts
+  website: 'https://tsongas.house.gov'
   phone: 202-225-3411
   stance: undecided
   district: 3
@@ -2051,6 +2286,7 @@
   full_name: Joseph P. Kennedy III
   type: Representative
   state: Massachusetts
+  website: 'https://kennedy.house.gov'
   phone: 202-225-5931
   stance: undecided
   district: 4
@@ -2059,6 +2295,7 @@
   full_name: Katherine M. Clark
   type: Representative
   state: Massachusetts
+  website: 'https://katherineclark.house.gov'
   phone: 202-225-2836
   stance: undecided
   district: 5
@@ -2067,6 +2304,7 @@
   full_name: Seth Moulton
   type: Representative
   state: Massachusetts
+  website: 'http://moulton.house.gov'
   phone: 202-225-8020
   stance: undecided
   district: 6
@@ -2075,6 +2313,7 @@
   full_name: Michael E. Capuano
   type: Representative
   state: Massachusetts
+  website: 'http://capuano.house.gov'
   phone: 202-225-5111
   stance: undecided
   district: 7
@@ -2083,6 +2322,7 @@
   full_name: Stephen F. Lynch
   type: Representative
   state: Massachusetts
+  website: 'http://lynch.house.gov'
   phone: 202-225-8273
   stance: undecided
   district: 8
@@ -2091,6 +2331,7 @@
   full_name: William R. Keating
   type: Representative
   state: Massachusetts
+  website: 'https://keating.house.gov'
   phone: 202-225-3111
   stance: undecided
   district: 9
@@ -2099,6 +2340,7 @@
   full_name: Debbie Stabenow
   type: Senator
   state: Michigan
+  website: 'http://www.stabenow.senate.gov'
   phone: 202-224-4822
   stance: undecided
   quote_html: ''
@@ -2106,6 +2348,7 @@
   full_name: Gary C. Peters
   type: Senator
   state: Michigan
+  website: 'https://www.peters.senate.gov'
   phone: 202-224-6221
   stance: undecided
   quote_html: ''
@@ -2113,6 +2356,7 @@
   full_name: Jack Bergman
   type: Representative
   state: Michigan
+  website: 'https://bergman.house.gov'
   phone: 202-225-4735
   stance: undecided
   district: 1
@@ -2121,6 +2365,7 @@
   full_name: Bill Huizenga
   type: Representative
   state: Michigan
+  website: 'http://huizenga.house.gov'
   phone: 202-225-4401
   stance: undecided
   district: 2
@@ -2129,6 +2374,7 @@
   full_name: Justin Amash
   type: Representative
   state: Michigan
+  website: 'http://amash.house.gov'
   phone: 202-225-3831
   stance: undecided
   district: 3
@@ -2137,6 +2383,7 @@
   full_name: John R. Moolenaar
   type: Representative
   state: Michigan
+  website: 'https://moolenaar.house.gov'
   phone: 202-225-3561
   stance: undecided
   district: 4
@@ -2145,6 +2392,7 @@
   full_name: Daniel T. Kildee
   type: Representative
   state: Michigan
+  website: 'http://dankildee.house.gov'
   phone: 202-225-3611
   stance: undecided
   district: 5
@@ -2153,6 +2401,7 @@
   full_name: Fred Upton
   type: Representative
   state: Michigan
+  website: 'http://upton.house.gov'
   phone: 202-225-3761
   stance: undecided
   district: 6
@@ -2161,6 +2410,7 @@
   full_name: Tim Walberg
   type: Representative
   state: Michigan
+  website: 'http://walberg.house.gov'
   phone: 202-225-6276
   stance: undecided
   district: 7
@@ -2169,6 +2419,7 @@
   full_name: Mike Bishop
   type: Representative
   state: Michigan
+  website: 'https://mikebishop.house.gov'
   phone: 202-225-4872
   stance: undecided
   district: 8
@@ -2177,6 +2428,7 @@
   full_name: Sander M. Levin
   type: Representative
   state: Michigan
+  website: 'http://levin.house.gov'
   phone: 202-225-4961
   stance: undecided
   district: 9
@@ -2185,6 +2437,7 @@
   full_name: Paul Mitchell
   type: Representative
   state: Michigan
+  website: 'https://mitchell.house.gov'
   phone: 202-225-2106
   stance: undecided
   district: 10
@@ -2193,6 +2446,7 @@
   full_name: David A. Trott
   type: Representative
   state: Michigan
+  website: 'https://trott.house.gov'
   phone: 202-225-8171
   stance: undecided
   district: 11
@@ -2201,6 +2455,7 @@
   full_name: Debbie Dingell
   type: Representative
   state: Michigan
+  website: 'https://debbiedingell.house.gov'
   phone: 202-225-4071
   stance: undecided
   district: 12
@@ -2209,6 +2464,7 @@
   full_name: 'John Conyers, Jr.'
   type: Representative
   state: Michigan
+  website: 'https://conyers.house.gov'
   phone: 202-225-5126
   stance: undecided
   district: 13
@@ -2217,6 +2473,7 @@
   full_name: Brenda L. Lawrence
   type: Representative
   state: Michigan
+  website: 'https://lawrence.house.gov'
   phone: 202-225-5802
   stance: undecided
   district: 14
@@ -2225,6 +2482,7 @@
   full_name: Al Franken
   type: Senator
   state: Minnesota
+  website: 'https://www.franken.senate.gov'
   phone: 202-224-5641
   stance: undecided
   quote_html: ''
@@ -2232,6 +2490,7 @@
   full_name: Amy Klobuchar
   type: Senator
   state: Minnesota
+  website: 'http://www.klobuchar.senate.gov'
   phone: 202-224-3244
   stance: oppose
   quote_html: >
@@ -2241,6 +2500,7 @@
   full_name: Timothy J. Walz
   type: Representative
   state: Minnesota
+  website: 'https://walz.house.gov'
   phone: 202-225-2472
   stance: undecided
   district: 1
@@ -2249,6 +2509,7 @@
   full_name: Jason Lewis
   type: Representative
   state: Minnesota
+  website: 'https://jasonlewis.house.gov'
   phone: 202-225-2271
   stance: undecided
   district: 2
@@ -2257,6 +2518,7 @@
   full_name: Erik Paulsen
   type: Representative
   state: Minnesota
+  website: 'https://paulsen.house.gov'
   phone: 202-225-2871
   stance: undecided
   district: 3
@@ -2265,6 +2527,7 @@
   full_name: Betty McCollum
   type: Representative
   state: Minnesota
+  website: 'http://mccollum.house.gov'
   phone: 202-225-6631
   stance: undecided
   district: 4
@@ -2273,6 +2536,7 @@
   full_name: Keith Ellison
   type: Representative
   state: Minnesota
+  website: 'https://ellison.house.gov'
   phone: 202-225-4755
   stance: undecided
   district: 5
@@ -2281,6 +2545,7 @@
   full_name: Tom Emmer
   type: Representative
   state: Minnesota
+  website: 'https://emmer.house.gov'
   phone: 202-225-2331
   stance: undecided
   district: 6
@@ -2289,6 +2554,7 @@
   full_name: Collin C. Peterson
   type: Representative
   state: Minnesota
+  website: 'http://collinpeterson.house.gov'
   phone: 202-225-2165
   stance: undecided
   district: 7
@@ -2297,6 +2563,7 @@
   full_name: Richard M. Nolan
   type: Representative
   state: Minnesota
+  website: 'http://nolan.house.gov'
   phone: 202-225-6211
   stance: undecided
   district: 8
@@ -2305,6 +2572,7 @@
   full_name: Roger F. Wicker
   type: Senator
   state: Mississippi
+  website: 'http://www.wicker.senate.gov'
   phone: 202-224-6253
   stance: undecided
   quote_html: ''
@@ -2312,6 +2580,7 @@
   full_name: Thad Cochran
   type: Senator
   state: Mississippi
+  website: 'http://www.cochran.senate.gov'
   phone: 202-224-5054
   stance: undecided
   quote_html: ''
@@ -2319,6 +2588,7 @@
   full_name: Trent Kelly
   type: Representative
   state: Mississippi
+  website: 'https://trentkelly.house.gov'
   phone: 202-225-4306
   stance: undecided
   district: 1
@@ -2327,6 +2597,7 @@
   full_name: Bennie G. Thompson
   type: Representative
   state: Mississippi
+  website: 'https://benniethompson.house.gov'
   phone: 202-225-5876
   stance: undecided
   district: 2
@@ -2335,6 +2606,7 @@
   full_name: Gregg Harper
   type: Representative
   state: Mississippi
+  website: 'http://harper.house.gov'
   phone: 202-225-5031
   stance: undecided
   district: 3
@@ -2343,6 +2615,7 @@
   full_name: Steven M. Palazzo
   type: Representative
   state: Mississippi
+  website: 'http://palazzo.house.gov'
   phone: 202-225-5772
   stance: undecided
   district: 4
@@ -2351,6 +2624,7 @@
   full_name: Claire McCaskill
   type: Senator
   state: Missouri
+  website: 'https://www.mccaskill.senate.gov'
   phone: 202-224-6154
   stance: undecided
   quote_html: ''
@@ -2358,6 +2632,7 @@
   full_name: Roy Blunt
   type: Senator
   state: Missouri
+  website: 'http://www.blunt.senate.gov/public'
   phone: 202-224-5721
   stance: undecided
   quote_html: ''
@@ -2365,6 +2640,7 @@
   full_name: Wm. Lacy Clay
   type: Representative
   state: Missouri
+  website: 'https://lacyclay.house.gov'
   phone: 202-225-2406
   stance: undecided
   district: 1
@@ -2373,6 +2649,7 @@
   full_name: Ann Wagner
   type: Representative
   state: Missouri
+  website: 'http://wagner.house.gov'
   phone: 202-225-1621
   stance: undecided
   district: 2
@@ -2381,6 +2658,7 @@
   full_name: Blaine Luetkemeyer
   type: Representative
   state: Missouri
+  website: 'http://luetkemeyer.house.gov'
   phone: 202-225-2956
   stance: undecided
   district: 3
@@ -2389,6 +2667,7 @@
   full_name: Vicky Hartzler
   type: Representative
   state: Missouri
+  website: 'https://hartzler.house.gov'
   phone: 202-225-2876
   stance: undecided
   district: 4
@@ -2397,6 +2676,7 @@
   full_name: Emanuel Cleaver
   type: Representative
   state: Missouri
+  website: 'http://cleaver.house.gov'
   phone: 202-225-4535
   stance: undecided
   district: 5
@@ -2405,6 +2685,7 @@
   full_name: Sam Graves
   type: Representative
   state: Missouri
+  website: 'https://graves.house.gov'
   phone: 202-225-7041
   stance: undecided
   district: 6
@@ -2413,6 +2694,7 @@
   full_name: Billy Long
   type: Representative
   state: Missouri
+  website: 'https://long.house.gov'
   phone: 202-225-6536
   stance: undecided
   district: 7
@@ -2421,6 +2703,7 @@
   full_name: Jason Smith
   type: Representative
   state: Missouri
+  website: 'https://jasonsmith.house.gov'
   phone: 202-225-4404
   stance: undecided
   district: 8
@@ -2429,6 +2712,7 @@
   full_name: Jon Tester
   type: Senator
   state: Montana
+  website: 'http://www.tester.senate.gov'
   phone: 202-224-2644
   stance: undecided
   quote_html: ''
@@ -2436,6 +2720,7 @@
   full_name: Steve Daines
   type: Senator
   state: Montana
+  website: 'https://www.daines.senate.gov'
   phone: 202-224-2651
   stance: undecided
   quote_html: ''
@@ -2443,6 +2728,7 @@
   full_name: Ryan K. Zinke
   type: Representative
   state: Montana
+  website: 'https://zinke.house.gov'
   phone: 202-225-3211
   stance: undecided
   quote_html: ''
@@ -2450,6 +2736,7 @@
   full_name: Ben Sasse
   type: Senator
   state: Nebraska
+  website: 'http://www.sasse.senate.gov/public'
   phone: 202-224-4224
   stance: undecided
   quote_html: ''
@@ -2457,6 +2744,7 @@
   full_name: Deb Fischer
   type: Senator
   state: Nebraska
+  website: 'http://www.fischer.senate.gov'
   phone: 202-224-6551
   stance: undecided
   quote_html: ''
@@ -2464,6 +2752,7 @@
   full_name: Jeff Fortenberry
   type: Representative
   state: Nebraska
+  website: 'https://fortenberry.house.gov'
   phone: 202-225-4806
   stance: undecided
   district: 1
@@ -2472,6 +2761,7 @@
   full_name: Don Bacon
   type: Representative
   state: Nebraska
+  website: 'https://bacon.house.gov'
   phone: 202-225-4155
   stance: undecided
   district: 2
@@ -2480,6 +2770,7 @@
   full_name: Adrian Smith
   type: Representative
   state: Nebraska
+  website: 'http://adriansmith.house.gov'
   phone: 202-225-6435
   stance: undecided
   district: 3
@@ -2488,6 +2779,7 @@
   full_name: Catherine Cortez Masto
   type: Senator
   state: Nevada
+  website: 'https://www.cortezmasto.senate.gov'
   phone: 202-224-3542
   stance: undecided
   quote_html: ''
@@ -2495,6 +2787,7 @@
   full_name: Dean Heller
   type: Senator
   state: Nevada
+  website: 'http://www.heller.senate.gov/public'
   phone: 202-224-6244
   stance: undecided
   quote_html: ''
@@ -2502,6 +2795,7 @@
   full_name: Dina Titus
   type: Representative
   state: Nevada
+  website: 'https://titus.house.gov'
   phone: 202-225-5965
   stance: undecided
   district: 1
@@ -2510,6 +2804,7 @@
   full_name: Mark E. Amodei
   type: Representative
   state: Nevada
+  website: 'https://amodei.house.gov'
   phone: 202-225-6155
   stance: undecided
   district: 2
@@ -2518,6 +2813,7 @@
   full_name: Jacky Rosen
   type: Representative
   state: Nevada
+  website: 'https://rosen.house.gov'
   phone: 202-225-3252
   stance: undecided
   district: 3
@@ -2526,6 +2822,7 @@
   full_name: Ruben Kihuen
   type: Representative
   state: Nevada
+  website: 'https://kihuen.house.gov'
   phone: 202-225-9894
   stance: undecided
   district: 4
@@ -2534,6 +2831,7 @@
   full_name: Jeanne Shaheen
   type: Senator
   state: New Hampshire
+  website: 'https://www.shaheen.senate.gov'
   phone: 202-224-2841
   stance: undecided
   quote_html: ''
@@ -2541,6 +2839,7 @@
   full_name: Margaret Wood Hassan
   type: Senator
   state: New Hampshire
+  website: 'https://www.hassan.senate.gov'
   phone: 202-224-3324
   stance: undecided
   quote_html: ''
@@ -2548,6 +2847,7 @@
   full_name: Carol Shea-Porter
   type: Representative
   state: New Hampshire
+  website: 'https://shea-porter.house.gov'
   phone: 202-225-5456
   stance: undecided
   district: 1
@@ -2556,6 +2856,7 @@
   full_name: Ann M. Kuster
   type: Representative
   state: New Hampshire
+  website: 'http://kuster.house.gov'
   phone: 202-225-5206
   stance: undecided
   district: 2
@@ -2564,6 +2865,7 @@
   full_name: Cory A. Booker
   type: Senator
   state: New Jersey
+  website: 'http://www.booker.senate.gov'
   phone: 202-224-3224
   stance: undecided
   quote_html: ''
@@ -2571,6 +2873,7 @@
   full_name: Robert Menendez
   type: Senator
   state: New Jersey
+  website: 'https://www.menendez.senate.gov'
   phone: 202-224-4744
   stance: undecided
   quote_html: ''
@@ -2578,6 +2881,7 @@
   full_name: Donald Norcross
   type: Representative
   state: New Jersey
+  website: 'https://norcross.house.gov'
   phone: 202-225-6501
   stance: undecided
   district: 1
@@ -2586,6 +2890,7 @@
   full_name: Frank A. LoBiondo
   type: Representative
   state: New Jersey
+  website: 'http://lobiondo.house.gov'
   phone: 202-225-6572
   stance: undecided
   district: 2
@@ -2594,6 +2899,7 @@
   full_name: Thomas MacArthur
   type: Representative
   state: New Jersey
+  website: 'https://macarthur.house.gov'
   phone: 202-225-4765
   stance: undecided
   district: 3
@@ -2602,6 +2908,7 @@
   full_name: Christopher H. Smith
   type: Representative
   state: New Jersey
+  website: 'http://chrissmith.house.gov'
   phone: 202-225-3765
   stance: undecided
   district: 4
@@ -2610,6 +2917,7 @@
   full_name: Josh Gottheimer
   type: Representative
   state: New Jersey
+  website: 'https://gottheimer.house.gov'
   phone: 202-225-4465
   stance: undecided
   district: 5
@@ -2618,6 +2926,7 @@
   full_name: 'Frank Pallone, Jr.'
   type: Representative
   state: New Jersey
+  website: 'https://pallone.house.gov'
   phone: 202-225-4671
   stance: undecided
   district: 6
@@ -2626,6 +2935,7 @@
   full_name: Leonard Lance
   type: Representative
   state: New Jersey
+  website: 'http://lance.house.gov'
   phone: 202-225-5361
   stance: undecided
   district: 7
@@ -2634,6 +2944,7 @@
   full_name: Albio Sires
   type: Representative
   state: New Jersey
+  website: 'https://sires.house.gov'
   phone: 202-225-7919
   stance: undecided
   district: 8
@@ -2642,6 +2953,7 @@
   full_name: 'Bill Pascrell, Jr.'
   type: Representative
   state: New Jersey
+  website: 'http://pascrell.house.gov'
   phone: 202-225-5751
   stance: undecided
   district: 9
@@ -2650,6 +2962,7 @@
   full_name: 'Donald M. Payne, Jr.'
   type: Representative
   state: New Jersey
+  website: 'http://payne.house.gov'
   phone: 202-225-3436
   stance: undecided
   district: 10
@@ -2658,6 +2971,7 @@
   full_name: Rodney P. Frelinghuysen
   type: Representative
   state: New Jersey
+  website: 'https://frelinghuysen.house.gov'
   phone: 202-225-5034
   stance: undecided
   district: 11
@@ -2666,6 +2980,7 @@
   full_name: Bonnie Watson Coleman
   type: Representative
   state: New Jersey
+  website: 'https://watsoncoleman.house.gov'
   phone: 202-225-5801
   stance: undecided
   district: 12
@@ -2674,6 +2989,7 @@
   full_name: Martin Heinrich
   type: Senator
   state: New Mexico
+  website: 'http://www.heinrich.senate.gov'
   phone: 202-224-5521
   stance: undecided
   quote_html: ''
@@ -2681,6 +2997,7 @@
   full_name: Tom Udall
   type: Senator
   state: New Mexico
+  website: 'http://www.tomudall.senate.gov'
   phone: 202-224-6621
   stance: undecided
   quote_html: ''
@@ -2688,6 +3005,7 @@
   full_name: Michelle Lujan Grisham
   type: Representative
   state: New Mexico
+  website: 'https://lujangrisham.house.gov'
   phone: 202-225-6316
   stance: undecided
   district: 1
@@ -2696,6 +3014,7 @@
   full_name: Stevan Pearce
   type: Representative
   state: New Mexico
+  website: 'http://pearce.house.gov'
   phone: 202-225-2365
   stance: undecided
   district: 2
@@ -2704,6 +3023,7 @@
   full_name: Ben Ray Luján
   type: Representative
   state: New Mexico
+  website: 'https://lujan.house.gov'
   phone: 202-225-6190
   stance: undecided
   district: 3
@@ -2712,6 +3032,7 @@
   full_name: Charles E. Schumer
   type: Senator
   state: New York
+  website: 'https://www.schumer.senate.gov'
   phone: 202-224-6542
   stance: undecided
   quote_html: ''
@@ -2719,6 +3040,7 @@
   full_name: Kirsten E. Gillibrand
   type: Senator
   state: New York
+  website: 'https://www.gillibrand.senate.gov'
   phone: 202-224-4451
   stance: oppose
   quote_html: >
@@ -2728,6 +3050,7 @@
   full_name: Lee M. Zeldin
   type: Representative
   state: New York
+  website: 'https://zeldin.house.gov'
   phone: 202-225-3826
   stance: undecided
   district: 1
@@ -2736,6 +3059,7 @@
   full_name: Peter T. King
   type: Representative
   state: New York
+  website: 'http://peteking.house.gov'
   phone: 202-225-7896
   stance: undecided
   district: 2
@@ -2744,6 +3068,7 @@
   full_name: Thomas R. Suozzi
   type: Representative
   state: New York
+  website: 'https://suozzi.house.gov'
   phone: 202-225-3335
   stance: undecided
   district: 3
@@ -2752,6 +3077,7 @@
   full_name: Kathleen M. Rice
   type: Representative
   state: New York
+  website: 'http://kathleenrice.house.gov'
   phone: 202-225-5516
   stance: undecided
   district: 4
@@ -2760,6 +3086,7 @@
   full_name: Gregory W. Meeks
   type: Representative
   state: New York
+  website: 'http://meeks.house.gov'
   phone: 202-225-3461
   stance: undecided
   district: 5
@@ -2768,6 +3095,7 @@
   full_name: Grace Meng
   type: Representative
   state: New York
+  website: 'http://meng.house.gov'
   phone: 202-225-2601
   stance: undecided
   district: 6
@@ -2776,6 +3104,7 @@
   full_name: Nydia M. Velázquez
   type: Representative
   state: New York
+  website: 'https://velazquez.house.gov'
   phone: 202-225-2361
   stance: undecided
   district: 7
@@ -2784,6 +3113,7 @@
   full_name: Hakeem S. Jeffries
   type: Representative
   state: New York
+  website: 'http://jeffries.house.gov'
   phone: 202-225-5936
   stance: undecided
   district: 8
@@ -2792,6 +3122,7 @@
   full_name: Yvette D. Clarke
   type: Representative
   state: New York
+  website: 'https://clarke.house.gov'
   phone: 202-225-6231
   stance: oppose
   district: 9
@@ -2802,6 +3133,7 @@
   full_name: Jerrold Nadler
   type: Representative
   state: New York
+  website: 'http://nadler.house.gov'
   phone: 202-225-5635
   stance: undecided
   district: 10
@@ -2810,6 +3142,7 @@
   full_name: 'Daniel M. Donovan, Jr.'
   type: Representative
   state: New York
+  website: 'https://donovan.house.gov'
   phone: 202-225-3371
   stance: undecided
   district: 11
@@ -2818,6 +3151,7 @@
   full_name: Carolyn B. Maloney
   type: Representative
   state: New York
+  website: 'http://maloney.house.gov'
   phone: 202-225-7944
   stance: undecided
   district: 12
@@ -2826,6 +3160,7 @@
   full_name: Adriano Espaillat
   type: Representative
   state: New York
+  website: 'https://espaillat.house.gov'
   phone: 202-225-4365
   stance: oppose
   district: 13
@@ -2836,6 +3171,7 @@
   full_name: Joseph Crowley
   type: Representative
   state: New York
+  website: 'http://crowley.house.gov'
   phone: 202-225-3965
   stance: undecided
   district: 14
@@ -2844,6 +3180,7 @@
   full_name: José E. Serrano
   type: Representative
   state: New York
+  website: 'https://serrano.house.gov'
   phone: 202-225-4361
   stance: undecided
   district: 15
@@ -2852,6 +3189,7 @@
   full_name: Eliot L. Engel
   type: Representative
   state: New York
+  website: 'https://engel.house.gov'
   phone: 202-225-2464
   stance: undecided
   district: 16
@@ -2860,6 +3198,7 @@
   full_name: Nita M. Lowey
   type: Representative
   state: New York
+  website: 'https://lowey.house.gov'
   phone: 202-225-6506
   stance: undecided
   district: 17
@@ -2868,6 +3207,7 @@
   full_name: Sean Patrick Maloney
   type: Representative
   state: New York
+  website: 'http://seanmaloney.house.gov'
   phone: 202-225-5441
   stance: undecided
   district: 18
@@ -2876,6 +3216,7 @@
   full_name: John J. Faso
   type: Representative
   state: New York
+  website: 'https://faso.house.gov'
   phone: 202-225-5614
   stance: undecided
   district: 19
@@ -2884,6 +3225,7 @@
   full_name: Paul Tonko
   type: Representative
   state: New York
+  website: 'https://tonko.house.gov'
   phone: 202-225-5076
   stance: undecided
   district: 20
@@ -2892,6 +3234,7 @@
   full_name: Elise M. Stefanik
   type: Representative
   state: New York
+  website: 'https://stefanik.house.gov'
   phone: 202-225-4611
   stance: undecided
   district: 21
@@ -2900,6 +3243,7 @@
   full_name: Claudia Tenney
   type: Representative
   state: New York
+  website: 'https://tenney.house.gov'
   phone: 202-225-3665
   stance: undecided
   district: 22
@@ -2908,6 +3252,7 @@
   full_name: Tom Reed
   type: Representative
   state: New York
+  website: 'https://reed.house.gov'
   phone: 202-225-3161
   stance: undecided
   district: 23
@@ -2916,6 +3261,7 @@
   full_name: John Katko
   type: Representative
   state: New York
+  website: 'https://katko.house.gov'
   phone: 202-225-3701
   stance: undecided
   district: 24
@@ -2924,6 +3270,7 @@
   full_name: Louise McIntosh Slaughter
   type: Representative
   state: New York
+  website: 'https://louise.house.gov'
   phone: 202-225-3615
   stance: undecided
   district: 25
@@ -2932,6 +3279,7 @@
   full_name: Brian Higgins
   type: Representative
   state: New York
+  website: 'http://higgins.house.gov'
   phone: 202-225-3306
   stance: undecided
   district: 26
@@ -2940,6 +3288,7 @@
   full_name: Chris Collins
   type: Representative
   state: New York
+  website: 'https://chriscollins.house.gov'
   phone: 202-225-5265
   stance: undecided
   district: 27
@@ -2948,6 +3297,7 @@
   full_name: Richard Burr
   type: Senator
   state: North Carolina
+  website: 'http://www.burr.senate.gov'
   phone: 202-224-3154
   stance: undecided
   quote_html: ''
@@ -2955,6 +3305,7 @@
   full_name: Thom Tillis
   type: Senator
   state: North Carolina
+  website: 'https://www.tillis.senate.gov/public/index.cfm/home'
   phone: 202-224-6342
   stance: undecided
   quote_html: ''
@@ -2962,6 +3313,7 @@
   full_name: G. K. Butterfield
   type: Representative
   state: North Carolina
+  website: 'http://butterfield.house.gov'
   phone: 202-225-3101
   stance: undecided
   district: 1
@@ -2970,6 +3322,7 @@
   full_name: George Holding
   type: Representative
   state: North Carolina
+  website: 'http://holding.house.gov'
   phone: 202-225-3032
   stance: undecided
   district: 2
@@ -2978,6 +3331,7 @@
   full_name: Walter B. Jones
   type: Representative
   state: North Carolina
+  website: 'http://jones.house.gov'
   phone: 202-225-3415
   stance: undecided
   district: 3
@@ -2986,6 +3340,7 @@
   full_name: David E. Price
   type: Representative
   state: North Carolina
+  website: 'https://price.house.gov'
   phone: 202-225-1784
   stance: undecided
   district: 4
@@ -2994,6 +3349,7 @@
   full_name: Virginia Foxx
   type: Representative
   state: North Carolina
+  website: 'http://foxx.house.gov'
   phone: 202-225-2071
   stance: undecided
   district: 5
@@ -3002,6 +3358,7 @@
   full_name: Mark Walker
   type: Representative
   state: North Carolina
+  website: 'https://walker.house.gov'
   phone: 202-225-3065
   stance: undecided
   district: 6
@@ -3010,6 +3367,7 @@
   full_name: David Rouzer
   type: Representative
   state: North Carolina
+  website: 'https://rouzer.house.gov'
   phone: 202-225-2731
   stance: undecided
   district: 7
@@ -3018,6 +3376,7 @@
   full_name: Richard Hudson
   type: Representative
   state: North Carolina
+  website: 'https://hudson.house.gov'
   phone: 202-225-3715
   stance: undecided
   district: 8
@@ -3026,6 +3385,7 @@
   full_name: Robert Pittenger
   type: Representative
   state: North Carolina
+  website: 'https://pittenger.house.gov'
   phone: 202-225-1976
   stance: undecided
   district: 9
@@ -3034,6 +3394,7 @@
   full_name: Patrick T. McHenry
   type: Representative
   state: North Carolina
+  website: 'http://mchenry.house.gov'
   phone: 202-225-2576
   stance: undecided
   district: 10
@@ -3042,6 +3403,7 @@
   full_name: Mark Meadows
   type: Representative
   state: North Carolina
+  website: 'https://meadows.house.gov'
   phone: 202-225-6401
   stance: undecided
   district: 11
@@ -3050,6 +3412,7 @@
   full_name: Alma S. Adams
   type: Representative
   state: North Carolina
+  website: 'http://adams.house.gov'
   phone: 202-225-1510
   stance: undecided
   district: 12
@@ -3058,6 +3421,7 @@
   full_name: Ted Budd
   type: Representative
   state: North Carolina
+  website: 'https://budd.house.gov'
   phone: 202-225-4531
   stance: undecided
   district: 13
@@ -3066,6 +3430,7 @@
   full_name: Heidi Heitkamp
   type: Senator
   state: North Dakota
+  website: 'http://www.heitkamp.senate.gov/public'
   phone: 202-224-2043
   stance: undecided
   quote_html: ''
@@ -3073,6 +3438,7 @@
   full_name: John Hoeven
   type: Senator
   state: North Dakota
+  website: 'https://www.hoeven.senate.gov'
   phone: 202-224-2551
   stance: undecided
   quote_html: ''
@@ -3080,6 +3446,7 @@
   full_name: Kevin Cramer
   type: Representative
   state: North Dakota
+  website: 'http://cramer.house.gov'
   phone: 202-225-2611
   stance: undecided
   quote_html: ''
@@ -3087,6 +3454,7 @@
   full_name: Gregorio Kilili Camacho Sablan
   type: Representative
   state: Northern Mariana Islands
+  website: 'http://sablan.house.gov'
   phone: 202-225-2646
   stance: undecided
   quote_html: ''
@@ -3094,6 +3462,7 @@
   full_name: Rob Portman
   type: Senator
   state: Ohio
+  website: 'http://www.portman.senate.gov'
   phone: 202-224-3353
   stance: undecided
   quote_html: ''
@@ -3101,6 +3470,7 @@
   full_name: Sherrod Brown
   type: Senator
   state: Ohio
+  website: 'https://www.brown.senate.gov'
   phone: 202-224-2315
   stance: oppose
   quote_html: >
@@ -3110,6 +3480,7 @@
   full_name: Steve Chabot
   type: Representative
   state: Ohio
+  website: 'http://chabot.house.gov'
   phone: 202-225-2216
   stance: undecided
   district: 1
@@ -3118,6 +3489,7 @@
   full_name: Brad R. Wenstrup
   type: Representative
   state: Ohio
+  website: 'http://wenstrup.house.gov'
   phone: 202-225-3164
   stance: undecided
   district: 2
@@ -3126,6 +3498,7 @@
   full_name: Joyce Beatty
   type: Representative
   state: Ohio
+  website: 'http://beatty.house.gov'
   phone: 202-225-4324
   stance: undecided
   district: 3
@@ -3134,6 +3507,7 @@
   full_name: Jim Jordan
   type: Representative
   state: Ohio
+  website: 'http://jordan.house.gov'
   phone: 202-225-2676
   stance: undecided
   district: 4
@@ -3142,6 +3516,7 @@
   full_name: Robert E. Latta
   type: Representative
   state: Ohio
+  website: 'http://latta.house.gov'
   phone: 202-225-6405
   stance: undecided
   district: 5
@@ -3150,6 +3525,7 @@
   full_name: Bill Johnson
   type: Representative
   state: Ohio
+  website: 'http://billjohnson.house.gov'
   phone: 202-225-5705
   stance: undecided
   district: 6
@@ -3158,6 +3534,7 @@
   full_name: Bob Gibbs
   type: Representative
   state: Ohio
+  website: 'https://gibbs.house.gov'
   phone: 202-225-6265
   stance: undecided
   district: 7
@@ -3166,6 +3543,7 @@
   full_name: Warren Davidson
   type: Representative
   state: Ohio
+  website: 'https://davidson.house.gov'
   phone: 202-225-6205
   stance: undecided
   district: 8
@@ -3174,6 +3552,7 @@
   full_name: Marcy Kaptur
   type: Representative
   state: Ohio
+  website: 'https://kaptur.house.gov'
   phone: 202-225-4146
   stance: undecided
   district: 9
@@ -3182,6 +3561,7 @@
   full_name: Michael R. Turner
   type: Representative
   state: Ohio
+  website: 'https://turner.house.gov'
   phone: 202-225-6465
   stance: undecided
   district: 10
@@ -3190,6 +3570,7 @@
   full_name: Marcia L. Fudge
   type: Representative
   state: Ohio
+  website: 'https://fudge.house.gov'
   phone: 202-225-7032
   stance: undecided
   district: 11
@@ -3198,6 +3579,7 @@
   full_name: Patrick J. Tiberi
   type: Representative
   state: Ohio
+  website: 'http://tiberi.house.gov'
   phone: 202-225-5355
   stance: undecided
   district: 12
@@ -3206,6 +3588,7 @@
   full_name: Tim Ryan
   type: Representative
   state: Ohio
+  website: 'http://timryan.house.gov'
   phone: 202-225-5261
   stance: undecided
   district: 13
@@ -3214,6 +3597,7 @@
   full_name: David P. Joyce
   type: Representative
   state: Ohio
+  website: 'https://joyce.house.gov'
   phone: 202-225-5731
   stance: undecided
   district: 14
@@ -3222,6 +3606,7 @@
   full_name: Steve Stivers
   type: Representative
   state: Ohio
+  website: 'http://stivers.house.gov'
   phone: 202-225-2015
   stance: undecided
   district: 15
@@ -3230,6 +3615,7 @@
   full_name: James B. Renacci
   type: Representative
   state: Ohio
+  website: 'https://renacci.house.gov'
   phone: 202-225-3876
   stance: undecided
   district: 16
@@ -3238,6 +3624,7 @@
   full_name: James Lankford
   type: Senator
   state: Oklahoma
+  website: 'https://www.lankford.senate.gov'
   phone: 202-224-5754
   stance: undecided
   quote_html: ''
@@ -3245,6 +3632,7 @@
   full_name: James M. Inhofe
   type: Senator
   state: Oklahoma
+  website: 'http://www.inhofe.senate.gov'
   phone: 202-224-4721
   stance: undecided
   quote_html: ''
@@ -3252,6 +3640,7 @@
   full_name: Jim Bridenstine
   type: Representative
   state: Oklahoma
+  website: 'http://bridenstine.house.gov'
   phone: 202-225-2211
   stance: undecided
   district: 1
@@ -3260,6 +3649,7 @@
   full_name: Markwayne Mullin
   type: Representative
   state: Oklahoma
+  website: 'https://mullin.house.gov'
   phone: 202-225-2701
   stance: undecided
   district: 2
@@ -3268,6 +3658,7 @@
   full_name: Frank D. Lucas
   type: Representative
   state: Oklahoma
+  website: 'http://lucas.house.gov'
   phone: 202-225-5565
   stance: undecided
   district: 3
@@ -3276,6 +3667,7 @@
   full_name: Tom Cole
   type: Representative
   state: Oklahoma
+  website: 'https://cole.house.gov'
   phone: 202-225-6165
   stance: undecided
   district: 4
@@ -3284,6 +3676,7 @@
   full_name: Steve Russell
   type: Representative
   state: Oklahoma
+  website: 'https://russell.house.gov'
   phone: 202-225-2132
   stance: undecided
   district: 5
@@ -3292,6 +3685,7 @@
   full_name: Jeff Merkley
   type: Senator
   state: Oregon
+  website: 'https://www.merkley.senate.gov'
   phone: 202-224-3753
   stance: oppose
   quote_html: >
@@ -3301,6 +3695,7 @@
   full_name: Ron Wyden
   type: Senator
   state: Oregon
+  website: 'https://www.wyden.senate.gov'
   phone: 202-224-5244
   stance: undecided
   quote_html: ''
@@ -3308,6 +3703,7 @@
   full_name: Suzanne Bonamici
   type: Representative
   state: Oregon
+  website: 'http://bonamici.house.gov'
   phone: 202-225-0855
   stance: undecided
   district: 1
@@ -3316,6 +3712,7 @@
   full_name: Greg Walden
   type: Representative
   state: Oregon
+  website: 'https://walden.house.gov'
   phone: 202-225-6730
   stance: undecided
   district: 2
@@ -3324,6 +3721,7 @@
   full_name: Earl Blumenauer
   type: Representative
   state: Oregon
+  website: 'https://blumenauer.house.gov'
   phone: 202-225-4811
   stance: undecided
   district: 3
@@ -3332,6 +3730,7 @@
   full_name: Peter A. DeFazio
   type: Representative
   state: Oregon
+  website: 'http://defazio.house.gov'
   phone: 202-225-6416
   stance: undecided
   district: 4
@@ -3340,6 +3739,7 @@
   full_name: Kurt Schrader
   type: Representative
   state: Oregon
+  website: 'http://schrader.house.gov'
   phone: 202-225-5711
   stance: undecided
   district: 5
@@ -3348,6 +3748,7 @@
   full_name: Patrick J. Toomey
   type: Senator
   state: Pennsylvania
+  website: 'http://www.toomey.senate.gov'
   phone: 202-224-4254
   stance: undecided
   quote_html: ''
@@ -3355,6 +3756,7 @@
   full_name: 'Robert P. Casey, Jr.'
   type: Senator
   state: Pennsylvania
+  website: 'https://www.casey.senate.gov'
   phone: 202-224-6324
   stance: undecided
   quote_html: ''
@@ -3362,6 +3764,7 @@
   full_name: Robert A. Brady
   type: Representative
   state: Pennsylvania
+  website: 'http://brady.house.gov'
   phone: 202-225-4731
   stance: undecided
   district: 1
@@ -3370,6 +3773,7 @@
   full_name: Dwight Evans
   type: Representative
   state: Pennsylvania
+  website: 'https://evans.house.gov'
   phone: 202-225-4001
   stance: undecided
   district: 2
@@ -3378,6 +3782,7 @@
   full_name: Mike Kelly
   type: Representative
   state: Pennsylvania
+  website: 'http://kelly.house.gov'
   phone: 202-225-5406
   stance: undecided
   district: 3
@@ -3386,6 +3791,7 @@
   full_name: Scott Perry
   type: Representative
   state: Pennsylvania
+  website: 'http://perry.house.gov'
   phone: 202-225-5836
   stance: undecided
   district: 4
@@ -3394,6 +3800,7 @@
   full_name: Glenn Thompson
   type: Representative
   state: Pennsylvania
+  website: 'http://thompson.house.gov'
   phone: 202-225-5121
   stance: undecided
   district: 5
@@ -3402,6 +3809,7 @@
   full_name: Ryan A. Costello
   type: Representative
   state: Pennsylvania
+  website: 'https://costello.house.gov'
   phone: 202-225-4315
   stance: undecided
   district: 6
@@ -3410,6 +3818,7 @@
   full_name: Patrick Meehan
   type: Representative
   state: Pennsylvania
+  website: 'https://meehan.house.gov'
   phone: 202-225-2011
   stance: undecided
   district: 7
@@ -3418,6 +3827,7 @@
   full_name: Brian K. Fitzpatrick
   type: Representative
   state: Pennsylvania
+  website: 'https://brianfitzpatrick.house.gov'
   phone: 202-225-4276
   stance: undecided
   district: 8
@@ -3426,6 +3836,7 @@
   full_name: Bill Shuster
   type: Representative
   state: Pennsylvania
+  website: 'https://shuster.house.gov'
   phone: 202-225-2431
   stance: undecided
   district: 9
@@ -3434,6 +3845,7 @@
   full_name: Tom Marino
   type: Representative
   state: Pennsylvania
+  website: 'https://marino.house.gov'
   phone: 202-225-3731
   stance: undecided
   district: 10
@@ -3442,6 +3854,7 @@
   full_name: Lou Barletta
   type: Representative
   state: Pennsylvania
+  website: 'http://barletta.house.gov'
   phone: 202-225-6511
   stance: undecided
   district: 11
@@ -3450,6 +3863,7 @@
   full_name: Keith J. Rothfus
   type: Representative
   state: Pennsylvania
+  website: 'https://rothfus.house.gov'
   phone: 202-225-2065
   stance: undecided
   district: 12
@@ -3458,6 +3872,7 @@
   full_name: Brendan F. Boyle
   type: Representative
   state: Pennsylvania
+  website: 'https://boyle.house.gov'
   phone: 202-225-6111
   stance: undecided
   district: 13
@@ -3466,6 +3881,7 @@
   full_name: Michael F. Doyle
   type: Representative
   state: Pennsylvania
+  website: 'http://doyle.house.gov'
   phone: 202-225-2135
   stance: undecided
   district: 14
@@ -3474,6 +3890,7 @@
   full_name: Charles W. Dent
   type: Representative
   state: Pennsylvania
+  website: 'https://dent.house.gov'
   phone: 202-225-6411
   stance: undecided
   district: 15
@@ -3482,6 +3899,7 @@
   full_name: Lloyd Smucker
   type: Representative
   state: Pennsylvania
+  website: 'https://smucker.house.gov'
   phone: 202-225-2411
   stance: undecided
   district: 16
@@ -3490,6 +3908,7 @@
   full_name: Matt Cartwright
   type: Representative
   state: Pennsylvania
+  website: 'http://cartwright.house.gov'
   phone: 202-225-5546
   stance: undecided
   district: 17
@@ -3498,6 +3917,7 @@
   full_name: Tim Murphy
   type: Representative
   state: Pennsylvania
+  website: 'https://murphy.house.gov'
   phone: 202-225-2301
   stance: undecided
   district: 18
@@ -3506,6 +3926,7 @@
   full_name: Jenniffer González-Colón
   type: Representative
   state: Puerto Rico
+  website: 'https://gonzalez-colon.house.gov'
   phone: 202-225-2615
   stance: undecided
   quote_html: ''
@@ -3513,6 +3934,7 @@
   full_name: Jack Reed
   type: Senator
   state: Rhode Island
+  website: 'https://www.reed.senate.gov'
   phone: 202-224-4642
   stance: undecided
   quote_html: ''
@@ -3520,6 +3942,7 @@
   full_name: Sheldon Whitehouse
   type: Senator
   state: Rhode Island
+  website: 'https://www.whitehouse.senate.gov'
   phone: 202-224-2921
   stance: undecided
   quote_html: ''
@@ -3527,6 +3950,7 @@
   full_name: David N. Cicilline
   type: Representative
   state: Rhode Island
+  website: 'http://cicilline.house.gov'
   phone: 202-225-4911
   stance: undecided
   district: 1
@@ -3535,6 +3959,7 @@
   full_name: James R. Langevin
   type: Representative
   state: Rhode Island
+  website: 'http://langevin.house.gov'
   phone: 202-225-2735
   stance: undecided
   district: 2
@@ -3543,6 +3968,7 @@
   full_name: Lindsey Graham
   type: Senator
   state: South Carolina
+  website: 'http://www.lgraham.senate.gov/public'
   phone: 202-224-5972
   stance: undecided
   quote_html: ''
@@ -3550,6 +3976,7 @@
   full_name: Tim Scott
   type: Senator
   state: South Carolina
+  website: 'https://www.scott.senate.gov'
   phone: 202-224-6121
   stance: undecided
   quote_html: ''
@@ -3557,6 +3984,7 @@
   full_name: Mark Sanford
   type: Representative
   state: South Carolina
+  website: 'https://sanford.house.gov'
   phone: 202-225-3176
   stance: undecided
   district: 1
@@ -3565,6 +3993,7 @@
   full_name: Joe Wilson
   type: Representative
   state: South Carolina
+  website: 'http://joewilson.house.gov'
   phone: 202-225-2452
   stance: undecided
   district: 2
@@ -3573,6 +4002,7 @@
   full_name: Jeff Duncan
   type: Representative
   state: South Carolina
+  website: 'http://jeffduncan.house.gov'
   phone: 202-225-5301
   stance: undecided
   district: 3
@@ -3581,6 +4011,7 @@
   full_name: Trey Gowdy
   type: Representative
   state: South Carolina
+  website: 'https://gowdy.house.gov'
   phone: 202-225-6030
   stance: undecided
   district: 4
@@ -3589,6 +4020,7 @@
   full_name: Mick Mulvaney
   type: Representative
   state: South Carolina
+  website: 'https://mulvaney.house.gov'
   phone: 202-225-5501
   stance: undecided
   district: 5
@@ -3597,6 +4029,7 @@
   full_name: James E. Clyburn
   type: Representative
   state: South Carolina
+  website: 'http://clyburn.house.gov'
   phone: 202-225-3315
   stance: undecided
   district: 6
@@ -3605,6 +4038,7 @@
   full_name: Tom Rice
   type: Representative
   state: South Carolina
+  website: 'http://rice.house.gov'
   phone: 202-225-9895
   stance: undecided
   district: 7
@@ -3613,6 +4047,7 @@
   full_name: John Thune
   type: Senator
   state: South Dakota
+  website: 'http://www.thune.senate.gov'
   phone: 202-224-2321
   stance: undecided
   quote_html: ''
@@ -3620,6 +4055,7 @@
   full_name: Mike Rounds
   type: Senator
   state: South Dakota
+  website: 'http://www.rounds.senate.gov'
   phone: 202-224-5842
   stance: undecided
   quote_html: ''
@@ -3627,6 +4063,7 @@
   full_name: Kristi L. Noem
   type: Representative
   state: South Dakota
+  website: 'https://noem.house.gov'
   phone: 202-225-2801
   stance: undecided
   quote_html: ''
@@ -3634,6 +4071,7 @@
   full_name: Bob Corker
   type: Senator
   state: Tennessee
+  website: 'http://www.corker.senate.gov'
   phone: 202-224-3344
   stance: undecided
   quote_html: ''
@@ -3641,6 +4079,7 @@
   full_name: Lamar Alexander
   type: Senator
   state: Tennessee
+  website: 'https://www.alexander.senate.gov/public/index.cfm/home'
   phone: 202-224-4944
   stance: undecided
   quote_html: ''
@@ -3648,6 +4087,7 @@
   full_name: David P. Roe
   type: Representative
   state: Tennessee
+  website: 'http://roe.house.gov'
   phone: 202-225-6356
   stance: undecided
   district: 1
@@ -3656,6 +4096,7 @@
   full_name: 'John J. Duncan, Jr.'
   type: Representative
   state: Tennessee
+  website: 'http://duncan.house.gov'
   phone: 202-225-5435
   stance: undecided
   district: 2
@@ -3664,6 +4105,7 @@
   full_name: Charles J. "Chuck" Fleischmann
   type: Representative
   state: Tennessee
+  website: 'http://fleischmann.house.gov'
   phone: 202-225-3271
   stance: undecided
   district: 3
@@ -3672,6 +4114,7 @@
   full_name: Scott DesJarlais
   type: Representative
   state: Tennessee
+  website: 'https://desjarlais.house.gov'
   phone: 202-225-6831
   stance: undecided
   district: 4
@@ -3680,6 +4123,7 @@
   full_name: Jim Cooper
   type: Representative
   state: Tennessee
+  website: 'http://cooper.house.gov'
   phone: 202-225-4311
   stance: undecided
   district: 5
@@ -3688,6 +4132,7 @@
   full_name: Diane Black
   type: Representative
   state: Tennessee
+  website: 'http://black.house.gov'
   phone: 202-225-4231
   stance: undecided
   district: 6
@@ -3696,6 +4141,7 @@
   full_name: Marsha Blackburn
   type: Representative
   state: Tennessee
+  website: 'http://blackburn.house.gov'
   phone: 202-225-2811
   stance: undecided
   district: 7
@@ -3704,6 +4150,7 @@
   full_name: David Kustoff
   type: Representative
   state: Tennessee
+  website: 'https://kustoff.house.gov'
   phone: 202-225-4714
   stance: undecided
   district: 8
@@ -3712,6 +4159,7 @@
   full_name: Steve Cohen
   type: Representative
   state: Tennessee
+  website: 'https://cohen.house.gov'
   phone: 202-225-3265
   stance: undecided
   district: 9
@@ -3720,6 +4168,7 @@
   full_name: John Cornyn
   type: Senator
   state: Texas
+  website: 'https://www.cornyn.senate.gov'
   phone: 202-224-2934
   stance: undecided
   quote_html: ''
@@ -3727,6 +4176,7 @@
   full_name: Ted Cruz
   type: Senator
   state: Texas
+  website: 'https://www.cruz.senate.gov'
   phone: 202-224-5922
   stance: undecided
   quote_html: ''
@@ -3734,6 +4184,7 @@
   full_name: Louie Gohmert
   type: Representative
   state: Texas
+  website: 'https://gohmert.house.gov'
   phone: 202-225-3035
   stance: undecided
   district: 1
@@ -3742,6 +4193,7 @@
   full_name: Ted Poe
   type: Representative
   state: Texas
+  website: 'https://poe.house.gov'
   phone: 202-225-6565
   stance: undecided
   district: 2
@@ -3750,6 +4202,7 @@
   full_name: Sam Johnson
   type: Representative
   state: Texas
+  website: 'http://samjohnson.house.gov'
   phone: 202-225-4201
   stance: undecided
   district: 3
@@ -3758,6 +4211,7 @@
   full_name: John Ratcliffe
   type: Representative
   state: Texas
+  website: 'https://ratcliffe.house.gov'
   phone: 202-225-6673
   stance: undecided
   district: 4
@@ -3766,6 +4220,7 @@
   full_name: Jeb Hensarling
   type: Representative
   state: Texas
+  website: 'http://hensarling.house.gov'
   phone: 202-225-3484
   stance: undecided
   district: 5
@@ -3774,6 +4229,7 @@
   full_name: Joe Barton
   type: Representative
   state: Texas
+  website: 'https://joebarton.house.gov'
   phone: 202-225-2002
   stance: undecided
   district: 6
@@ -3782,6 +4238,7 @@
   full_name: John Abney Culberson
   type: Representative
   state: Texas
+  website: 'http://culberson.house.gov'
   phone: 202-225-2571
   stance: undecided
   district: 7
@@ -3790,6 +4247,7 @@
   full_name: Kevin Brady
   type: Representative
   state: Texas
+  website: 'http://kevinbrady.house.gov'
   phone: 202-225-4901
   stance: undecided
   district: 8
@@ -3798,6 +4256,7 @@
   full_name: Al Green
   type: Representative
   state: Texas
+  website: 'http://algreen.house.gov'
   phone: 202-225-7508
   stance: undecided
   district: 9
@@ -3806,6 +4265,7 @@
   full_name: Michael T. McCaul
   type: Representative
   state: Texas
+  website: 'http://mccaul.house.gov'
   phone: 202-225-2401
   stance: undecided
   district: 10
@@ -3814,6 +4274,7 @@
   full_name: K. Michael Conaway
   type: Representative
   state: Texas
+  website: 'http://conaway.house.gov'
   phone: 202-225-3605
   stance: undecided
   district: 11
@@ -3822,6 +4283,7 @@
   full_name: Kay Granger
   type: Representative
   state: Texas
+  website: 'http://kaygranger.house.gov'
   phone: 202-225-5071
   stance: undecided
   district: 12
@@ -3830,6 +4292,7 @@
   full_name: Mac Thornberry
   type: Representative
   state: Texas
+  website: 'http://thornberry.house.gov'
   phone: 202-225-3706
   stance: undecided
   district: 13
@@ -3838,6 +4301,7 @@
   full_name: 'Randy K. Weber, Sr.'
   type: Representative
   state: Texas
+  website: 'http://weber.house.gov'
   phone: 202-225-2831
   stance: undecided
   district: 14
@@ -3846,6 +4310,7 @@
   full_name: Vicente Gonzalez
   type: Representative
   state: Texas
+  website: 'https://gonzalez.house.gov'
   phone: 202-225-2531
   stance: undecided
   district: 15
@@ -3854,6 +4319,7 @@
   full_name: Beto O'Rourke
   type: Representative
   state: Texas
+  website: 'http://orourke.house.gov'
   phone: 202-225-4831
   stance: undecided
   district: 16
@@ -3862,6 +4328,7 @@
   full_name: Bill Flores
   type: Representative
   state: Texas
+  website: 'http://flores.house.gov'
   phone: 202-225-6105
   stance: undecided
   district: 17
@@ -3870,6 +4337,7 @@
   full_name: Sheila Jackson Lee
   type: Representative
   state: Texas
+  website: 'http://jacksonlee.house.gov'
   phone: 202-225-3816
   stance: undecided
   district: 18
@@ -3878,6 +4346,7 @@
   full_name: Jodey C. Arrington
   type: Representative
   state: Texas
+  website: 'https://arrington.house.gov'
   phone: 202-225-4005
   stance: undecided
   district: 19
@@ -3886,6 +4355,7 @@
   full_name: Joaquin Castro
   type: Representative
   state: Texas
+  website: 'https://castro.house.gov'
   phone: 202-225-3236
   stance: undecided
   district: 20
@@ -3894,6 +4364,7 @@
   full_name: Lamar Smith
   type: Representative
   state: Texas
+  website: 'http://lamarsmith.house.gov'
   phone: 202-225-4236
   stance: undecided
   district: 21
@@ -3902,6 +4373,7 @@
   full_name: Pete Olson
   type: Representative
   state: Texas
+  website: 'https://olson.house.gov'
   phone: 202-225-5951
   stance: undecided
   district: 22
@@ -3910,6 +4382,7 @@
   full_name: Will Hurd
   type: Representative
   state: Texas
+  website: 'https://hurd.house.gov'
   phone: 202-225-4511
   stance: undecided
   district: 23
@@ -3918,6 +4391,7 @@
   full_name: Kenny Marchant
   type: Representative
   state: Texas
+  website: 'https://marchant.house.gov'
   phone: 202-225-6605
   stance: undecided
   district: 24
@@ -3926,6 +4400,7 @@
   full_name: Roger Williams
   type: Representative
   state: Texas
+  website: 'http://williams.house.gov'
   phone: 202-225-9896
   stance: undecided
   district: 25
@@ -3934,6 +4409,7 @@
   full_name: Michael C. Burgess
   type: Representative
   state: Texas
+  website: 'http://burgess.house.gov'
   phone: 202-225-7772
   stance: undecided
   district: 26
@@ -3942,6 +4418,7 @@
   full_name: Blake Farenthold
   type: Representative
   state: Texas
+  website: 'http://farenthold.house.gov'
   phone: 202-225-7742
   stance: undecided
   district: 27
@@ -3950,6 +4427,7 @@
   full_name: Henry Cuellar
   type: Representative
   state: Texas
+  website: 'http://cuellar.house.gov'
   phone: 202-225-1640
   stance: undecided
   district: 28
@@ -3958,6 +4436,7 @@
   full_name: Gene Green
   type: Representative
   state: Texas
+  website: 'https://green.house.gov'
   phone: 202-225-1688
   stance: undecided
   district: 29
@@ -3966,6 +4445,7 @@
   full_name: Eddie Bernice Johnson
   type: Representative
   state: Texas
+  website: 'http://ebjohnson.house.gov'
   phone: 202-225-8885
   stance: undecided
   district: 30
@@ -3974,6 +4454,7 @@
   full_name: John R. Carter
   type: Representative
   state: Texas
+  website: 'https://carter.house.gov'
   phone: 202-225-3864
   stance: undecided
   district: 31
@@ -3982,6 +4463,7 @@
   full_name: Pete Sessions
   type: Representative
   state: Texas
+  website: 'https://sessions.house.gov'
   phone: 202-225-2231
   stance: undecided
   district: 32
@@ -3990,6 +4472,7 @@
   full_name: Marc A. Veasey
   type: Representative
   state: Texas
+  website: 'http://veasey.house.gov'
   phone: 202-225-9897
   stance: undecided
   district: 33
@@ -3998,6 +4481,7 @@
   full_name: Filemon Vela
   type: Representative
   state: Texas
+  website: 'https://vela.house.gov'
   phone: 202-225-9901
   stance: undecided
   district: 34
@@ -4006,6 +4490,7 @@
   full_name: Lloyd Doggett
   type: Representative
   state: Texas
+  website: 'https://doggett.house.gov'
   phone: 202-225-4865
   stance: undecided
   district: 35
@@ -4014,6 +4499,7 @@
   full_name: Brian Babin
   type: Representative
   state: Texas
+  website: 'http://babin.house.gov'
   phone: 202-225-1555
   stance: undecided
   district: 36
@@ -4022,6 +4508,7 @@
   full_name: Mike Lee
   type: Senator
   state: Utah
+  website: 'http://www.lee.senate.gov/public'
   phone: 202-224-5444
   stance: undecided
   quote_html: ''
@@ -4029,6 +4516,7 @@
   full_name: Orrin G. Hatch
   type: Senator
   state: Utah
+  website: 'http://www.hatch.senate.gov'
   phone: 202-224-5251
   stance: undecided
   quote_html: ''
@@ -4036,6 +4524,7 @@
   full_name: Rob Bishop
   type: Representative
   state: Utah
+  website: 'http://robbishop.house.gov'
   phone: 202-225-0453
   stance: undecided
   district: 1
@@ -4044,6 +4533,7 @@
   full_name: Chris Stewart
   type: Representative
   state: Utah
+  website: 'http://stewart.house.gov'
   phone: 202-225-9730
   stance: undecided
   district: 2
@@ -4052,6 +4542,7 @@
   full_name: Jason Chaffetz
   type: Representative
   state: Utah
+  website: 'https://chaffetz.house.gov'
   phone: 202-225-7751
   stance: undecided
   district: 3
@@ -4060,6 +4551,7 @@
   full_name: Mia B. Love
   type: Representative
   state: Utah
+  website: 'https://love.house.gov'
   phone: 202-225-3011
   stance: undecided
   district: 4
@@ -4068,6 +4560,7 @@
   full_name: Bernard Sanders
   type: Senator
   state: Vermont
+  website: 'https://www.sanders.senate.gov'
   phone: 202-224-5141
   stance: undecided
   quote_html: ''
@@ -4075,6 +4568,7 @@
   full_name: Patrick J. Leahy
   type: Senator
   state: Vermont
+  website: 'https://www.leahy.senate.gov'
   phone: 202-224-4242
   stance: undecided
   quote_html: ''
@@ -4082,6 +4576,7 @@
   full_name: Peter Welch
   type: Representative
   state: Vermont
+  website: 'https://welch.house.gov'
   phone: 202-225-4115
   stance: undecided
   quote_html: ''
@@ -4089,6 +4584,7 @@
   full_name: Stacey E. Plaskett
   type: Representative
   state: Virgin Islands
+  website: 'https://plaskett.house.gov'
   phone: 202-225-1790
   stance: undecided
   quote_html: ''
@@ -4096,6 +4592,7 @@
   full_name: Mark R. Warner
   type: Senator
   state: Virginia
+  website: 'http://www.warner.senate.gov'
   phone: 202-224-2023
   stance: undecided
   quote_html: ''
@@ -4103,6 +4600,7 @@
   full_name: Tim Kaine
   type: Senator
   state: Virginia
+  website: 'http://www.kaine.senate.gov'
   phone: 202-224-4024
   stance: undecided
   quote_html: ''
@@ -4110,6 +4608,7 @@
   full_name: Robert J. Wittman
   type: Representative
   state: Virginia
+  website: 'http://wittman.house.gov'
   phone: 202-225-4261
   stance: undecided
   district: 1
@@ -4118,6 +4617,7 @@
   full_name: Scott Taylor
   type: Representative
   state: Virginia
+  website: 'https://taylor.house.gov'
   phone: 202-225-4215
   stance: undecided
   district: 2
@@ -4126,6 +4626,7 @@
   full_name: Robert C. "Bobby" Scott
   type: Representative
   state: Virginia
+  website: 'http://bobbyscott.house.gov'
   phone: 202-225-8351
   stance: undecided
   district: 3
@@ -4134,6 +4635,7 @@
   full_name: A. Donald McEachin
   type: Representative
   state: Virginia
+  website: 'https://mceachin.house.gov'
   phone: 202-225-6365
   stance: undecided
   district: 4
@@ -4142,6 +4644,7 @@
   full_name: 'Thomas A. Garrett, Jr.'
   type: Representative
   state: Virginia
+  website: 'https://tomgarrett.house.gov'
   phone: 202-225-4711
   stance: undecided
   district: 5
@@ -4150,6 +4653,7 @@
   full_name: Bob Goodlatte
   type: Representative
   state: Virginia
+  website: 'https://goodlatte.house.gov'
   phone: 202-225-5431
   stance: undecided
   district: 6
@@ -4158,6 +4662,7 @@
   full_name: Dave Brat
   type: Representative
   state: Virginia
+  website: 'http://brat.house.gov'
   phone: 202-225-2815
   stance: undecided
   district: 7
@@ -4166,6 +4671,7 @@
   full_name: 'Donald S. Beyer, Jr.'
   type: Representative
   state: Virginia
+  website: 'http://beyer.house.gov'
   phone: 202-225-4376
   stance: undecided
   district: 8
@@ -4174,6 +4680,7 @@
   full_name: H. Morgan Griffith
   type: Representative
   state: Virginia
+  website: 'http://morgangriffith.house.gov'
   phone: 202-225-3861
   stance: undecided
   district: 9
@@ -4182,6 +4689,7 @@
   full_name: Barbara Comstock
   type: Representative
   state: Virginia
+  website: 'https://comstock.house.gov'
   phone: 202-225-5136
   stance: undecided
   district: 10
@@ -4190,6 +4698,7 @@
   full_name: Gerald E. Connolly
   type: Representative
   state: Virginia
+  website: 'https://connolly.house.gov'
   phone: 202-225-1492
   stance: undecided
   district: 11
@@ -4198,6 +4707,7 @@
   full_name: Maria Cantwell
   type: Senator
   state: Washington
+  website: 'https://www.cantwell.senate.gov'
   phone: 202-224-3441
   stance: oppose
   quote_html: >
@@ -4207,6 +4717,7 @@
   full_name: Patty Murray
   type: Senator
   state: Washington
+  website: 'http://www.murray.senate.gov/public'
   phone: 202-224-2621
   stance: undecided
   quote_html: ''
@@ -4214,6 +4725,7 @@
   full_name: Suzan K. DelBene
   type: Representative
   state: Washington
+  website: 'https://delbene.house.gov'
   phone: 202-225-6311
   stance: undecided
   district: 1
@@ -4222,6 +4734,7 @@
   full_name: Rick Larsen
   type: Representative
   state: Washington
+  website: 'http://larsen.house.gov'
   phone: 202-225-2605
   stance: undecided
   district: 2
@@ -4230,6 +4743,7 @@
   full_name: Jaime Herrera Beutler
   type: Representative
   state: Washington
+  website: 'http://herrerabeutler.house.gov'
   phone: 202-225-3536
   stance: undecided
   district: 3
@@ -4238,6 +4752,7 @@
   full_name: Dan Newhouse
   type: Representative
   state: Washington
+  website: 'https://newhouse.house.gov'
   phone: 202-225-5816
   stance: undecided
   district: 4
@@ -4246,6 +4761,7 @@
   full_name: Cathy McMorris Rodgers
   type: Representative
   state: Washington
+  website: 'http://mcmorris.house.gov'
   phone: 202-225-2006
   stance: undecided
   district: 5
@@ -4254,6 +4770,7 @@
   full_name: Derek Kilmer
   type: Representative
   state: Washington
+  website: 'https://kilmer.house.gov'
   phone: 202-225-5916
   stance: undecided
   district: 6
@@ -4262,6 +4779,7 @@
   full_name: Pramila Jayapal
   type: Representative
   state: Washington
+  website: 'https://jayapal.house.gov'
   phone: 202-225-3106
   stance: oppose
   district: 7
@@ -4272,6 +4790,7 @@
   full_name: David G. Reichert
   type: Representative
   state: Washington
+  website: 'http://reichert.house.gov'
   phone: 202-225-7761
   stance: undecided
   district: 8
@@ -4280,6 +4799,7 @@
   full_name: Adam Smith
   type: Representative
   state: Washington
+  website: 'https://adamsmith.house.gov'
   phone: 202-225-8901
   stance: undecided
   district: 9
@@ -4288,6 +4808,7 @@
   full_name: Denny Heck
   type: Representative
   state: Washington
+  website: 'http://dennyheck.house.gov'
   phone: 202-225-9740
   stance: undecided
   district: 10
@@ -4296,6 +4817,7 @@
   full_name: 'Joe Manchin, III'
   type: Senator
   state: West Virginia
+  website: 'http://www.manchin.senate.gov/public'
   phone: 202-224-3954
   stance: undecided
   quote_html: ''
@@ -4303,6 +4825,7 @@
   full_name: Shelley Moore Capito
   type: Senator
   state: West Virginia
+  website: 'https://www.capito.senate.gov'
   phone: 202-224-6472
   stance: undecided
   quote_html: ''
@@ -4310,6 +4833,7 @@
   full_name: David B. McKinley
   type: Representative
   state: West Virginia
+  website: 'https://mckinley.house.gov'
   phone: 202-225-4172
   stance: undecided
   district: 1
@@ -4318,6 +4842,7 @@
   full_name: Alexander X. Mooney
   type: Representative
   state: West Virginia
+  website: 'https://mooney.house.gov'
   phone: 202-225-2711
   stance: undecided
   district: 2
@@ -4326,6 +4851,7 @@
   full_name: Evan H. Jenkins
   type: Representative
   state: West Virginia
+  website: 'https://evanjenkins.house.gov'
   phone: 202-225-3452
   stance: undecided
   district: 3
@@ -4334,6 +4860,7 @@
   full_name: Ron Johnson
   type: Senator
   state: Wisconsin
+  website: 'http://www.ronjohnson.senate.gov'
   phone: 202-224-5323
   stance: undecided
   quote_html: ''
@@ -4341,6 +4868,7 @@
   full_name: Tammy Baldwin
   type: Senator
   state: Wisconsin
+  website: 'https://www.baldwin.senate.gov'
   phone: 202-224-5653
   stance: oppose
   quote_html: >
@@ -4350,6 +4878,7 @@
   full_name: Paul D. Ryan
   type: Representative
   state: Wisconsin
+  website: 'http://paulryan.house.gov'
   phone: 202-225-3031
   stance: undecided
   district: 1
@@ -4358,6 +4887,7 @@
   full_name: Mark Pocan
   type: Representative
   state: Wisconsin
+  website: 'http://pocan.house.gov'
   phone: 202-225-2906
   stance: undecided
   district: 2
@@ -4366,6 +4896,7 @@
   full_name: Ron Kind
   type: Representative
   state: Wisconsin
+  website: 'https://kind.house.gov'
   phone: 202-225-5506
   stance: undecided
   district: 3
@@ -4374,6 +4905,7 @@
   full_name: Gwen Moore
   type: Representative
   state: Wisconsin
+  website: 'https://gwenmoore.house.gov'
   phone: 202-225-4572
   stance: undecided
   district: 4
@@ -4382,6 +4914,7 @@
   full_name: 'F. James Sensenbrenner, Jr.'
   type: Representative
   state: Wisconsin
+  website: 'http://sensenbrenner.house.gov'
   phone: 202-225-5101
   stance: undecided
   district: 5
@@ -4390,6 +4923,7 @@
   full_name: Glenn Grothman
   type: Representative
   state: Wisconsin
+  website: 'http://grothman.house.gov'
   phone: 202-225-2476
   stance: undecided
   district: 6
@@ -4398,6 +4932,7 @@
   full_name: Sean P. Duffy
   type: Representative
   state: Wisconsin
+  website: 'https://duffy.house.gov'
   phone: 202-225-3365
   stance: undecided
   district: 7
@@ -4406,6 +4941,7 @@
   full_name: Mike Gallagher
   type: Representative
   state: Wisconsin
+  website: 'https://gallagher.house.gov'
   phone: 202-225-5665
   stance: undecided
   district: 8
@@ -4414,6 +4950,7 @@
   full_name: John Barrasso
   type: Senator
   state: Wyoming
+  website: 'http://www.barrasso.senate.gov'
   phone: 202-224-6441
   stance: undecided
   quote_html: ''
@@ -4421,6 +4958,7 @@
   full_name: Michael B. Enzi
   type: Senator
   state: Wyoming
+  website: 'http://www.enzi.senate.gov'
   phone: 202-224-3424
   stance: undecided
   quote_html: ''
@@ -4428,6 +4966,7 @@
   full_name: Liz Cheney
   type: Representative
   state: Wyoming
+  website: 'https://cheney.house.gov'
   phone: 202-225-2311
   stance: undecided
   quote_html: ''

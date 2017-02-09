@@ -77,6 +77,7 @@ function getData(member) {
     full_name: member.name.official_full,
     type: current_term.type === 'sen' ? 'Senator' : 'Representative',
     state: state,
+    website: current_term.url,
     phone: current_term.phone,
     stance: stance
   }
