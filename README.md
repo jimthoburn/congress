@@ -7,7 +7,7 @@ The website is published with [GitHub Pages](https://pages.github.com), and the 
 
 ## A summary of the project files
 
-### HTML
+### HTML templates
 ```
 _includes/*
 _layouts/*
