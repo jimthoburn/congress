@@ -1,0 +1,208 @@
+- state: Canadian
+  name: Prime Minister Justin Trudeau
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825438460265762816'></p>
+
+- state: New York City
+  name: Mayor Bill De Blasio
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825761099408613377'></p>
+
+- state: New York
+  name: Senator Chuck Schumer
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825755130016378881'></p>
+
+- state: Boston
+  name: Mayor Marty Walsh
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825790596430323712'></p>
+
+- state: Los Angeles
+  name: Mayor Eric Garcetti
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825776366490513408'></p>
+
+- state: Clinton Foundation Vice-Chair
+  name: Chelsea Clinton
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825796015970205696'></p>
+
+- state: New York
+  name: Representative Yvette D. Clarke
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825713686945943553'></p>
+
+- state: Virginia
+  name: Representative Don Beyer
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825802159983837187'></p>
+
+- state: New York
+  name: Senator Kirsten Gillibrand
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825799977951698944'></p>
+
+- state: California
+  name: Representative Ted Lieu
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825776444521320448'></p>
+
+- state: New York
+  name: Representative Jerry Nadler
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825404884321202178'></p>
+
+- state: New York
+  name: Representative Nydia Velazquez
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825732902583463936'></p>
+
+- state: Wisconsin
+  name: Senator Tammy Baldwin
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825765075533361152'></p>
+
+- state: Colorado
+  name: Senator Michael F. Bennet
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825140252947918848'></p>
+
+- state: Connecticut
+  name: Senator Richard Blumenthal
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825038759594962946'></p>
+
+- state: New Jersey
+  name: Senator Corey Booker
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825458646075240448'></p>
+
+- state: Ohio
+  name: Senator Sherrod Brown
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825431416984977409'></p>
+
+- state: Washington State
+  name: Senator Maria Cantwell
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825483696518086656'></p>
+
+- state: Maryland
+  name: Senator Ben Cardin
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825470940599447552'></p>
+
+- state: Delaware
+  name: Senator Tom Carper
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825452001114873856'></p>
+
+- state: Pennsylvania
+  name: Senator Bob Casey
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825353891139186688'></p>
+
+- state: Delaware
+  name: Senator Chris Coons
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825438709742985216'></p>
+
+- state: Indiana
+  name: Senator Joe Donnelly
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825391567099850752'></p>
+
+- state: Hawaiian
+  name: Senator Mazie Hirono
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825124910959849473'></p>
+
+- state: Minnesota
+  name: Senator Al Franken
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825396558208368640'></p>
+
+- state: Massachusettes
+  name: Governor Charlie Baker
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825783779939737604'></p>
+
+- state: Minnesota
+  name: Senator Amy Klobuchar
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825776631159615493'></p>
+
+- state: Georgia
+  name: Representative John Lewis
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825516926206095361'></p>
+
+- state: Massachusettes
+  name: Senator Elizabeth Warren
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825781131480072192'></p>
+
+- state: Oregon
+  name: Senator Jeff Merkley
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825499517692805120'></p>
+
+- state: Virginia
+  name: Senator Tim Kaine
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825748533332606977'></p>
+
+- state: Virginia
+  name: Governor Terry McAuliffe
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825743253827940354'></p>
+
+- state: Washington D.C
+  name: Representative Suzan Delbene
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825529925960605697'></p>
+
+- state: Washington State
+  name: Representative Pramila Jayapal
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825848985281650689'></p>
+
+- state: ​Phoenix
+  name: Mayor Greg Stanton
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825821734834102272'></p>
+
+- state: ​New York
+  name: Congressman Adriano Espaillat
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825762980298113024'></p>
+
+- state: ​Virginia
+  name: Congressman Gerry Connolly
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825796385513598976'></p>
+
+- state: ​Virginia
+  name: Congressman Don Beyer
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='826045161629241349'></p>
+
+- state: ​Maryland
+  name: Congressman Jamie Raskin
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825864244851830784'></p>
+
+- state: ​California
+  name: Congresswoman Judy Chu
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='826219965900533760'></p>
+
+- state: ​California
+  name: Senator Dianne Feinstein
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='826222242929471490'></p>
+
+- state: ​California
+  name: Senator Kamala Harris
+  html: |
+    <p class='js-twitter-embed oembed oembed-twitter' data-id='825396519423586304'></p>

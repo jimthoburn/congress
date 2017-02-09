@@ -1,0 +1,4433 @@
+- id: jeff-sessions
+  full_name: Jeff Sessions
+  type: Senator
+  state: Alabama
+  phone: 202-224-4124
+  stance: undecided
+  quote_html: ''
+- id: richard-c-shelby
+  full_name: Richard C. Shelby
+  type: Senator
+  state: Alabama
+  phone: 202-224-5744
+  stance: undecided
+  quote_html: ''
+- id: bradley-byrne
+  full_name: Bradley Byrne
+  type: Representative
+  state: Alabama
+  phone: 202-225-4931
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: martha-roby
+  full_name: Martha Roby
+  type: Representative
+  state: Alabama
+  phone: 202-225-2901
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: mike-rogers
+  full_name: Mike Rogers
+  type: Representative
+  state: Alabama
+  phone: 202-225-3261
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: robert-b-aderholt
+  full_name: Robert B. Aderholt
+  type: Representative
+  state: Alabama
+  phone: 202-225-4876
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: mo-brooks
+  full_name: Mo Brooks
+  type: Representative
+  state: Alabama
+  phone: 202-225-4801
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: gary-j-palmer
+  full_name: Gary J. Palmer
+  type: Representative
+  state: Alabama
+  phone: 202-225-4921
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: terri-a-sewell
+  full_name: Terri A. Sewell
+  type: Representative
+  state: Alabama
+  phone: 202-225-2665
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: dan-sullivan
+  full_name: Dan Sullivan
+  type: Senator
+  state: Alaska
+  phone: 202-224-3004
+  stance: undecided
+  quote_html: ''
+- id: lisa-murkowski
+  full_name: Lisa Murkowski
+  type: Senator
+  state: Alaska
+  phone: 202-224-6665
+  stance: undecided
+  quote_html: ''
+- id: don-young
+  full_name: Don Young
+  type: Representative
+  state: Alaska
+  phone: 202-225-5765
+  stance: undecided
+  quote_html: ''
+- id: aumua-amata-coleman-radewagen
+  full_name: Aumua Amata Coleman Radewagen
+  type: Representative
+  state: American Samoa
+  phone: 202-225-8577
+  stance: undecided
+  quote_html: ''
+- id: jeff-flake
+  full_name: Jeff Flake
+  type: Senator
+  state: Arizona
+  phone: 202-224-4521
+  stance: undecided
+  quote_html: ''
+- id: john-mccain
+  full_name: John McCain
+  type: Senator
+  state: Arizona
+  phone: 202-224-2235
+  stance: undecided
+  quote_html: ''
+- id: tom-o'halleran
+  full_name: Tom O'Halleran
+  type: Representative
+  state: Arizona
+  phone: 202-225-3361
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: martha-mcsally
+  full_name: Martha McSally
+  type: Representative
+  state: Arizona
+  phone: 202-225-2542
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: raúl-m-grijalva
+  full_name: Raúl M. Grijalva
+  type: Representative
+  state: Arizona
+  phone: 202-225-2435
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: paul-a-gosar
+  full_name: Paul A. Gosar
+  type: Representative
+  state: Arizona
+  phone: 202-225-2315
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: andy-biggs
+  full_name: Andy Biggs
+  type: Representative
+  state: Arizona
+  phone: 202-225-2635
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: david-schweikert
+  full_name: David Schweikert
+  type: Representative
+  state: Arizona
+  phone: 202-225-2190
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: ruben-gallego
+  full_name: Ruben Gallego
+  type: Representative
+  state: Arizona
+  phone: 202-225-4065
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: trent-franks
+  full_name: Trent Franks
+  type: Representative
+  state: Arizona
+  phone: 202-225-4576
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: kyrsten-sinema
+  full_name: Kyrsten Sinema
+  type: Representative
+  state: Arizona
+  phone: 202-225-9888
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: john-boozman
+  full_name: John Boozman
+  type: Senator
+  state: Arkansas
+  phone: 202-224-4843
+  stance: undecided
+  quote_html: ''
+- id: tom-cotton
+  full_name: Tom Cotton
+  type: Senator
+  state: Arkansas
+  phone: 202-224-2353
+  stance: undecided
+  quote_html: ''
+- id: eric-a-"rick"-crawford
+  full_name: Eric A. "Rick" Crawford
+  type: Representative
+  state: Arkansas
+  phone: 202-225-4076
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: j-french-hill
+  full_name: J. French Hill
+  type: Representative
+  state: Arkansas
+  phone: 202-225-2506
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: steve-womack
+  full_name: Steve Womack
+  type: Representative
+  state: Arkansas
+  phone: 202-225-4301
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: bruce-westerman
+  full_name: Bruce Westerman
+  type: Representative
+  state: Arkansas
+  phone: 202-225-3772
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: dianne-feinstein
+  full_name: Dianne Feinstein
+  type: Senator
+  state: California
+  phone: 202-224-3841
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='826222242929471490'></p>
+- id: kamala-d-harris
+  full_name: Kamala D. Harris
+  type: Senator
+  state: California
+  phone: 202-224-3553
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825396519423586304'></p>
+- id: doug-lamalfa
+  full_name: Doug LaMalfa
+  type: Representative
+  state: California
+  phone: 202-225-3076
+  stance: support
+  district: 1
+  quote_html: |
+    <blockquote>
+      <p>“This is a common-sense policy to keep our country safe, and frankly, one that is long overdue. This pause will be used to develop an effective vetting process and have it in place so that we can assist refugees without jeopardizing our national security.”</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: jared-huffman
+  full_name: Jared Huffman
+  type: Representative
+  state: California
+  phone: 202-225-5161
+  stance: oppose
+  district: 2
+  quote_html: |
+    <blockquote>
+      <p>"Must not tolerate @realDonaldTrump Islamophobiic pandering at expense of innocent people's lives & our constitution. We must make this right"</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: john-garamendi
+  full_name: John Garamendi
+  type: Representative
+  state: California
+  phone: 202-225-1880
+  stance: oppose
+  district: 3
+  quote_html: |
+    <blockquote>
+      <p>"Protecting our homeland from foreign terrorist entry has always been a priority of mine. We can do so without rejecting tired and weary families who have already undergone 18 months of intense vetting, praying for peace after fleeing war. Our energy and resources are precious. We should not waste them on policies that cause chaos and heartbreak while failing to make the U.S. safer."</p>&mdash; Facebook
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: tom-mcclintock
+  full_name: Tom McClintock
+  type: Representative
+  state: California
+  phone: 202-225-2511
+  stance: support
+  district: 4
+  quote_html: |
+    <blockquote>
+      <p>"There is no unconditional right to enter the United States, and President Trump has a sworn responsibility to assure that those who do are not hostile to our Constitution or the rule of law. His order is limited to countries that are hot-beds of Islamic extremism and provides for case-by-case waivers to assure that bona fide dissenters from these regimes can still enter. This is a temporary stop-gap to give the administration time to put a new vetting system in place that can adequately assess a refugee’s veracity and intentions."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: mike-thompson
+  full_name: Mike Thompson
+  type: Representative
+  state: California
+  phone: 202-225-3311
+  stance: oppose
+  district: 5
+  quote_html: |
+    <blockquote>
+      <p>"This is personal for me. One of my interns was a refugee from Afghanistan. He put his life on the line to help our soldiers. I did everything I could to help him build a new life in America. He's hardworking, dedicated, & we're better for having him in America. It's not right to turn our back on people. This isn't the American way."</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: doris-o-matsui
+  full_name: Doris O. Matsui
+  type: Representative
+  state: California
+  phone: 202-225-7163
+  stance: oppose
+  district: 6
+  quote_html: |
+    <blockquote>
+      <p>"President Trump’s decision to target immigrants from Muslim-majority countries goes against the essential right to religious liberty that is a founding principle of our nation. We can, and we must, protect Americans while also recognizing the basic humanity of all people.”</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: ami-bera
+  full_name: Ami Bera
+  type: Representative
+  state: California
+  phone: 202-225-5716
+  stance: oppose
+  district: 7
+  quote_html: |
+    <blockquote>
+      <p>"Law-abiding, documented residents of our country are facing chaos and instability. The uncertainty this has created among workers, students, and at our airports is wreaking havoc on families and businesses. The message this sends internationally does not reflect who we are as a nation of immigrants — we do not close our doors to those who are fleeing persecution, or target people based on their faith."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: paul-cook
+  full_name: Paul Cook
+  type: Representative
+  state: California
+  phone: 202-225-5861
+  stance: undecided
+  district: 8
+  quote_html: |
+    <blockquote>
+      <p>No public comments and none provided when asked</p>&mdash; 
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: jerry-mcnerney
+  full_name: Jerry McNerney
+  type: Representative
+  state: California
+  phone: 202-225-1947
+  stance: oppose
+  district: 9
+  quote_html: |
+    <blockquote>
+      <p>“President Trump’s executive order on immigration is a sharp departure from our long and proud history of welcoming immigrants to our nation. It unfairly targets individuals based on their religion and country of origin, hurting both refugees who are fleeing persecution and others who have been valuable aides to our military in the fight against terrorism. This policy has already started tearing apart families and will hurt our national security by giving terrorist groups a significant recruiting tool. We need to stand together to repudiate and overturn this destructive policy.” </p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: jeff-denham
+  full_name: Jeff Denham
+  type: Representative
+  state: California
+  phone: 202-225-4540
+  stance: undecided
+  district: 10
+  quote_html: |
+    <blockquote>
+      <p>"Safety & security of our communities come 1st, but the way this EO is playing out has created a lot of uncertainty/unintended consequences. As we have seen with previous administrations, executive orders are not the way to resolve ongoing problems."</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: mark-desaulnier
+  full_name: Mark DeSaulnier
+  type: Representative
+  state: California
+  phone: 202-225-2095
+  stance: oppose
+  district: 11
+  quote_html: |
+    <blockquote>
+      <p>"@POTUS's #MuslimBan executive order is morally reprehensible and unconstitutional! #NoBanNoWall"</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: nancy-pelosi
+  full_name: Nancy Pelosi
+  type: Representative
+  state: California
+  phone: 202-225-4965
+  stance: oppose
+  district: 12
+  quote_html: |
+    <blockquote>
+      <p>"As the Statue of Liberty holds her torch of welcome high, there are tears in her eyes as she sees how low this Administration has stooped in its callousness toward immigrant families and refugees who have trusted in the laws and protections of the United States."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: barbara-lee
+  full_name: Barbara Lee
+  type: Representative
+  state: California
+  phone: 202-225-2661
+  stance: oppose
+  district: 13
+  quote_html: |
+    <blockquote>
+      <p>"In week 1 POTUS bans Muslims from entering the country and elevates a white nationalist to the NSC. This is not who we are, we must resist"</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: jackie-speier
+  full_name: Jackie Speier
+  type: Representative
+  state: California
+  phone: 202-225-3531
+  stance: oppose
+  district: 14
+  quote_html: |
+    <blockquote>
+      <p>"Let me be clear, we already do exhaustive vetting that takes approximately 18 months. Many of those detained yesterday were actually American patriots serving the military as translators and aides. The President relishes chaos. We must demand rationality and constitutional respect in the process."</p>&mdash; Facebook
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: eric-swalwell
+  full_name: Eric Swalwell
+  type: Representative
+  state: California
+  phone: 202-225-5065
+  stance: oppose
+  district: 15
+  quote_html: |
+    <blockquote>
+      <p>"We're not helpless w/ Trump's #MuslimBan. Call your Member of Congress tomorrow and tell them #RefugeesWelcome. Call 202-225-3121. It helps!"</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: jim-costa
+  full_name: Jim Costa
+  type: Representative
+  state: California
+  phone: 202-225-3341
+  stance: oppose
+  district: 16
+  quote_html: |
+    <blockquote>
+      <p>"This executive order is having a devastating impact on hundreds of other individuals and immigrant families that thought the United States would be helping them seek refuge. The vast majority of individuals being detained or prohibited from entering the United States have already been through one of the most extensive vetting processes in the world. Clearly, President Trump’s executive order was not vetted thoroughly by his Administration. Not only is it flawed policy, but it has the potential to be ruled unconstitutional."
+    </p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: ro-khanna
+  full_name: Ro Khanna
+  type: Representative
+  state: California
+  phone: 202-225-2631
+  stance: oppose
+  district: 17
+  quote_html: |
+    <blockquote>
+      <p>"'These are the times that try men's souls.' Congress must not be 'sunshine patriots.' Let's stand up against the unjust bans on refugees."</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: anna-g-eshoo
+  full_name: Anna G. Eshoo
+  type: Representative
+  state: California
+  phone: 202-225-8104
+  stance: oppose
+  district: 18
+  quote_html: |
+    <blockquote>
+      <p>"The President's Executive Order on refugees is appalling and shameful. #LetThemIn It is un-American and unconstitutional, I will fight it with all my might."</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: zoe-lofgren
+  full_name: Zoe Lofgren
+  type: Representative
+  state: California
+  phone: 202-225-3072
+  stance: oppose
+  district: 19
+  quote_html: |
+    <blockquote>
+      <p>"Perhaps most troubling, today’s executive order – issued on Holocaust Remembrance Day, no less – recalls a dark episode in American history. Just over 75 years ago, a ship called the St. Louis, carrying nearly a thousand Jews fleeing Nazi Germany, sailed so close to the United States that passengers could see the lights of Miami. But rather than welcome these refugees, America turned them away. Many of these Jewish refugees were killed by the Nazis when they were forced to return to Europe. Making sure that such a tragedy never happens again became the bedrock of U.S. and international refugee and asylum law and policy. Mr. Trump’s actions today upend this foundational principle and endanger millions all over the world.”</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: jimmy-panetta
+  full_name: Jimmy Panetta
+  type: Representative
+  state: California
+  phone: 202-225-2861
+  stance: oppose
+  district: 20
+  quote_html: |
+    <blockquote>
+      <p>"President Trump’s executive actions are not reflective of our values. As a nation of immigrants, we are stronger because of our diversity, and when we come together in the name of inclusivity and equality, our voices cannot be silenced."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: david-g-valadao
+  full_name: David G. Valadao
+  type: Representative
+  state: California
+  phone: 202-225-4695
+  stance: undecided
+  district: 21
+  quote_html: |
+    <blockquote>
+      <p>"Keeping my constituents safe is my highest priority and I support strengthening screening procedures to ensure Americans are protected from foreign threats. However, these issues are complex and should not be addressed through hasty, unclear Executive Actions. Instead, the President and Congress should work together towards a thoughtful, constructive solution to strengthen our national security while upholding our American values."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: devin-nunes
+  full_name: Devin Nunes
+  type: Representative
+  state: California
+  phone: 202-225-2523
+  stance: support
+  district: 22
+  quote_html: |
+    <blockquote>
+      <p>"In light of attempts by jihadist groups to infiltrate fighters into refugee flows to the West, along with Europe’s tragic experience coping with this problem, the Trump Administration’s executive order on refugees is a common-sense security measure to prevent terror attacks on the homeland. While accommodations should be made for green card holders and those who’ve assisted the U.S. armed forces, this is a useful temporary measure on seven nations of concern until we can verify who is entering the United States.” </p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: kevin-mccarthy
+  full_name: Kevin McCarthy
+  type: Representative
+  state: California
+  phone: 202-225-2915
+  stance: undecided
+  district: 23
+  quote_html: |
+    <blockquote>
+      <p>No public comments and none provided when asked</p>&mdash; 
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: salud-o-carbajal
+  full_name: Salud O. Carbajal
+  type: Representative
+  state: California
+  phone: 202-225-3601
+  stance: oppose
+  district: 24
+  quote_html: |
+    <blockquote>
+      <p>"The reprehensible #MuslimBan, targeting immigrants & refugees b/c of religion isn't just immoral, but also undermines our national security."</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: stephen-knight
+  full_name: Stephen Knight
+  type: Representative
+  state: California
+  phone: 202-225-1956
+  stance: undecided
+  district: 25
+  quote_html: |
+    <blockquote>
+      <p>No public comments and none provided when asked</p>&mdash; 
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: julia-brownley
+  full_name: Julia Brownley
+  type: Representative
+  state: California
+  phone: 202-225-5811
+  stance: oppose
+  district: 26
+  quote_html: |
+    <blockquote>
+      <p>"Shocked and appalled that @POTUS would deny entry to those who protect our troops. This is wrong & not who we are."</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: judy-chu
+  full_name: Judy Chu
+  type: Representative
+  state: California
+  phone: 202-225-5464
+  stance: oppose
+  district: 27
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='826219965900533760'></p>
+- id: adam-b-schiff
+  full_name: Adam B. Schiff
+  type: Representative
+  state: California
+  phone: 202-225-4176
+  stance: oppose
+  district: 28
+  quote_html: |
+    <blockquote>
+      <p>"President Trump would have this nation turn its back on those seeking refuge in their most desperate hour, and those who have risked their lives for America. He would do so by establishing a religious test, in a country founded on the ideal of religious liberty, and do so on Holocaust Remembrance Day. His actions are guided by fear and suspicion, not courage or compassion."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: tony-cárdenas
+  full_name: Tony Cárdenas
+  type: Representative
+  state: California
+  phone: 202-225-6131
+  stance: oppose
+  district: 29
+  quote_html: |
+    <blockquote>
+      <p>"Disturbed and angered by these reports. This President's actions are hateful. Anyone who said Trump is just full of hot air is mistaken. With a stroke of a pen he is proving that he can do tremendous damage to our country. His ego and recklessness are putting Americans in danger. I will not sit quietly by while he dismantles our democratic principles."</p>&mdash; Facebook
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: brad-sherman
+  full_name: Brad Sherman
+  type: Representative
+  state: California
+  phone: 202-225-5911
+  stance: oppose
+  district: 30
+  quote_html: |
+    <blockquote>
+      <p>“What is particularly outrageous is that the order was applied to people who are legal permanent residents of the United States, commonly called 'green card holders.' The order was drafted in such a way that it could, but need not, be read to apply to these people, many of whom have been in the United States for years, have already been vetted, have jobs, businesses, families, and lives in the United States."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: pete-aguilar
+  full_name: Pete Aguilar
+  type: Representative
+  state: California
+  phone: 202-225-3201
+  stance: oppose
+  district: 31
+  quote_html: |
+    <blockquote>
+      <p>"This executive order will do nothing to make our country safer and only sends a message of hate and bigotry to the rest of the world. This order would not have prevented the attack in San Bernardino and the use of San Bernardino as justification for this anti-Muslim policy is a revolting way to exploit our community."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: grace-f-napolitano
+  full_name: Grace F. Napolitano
+  type: Representative
+  state: California
+  phone: 202-225-5256
+  stance: oppose
+  district: 32
+  quote_html: |
+    <blockquote>
+      <p>"Barring entry to the United States based on religion or religious heritage is not only criminal, it is unconstitutional and un-American. This abhorrent view makes us less safe, adds fuel to the propaganda our enemies are using as a recruitment tool, and should be condemned by all. This impulsive decision was not thought-out or properly vetted, and it has created much hurt, anguish, and confusion. Proper coordination between agencies and advanced notice given to people involved could have prevented individuals from being detained at ports of entry the last two days."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: ted-lieu
+  full_name: Ted Lieu
+  type: Representative
+  state: California
+  phone: 202-225-3976
+  stance: oppose
+  district: 33
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825776444521320448'></p>
+- id: norma-j-torres
+  full_name: Norma J. Torres
+  type: Representative
+  state: California
+  phone: 202-225-6161
+  stance: oppose
+  district: 35
+  quote_html: |
+    <blockquote>
+      <p>"World class Doctors, translators who helped US forces, stopped at airports. #MuslimBan is shameful, un-American!"</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: raul-ruiz
+  full_name: Raul Ruiz
+  type: Representative
+  state: California
+  phone: 202-225-5330
+  stance: oppose
+  district: 36
+  quote_html: |
+    <blockquote>
+      <p>"The President's Executive Order is wrong and misguided. It threatens our moral clarity, American values, and national security. I am appalled by these actions and the very real human toll they will have on innocent families. I will support @ACLU's legal challenges. "</p>&mdash; Facebook
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: karen-bass
+  full_name: Karen Bass
+  type: Representative
+  state: California
+  phone: 202-225-7084
+  stance: oppose
+  district: 37
+  quote_html: |
+    <blockquote>
+      <p>"We must be better than this. This is not world leadership, this is living in fear with hatred in our hearts."</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: linda-t-sánchez
+  full_name: Linda T. Sánchez
+  type: Representative
+  state: California
+  phone: 202-225-6676
+  stance: undecided
+  district: 38
+  quote_html: ''
+- id: edward-r-royce
+  full_name: Edward R. Royce
+  type: Representative
+  state: California
+  phone: 202-225-4111
+  stance: undecided
+  district: 39
+  quote_html: ''
+- id: lucille-roybal-allard
+  full_name: Lucille Roybal-Allard
+  type: Representative
+  state: California
+  phone: 202-225-1766
+  stance: oppose
+  district: 40
+  quote_html: |
+    <blockquote>
+      <p>"The order’s masking of religious discrimination against refugees, legal permanent residents, and visa holders in the name of national security is reprehensible and illegal. It puts in place policies with astounding and inexcusable religious discrimination at levels not seen since World War II."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: mark-takano
+  full_name: Mark Takano
+  type: Representative
+  state: California
+  phone: 202-225-2305
+  stance: oppose
+  district: 41
+  quote_html: |
+    <blockquote>
+      <p>"As the descendent of parents and grandparents imprisoned in Japanese American internment camps, I am sickened by the use of collective punishment against all citizens of a certain nationality. This executive order is plainly un-American and plays to our worst instincts of tribalism and nationalism. On its own, this executive order marks a terrible moment for our country and a stain on our legacy."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: ken-calvert
+  full_name: Ken Calvert
+  type: Representative
+  state: California
+  phone: 202-225-1986
+  stance: support
+  district: 42
+  quote_html: |
+    <blockquote>
+      <p>"For some time now, I’ve had serious concerns about the efficacy of the immigrant vetting process for nationals from certain countries, like Syria and Iraq. Some of these nations simply are not cooperative with providing information to our national security agencies, while others simply lack the technical capability to verify identification. That is why I do support a narrow, country-based pause until more strenuous vetting procedures can be put in place."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: maxine-waters
+  full_name: Maxine Waters
+  type: Representative
+  state: California
+  phone: 202-225-2201
+  stance: oppose
+  district: 43
+  quote_html: |
+    <blockquote>
+      <p>"Shame on Trump for closing the door on refugees fleeing violence from Assad in Syria whose attacks on children were aided by his ally Putin!"</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: nanette-diaz-barragán
+  full_name: Nanette Diaz Barragán
+  type: Representative
+  state: California
+  phone: 202-225-8220
+  stance: oppose
+  district: 44
+  quote_html: |
+    <blockquote>
+      <p>"Great to see big crowds here @flyLAXairport today.  I'm headed back to D.C. to demand answers & that @POTUS withdraw EO  #MuslimBanprotest"
+    </p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: mimi-walters
+  full_name: Mimi Walters
+  type: Representative
+  state: California
+  phone: 202-225-5611
+  stance: undecided
+  district: 45
+  quote_html: |
+    <blockquote>
+      <p>"The federal government’s primary responsibility is to protect national security. We must reevaluate the visa vetting process to ensure that our security measures are adequate to address the threats facing our nation.”
+     </p>&mdash; Statement
+
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: j-luis-correa
+  full_name: J. Luis Correa
+  type: Representative
+  state: California
+  phone: 202-225-2965
+  stance: undecided
+  district: 46
+  quote_html: ''
+- id: alan-s-lowenthal
+  full_name: Alan S. Lowenthal
+  type: Representative
+  state: California
+  phone: 202-225-7924
+  stance: oppose
+  district: 47
+  quote_html: |
+    <blockquote>
+      <p>“I condemn in the strongest terms the President’s executive order banning refugees and the citizens of Muslim nations. This ban, whether temporary or not, is shameful, wholly un-American at its core, and as written, unconstitutional. The history of our nation is one written by the refugee and the immigrant; people across the globe who fled religious persecution, war, famine, and poverty. People seeking a better life — one based not in fear, but in freedom and liberty. They chose America, which has long endured as the shining beacon on the hill. Sadly, that light was dimmed this weekend by the President's immigration executive order."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: dana-rohrabacher
+  full_name: Dana Rohrabacher
+  type: Representative
+  state: California
+  phone: 202-225-2415
+  stance: undecided
+  district: 48
+  quote_html: |
+    <blockquote>
+      <p>No public comments and none provided when asked</p>&mdash; 
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: darrell-e-issa
+  full_name: Darrell E. Issa
+  type: Representative
+  state: California
+  phone: 202-225-3906
+  stance: undecided
+  district: 49
+  quote_html: |
+    <blockquote>
+      <p>"A welcoming America is not incompatible with a strong and secure America. We can put in place a vetting process that the American people have confidence in. To do so, the Congress must work with the administration to swiftly reestablish strong and clear screening procedures so that our rich tradition of immigration is not permanently threatened by those who wish us harm."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: duncan-hunter
+  full_name: Duncan Hunter
+  type: Representative
+  state: California
+  phone: 202-225-5672
+  stance: support
+  district: 50
+  quote_html: |
+    <blockquote>
+      <p>“It’s a necessary step toward regaining control of an immigration system that’s become a point of tremendous vulnerability.” Hunter's staff said he supports the intent, but questions how it was rolled out.</p>&mdash; The Press-Enterprise
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: juan-vargas
+  full_name: Juan Vargas
+  type: Representative
+  state: California
+  phone: 202-225-8045
+  stance: oppose
+  district: 51
+  quote_html: |
+    <blockquote>
+      <p>"Turning our backs on those who are seeking help is un-American. We are better than this. #MuslimBan"</p>&mdash; Twitter
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: scott-h-peters
+  full_name: Scott H. Peters
+  type: Representative
+  state: California
+  phone: 202-225-0508
+  stance: oppose
+  district: 52
+  quote_html: |
+    <blockquote>
+      <p>"So-called ‘extreme-vetting’ has always been cover for policies based in fear and discrimination, particularly towards Muslims. Our rigorous vetting processes, which often take years to complete even for women and children, are the reason we don’t have to choose between security and being a haven for those seeking freedom and prosperity in America."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: susan-a-davis
+  full_name: Susan A. Davis
+  type: Representative
+  state: California
+  phone: 202-225-2040
+  stance: oppose
+  district: 53
+  quote_html: |
+    <blockquote>
+      <p>“Congress needs to take immediate action to repeal Trump’s Executive Order. The Muslim ban is a policy based on fear not strength. This order will do nothing to keep us safe. If anything, it will likely have the opposite effect. This executive order will also reduce the stature and influence America will have globally."</p>&mdash; Statement
+      <p>Sarah D. Wire, <a href="http://spreadsheets.latimes.com/where-california-congressmembers-stand-trump-order/"><span>Los Angeles Times, January 30, 2017</span></a></p>
+    </blockquote>
+- id: cory-gardner
+  full_name: Cory Gardner
+  type: Senator
+  state: Colorado
+  phone: 202-224-5941
+  stance: undecided
+  quote_html: ''
+- id: michael-f-bennet
+  full_name: Michael F. Bennet
+  type: Senator
+  state: Colorado
+  phone: 202-224-5852
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825140252947918848'></p>
+- id: diana-degette
+  full_name: Diana DeGette
+  type: Representative
+  state: Colorado
+  phone: 202-225-4431
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: jared-polis
+  full_name: Jared Polis
+  type: Representative
+  state: Colorado
+  phone: 202-225-2161
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: scott-r-tipton
+  full_name: Scott R. Tipton
+  type: Representative
+  state: Colorado
+  phone: 202-225-4761
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: ken-buck
+  full_name: Ken Buck
+  type: Representative
+  state: Colorado
+  phone: 202-225-4676
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: doug-lamborn
+  full_name: Doug Lamborn
+  type: Representative
+  state: Colorado
+  phone: 202-225-4422
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: mike-coffman
+  full_name: Mike Coffman
+  type: Representative
+  state: Colorado
+  phone: 202-225-7882
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: ed-perlmutter
+  full_name: Ed Perlmutter
+  type: Representative
+  state: Colorado
+  phone: 202-225-2645
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: christopher-murphy
+  full_name: Christopher Murphy
+  type: Senator
+  state: Connecticut
+  phone: 202-224-4041
+  stance: undecided
+  quote_html: ''
+- id: richard-blumenthal
+  full_name: Richard Blumenthal
+  type: Senator
+  state: Connecticut
+  phone: 202-224-2823
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825038759594962946'></p>
+- id: john-b-larson
+  full_name: John B. Larson
+  type: Representative
+  state: Connecticut
+  phone: 202-225-2265
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: joe-courtney
+  full_name: Joe Courtney
+  type: Representative
+  state: Connecticut
+  phone: 202-225-2076
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: rosa-l-delauro
+  full_name: Rosa L. DeLauro
+  type: Representative
+  state: Connecticut
+  phone: 202-225-3661
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: james-a-himes
+  full_name: James A. Himes
+  type: Representative
+  state: Connecticut
+  phone: 202-225-5541
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: elizabeth-h-esty
+  full_name: Elizabeth H. Esty
+  type: Representative
+  state: Connecticut
+  phone: 202-225-4476
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: christopher-a-coons
+  full_name: Christopher A. Coons
+  type: Senator
+  state: Delaware
+  phone: 202-224-5042
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825438709742985216'></p>
+- id: thomas-r-carper
+  full_name: Thomas R. Carper
+  type: Senator
+  state: Delaware
+  phone: 202-224-2441
+  stance: undecided
+  quote_html: ''
+- id: lisa-blunt-rochester
+  full_name: Lisa Blunt Rochester
+  type: Representative
+  state: Delaware
+  phone: 202-225-4165
+  stance: undecided
+  quote_html: ''
+- id: eleanor-holmes-norton
+  full_name: Eleanor Holmes Norton
+  type: Representative
+  state: District of Columbia
+  phone: 202-225-8050
+  stance: undecided
+  quote_html: ''
+- id: bill-nelson
+  full_name: Bill Nelson
+  type: Senator
+  state: Florida
+  phone: 202-224-5274
+  stance: undecided
+  quote_html: ''
+- id: marco-rubio
+  full_name: Marco Rubio
+  type: Senator
+  state: Florida
+  phone: 202-224-3041
+  stance: undecided
+  quote_html: ''
+- id: matt-gaetz
+  full_name: Matt Gaetz
+  type: Representative
+  state: Florida
+  phone: 202-225-4136
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: neal-p-dunn
+  full_name: Neal P. Dunn
+  type: Representative
+  state: Florida
+  phone: 202-225-5235
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: ted-s-yoho
+  full_name: Ted S. Yoho
+  type: Representative
+  state: Florida
+  phone: 202-225-5744
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: john-h-rutherford
+  full_name: John H. Rutherford
+  type: Representative
+  state: Florida
+  phone: 202-225-2501
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: al-lawson-jr
+  full_name: 'Al Lawson, Jr.'
+  type: Representative
+  state: Florida
+  phone: 202-225-0123
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: ron-desantis
+  full_name: Ron DeSantis
+  type: Representative
+  state: Florida
+  phone: 202-225-2706
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: stephanie-n-murphy
+  full_name: Stephanie N. Murphy
+  type: Representative
+  state: Florida
+  phone: 202-225-4035
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: bill-posey
+  full_name: Bill Posey
+  type: Representative
+  state: Florida
+  phone: 202-225-3671
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: darren-soto
+  full_name: Darren Soto
+  type: Representative
+  state: Florida
+  phone: 202-225-9889
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: val-butler-demings
+  full_name: Val Butler Demings
+  type: Representative
+  state: Florida
+  phone: 202-225-2176
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: daniel-webster
+  full_name: Daniel Webster
+  type: Representative
+  state: Florida
+  phone: 202-225-1002
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: gus-m-bilirakis
+  full_name: Gus M. Bilirakis
+  type: Representative
+  state: Florida
+  phone: 202-225-5755
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: charlie-crist
+  full_name: Charlie Crist
+  type: Representative
+  state: Florida
+  phone: 202-225-5961
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: kathy-castor
+  full_name: Kathy Castor
+  type: Representative
+  state: Florida
+  phone: 202-225-3376
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: dennis-a-ross
+  full_name: Dennis A. Ross
+  type: Representative
+  state: Florida
+  phone: 202-225-1252
+  stance: undecided
+  district: 15
+  quote_html: ''
+- id: vern-buchanan
+  full_name: Vern Buchanan
+  type: Representative
+  state: Florida
+  phone: 202-225-5015
+  stance: undecided
+  district: 16
+  quote_html: ''
+- id: thomas-j-rooney
+  full_name: Thomas J. Rooney
+  type: Representative
+  state: Florida
+  phone: 202-225-5792
+  stance: undecided
+  district: 17
+  quote_html: ''
+- id: brian-j-mast
+  full_name: Brian J. Mast
+  type: Representative
+  state: Florida
+  phone: 202-225-3026
+  stance: undecided
+  district: 18
+  quote_html: ''
+- id: francis-rooney
+  full_name: Francis Rooney
+  type: Representative
+  state: Florida
+  phone: 202-225-2536
+  stance: undecided
+  district: 19
+  quote_html: ''
+- id: alcee-l-hastings
+  full_name: Alcee L. Hastings
+  type: Representative
+  state: Florida
+  phone: 202-225-1313
+  stance: undecided
+  district: 20
+  quote_html: ''
+- id: lois-frankel
+  full_name: Lois Frankel
+  type: Representative
+  state: Florida
+  phone: 202-225-9890
+  stance: undecided
+  district: 21
+  quote_html: ''
+- id: theodore-e-deutch
+  full_name: Theodore E. Deutch
+  type: Representative
+  state: Florida
+  phone: 202-225-3001
+  stance: undecided
+  district: 22
+  quote_html: ''
+- id: debbie-wasserman-schultz
+  full_name: Debbie Wasserman Schultz
+  type: Representative
+  state: Florida
+  phone: 202-225-7931
+  stance: undecided
+  district: 23
+  quote_html: ''
+- id: frederica-s-wilson
+  full_name: Frederica S. Wilson
+  type: Representative
+  state: Florida
+  phone: 202-225-4506
+  stance: undecided
+  district: 24
+  quote_html: ''
+- id: mario-diaz-balart
+  full_name: Mario Diaz-Balart
+  type: Representative
+  state: Florida
+  phone: 202-225-4211
+  stance: undecided
+  district: 25
+  quote_html: ''
+- id: carlos-curbelo
+  full_name: Carlos Curbelo
+  type: Representative
+  state: Florida
+  phone: 202-225-2778
+  stance: undecided
+  district: 26
+  quote_html: ''
+- id: ileana-ros-lehtinen
+  full_name: Ileana Ros-Lehtinen
+  type: Representative
+  state: Florida
+  phone: 202-225-3931
+  stance: undecided
+  district: 27
+  quote_html: ''
+- id: david-perdue
+  full_name: David Perdue
+  type: Senator
+  state: Georgia
+  phone: 202-224-3521
+  stance: undecided
+  quote_html: ''
+- id: johnny-isakson
+  full_name: Johnny Isakson
+  type: Senator
+  state: Georgia
+  phone: 202-224-3643
+  stance: undecided
+  quote_html: ''
+- id: earl-l-"buddy"-carter
+  full_name: Earl L. "Buddy" Carter
+  type: Representative
+  state: Georgia
+  phone: 202-225-5831
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: sanford-d-bishop-jr
+  full_name: 'Sanford D. Bishop, Jr.'
+  type: Representative
+  state: Georgia
+  phone: 202-225-3631
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: a-drew-ferguson-iv
+  full_name: A. Drew Ferguson IV
+  type: Representative
+  state: Georgia
+  phone: 202-225-5901
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: henry-c-"hank"-johnson-jr
+  full_name: 'Henry C. "Hank" Johnson, Jr.'
+  type: Representative
+  state: Georgia
+  phone: 202-225-1605
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: john-lewis
+  full_name: John Lewis
+  type: Representative
+  state: Georgia
+  phone: 202-225-3801
+  stance: oppose
+  district: 5
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825516926206095361'></p>
+- id: tom-price
+  full_name: Tom Price
+  type: Representative
+  state: Georgia
+  phone: 202-225-4501
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: rob-woodall
+  full_name: Rob Woodall
+  type: Representative
+  state: Georgia
+  phone: 202-225-4272
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: austin-scott
+  full_name: Austin Scott
+  type: Representative
+  state: Georgia
+  phone: 202-225-6531
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: doug-collins
+  full_name: Doug Collins
+  type: Representative
+  state: Georgia
+  phone: 202-225-9893
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: jody-b-hice
+  full_name: Jody B. Hice
+  type: Representative
+  state: Georgia
+  phone: 202-225-4101
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: barry-loudermilk
+  full_name: Barry Loudermilk
+  type: Representative
+  state: Georgia
+  phone: 202-225-2931
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: rick-w-allen
+  full_name: Rick W. Allen
+  type: Representative
+  state: Georgia
+  phone: 202-225-2823
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: david-scott
+  full_name: David Scott
+  type: Representative
+  state: Georgia
+  phone: 202-225-2939
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: tom-graves
+  full_name: Tom Graves
+  type: Representative
+  state: Georgia
+  phone: 202-225-5211
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: madeleine-z-bordallo
+  full_name: Madeleine Z. Bordallo
+  type: Representative
+  state: Guam
+  phone: 202-225-1188
+  stance: undecided
+  quote_html: ''
+- id: brian-schatz
+  full_name: Brian Schatz
+  type: Senator
+  state: Hawaii
+  phone: 202-224-3934
+  stance: undecided
+  quote_html: ''
+- id: mazie-k-hirono
+  full_name: Mazie K. Hirono
+  type: Senator
+  state: Hawaii
+  phone: 202-224-6361
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825124910959849473'></p>
+- id: colleen-hanabusa
+  full_name: Colleen Hanabusa
+  type: Representative
+  state: Hawaii
+  phone: 202-225-2726
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: tulsi-gabbard
+  full_name: Tulsi Gabbard
+  type: Representative
+  state: Hawaii
+  phone: 202-225-4906
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: james-e-risch
+  full_name: James E. Risch
+  type: Senator
+  state: Idaho
+  phone: 202-224-2752
+  stance: undecided
+  quote_html: ''
+- id: mike-crapo
+  full_name: Mike Crapo
+  type: Senator
+  state: Idaho
+  phone: 202-224-6142
+  stance: undecided
+  quote_html: ''
+- id: raúl-r-labrador
+  full_name: Raúl R. Labrador
+  type: Representative
+  state: Idaho
+  phone: 202-225-6611
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: michael-k-simpson
+  full_name: Michael K. Simpson
+  type: Representative
+  state: Idaho
+  phone: 202-225-5531
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: richard-j-durbin
+  full_name: Richard J. Durbin
+  type: Senator
+  state: Illinois
+  phone: 202-224-2152
+  stance: undecided
+  quote_html: ''
+- id: tammy-duckworth
+  full_name: Tammy Duckworth
+  type: Senator
+  state: Illinois
+  phone: 202-224-2854
+  stance: undecided
+  quote_html: ''
+- id: bobby-l-rush
+  full_name: Bobby L. Rush
+  type: Representative
+  state: Illinois
+  phone: 202-225-4372
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: robin-l-kelly
+  full_name: Robin L. Kelly
+  type: Representative
+  state: Illinois
+  phone: 202-225-0773
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: daniel-lipinski
+  full_name: Daniel Lipinski
+  type: Representative
+  state: Illinois
+  phone: 202-225-5701
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: luis-v-gutiérrez
+  full_name: Luis V. Gutiérrez
+  type: Representative
+  state: Illinois
+  phone: 202-225-8203
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: mike-quigley
+  full_name: Mike Quigley
+  type: Representative
+  state: Illinois
+  phone: 202-225-4061
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: peter-j-roskam
+  full_name: Peter J. Roskam
+  type: Representative
+  state: Illinois
+  phone: 202-225-4561
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: danny-k-davis
+  full_name: Danny K. Davis
+  type: Representative
+  state: Illinois
+  phone: 202-225-5006
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: raja-krishnamoorthi
+  full_name: Raja Krishnamoorthi
+  type: Representative
+  state: Illinois
+  phone: 202-225-3711
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: janice-d-schakowsky
+  full_name: Janice D. Schakowsky
+  type: Representative
+  state: Illinois
+  phone: 202-225-2111
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: bradley-scott-schneider
+  full_name: Bradley Scott Schneider
+  type: Representative
+  state: Illinois
+  phone: 202-225-4835
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: bill-foster
+  full_name: Bill Foster
+  type: Representative
+  state: Illinois
+  phone: 202-225-3515
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: mike-bost
+  full_name: Mike Bost
+  type: Representative
+  state: Illinois
+  phone: 202-225-5661
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: rodney-davis
+  full_name: Rodney Davis
+  type: Representative
+  state: Illinois
+  phone: 202-225-2371
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: randy-hultgren
+  full_name: Randy Hultgren
+  type: Representative
+  state: Illinois
+  phone: 202-225-2976
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: john-shimkus
+  full_name: John Shimkus
+  type: Representative
+  state: Illinois
+  phone: 202-225-5271
+  stance: undecided
+  district: 15
+  quote_html: ''
+- id: adam-kinzinger
+  full_name: Adam Kinzinger
+  type: Representative
+  state: Illinois
+  phone: 202-225-3635
+  stance: undecided
+  district: 16
+  quote_html: ''
+- id: cheri-bustos
+  full_name: Cheri Bustos
+  type: Representative
+  state: Illinois
+  phone: 202-225-5905
+  stance: undecided
+  district: 17
+  quote_html: ''
+- id: darin-lahood
+  full_name: Darin LaHood
+  type: Representative
+  state: Illinois
+  phone: 202-225-6201
+  stance: undecided
+  district: 18
+  quote_html: ''
+- id: joe-donnelly
+  full_name: Joe Donnelly
+  type: Senator
+  state: Indiana
+  phone: 202-224-4814
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825391567099850752'></p>
+- id: todd-young
+  full_name: Todd Young
+  type: Senator
+  state: Indiana
+  phone: 202-224-5623
+  stance: undecided
+  quote_html: ''
+- id: peter-j-visclosky
+  full_name: Peter J. Visclosky
+  type: Representative
+  state: Indiana
+  phone: 202-225-2461
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: jackie-walorski
+  full_name: Jackie Walorski
+  type: Representative
+  state: Indiana
+  phone: 202-225-3915
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: jim-banks
+  full_name: Jim Banks
+  type: Representative
+  state: Indiana
+  phone: 202-225-4436
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: todd-rokita
+  full_name: Todd Rokita
+  type: Representative
+  state: Indiana
+  phone: 202-225-5037
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: susan-w-brooks
+  full_name: Susan W. Brooks
+  type: Representative
+  state: Indiana
+  phone: 202-225-2276
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: luke-messer
+  full_name: Luke Messer
+  type: Representative
+  state: Indiana
+  phone: 202-225-3021
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: andré-carson
+  full_name: André Carson
+  type: Representative
+  state: Indiana
+  phone: 202-225-4011
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: larry-bucshon
+  full_name: Larry Bucshon
+  type: Representative
+  state: Indiana
+  phone: 202-225-4636
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: trey-hollingsworth
+  full_name: Trey Hollingsworth
+  type: Representative
+  state: Indiana
+  phone: 202-225-5315
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: chuck-grassley
+  full_name: Chuck Grassley
+  type: Senator
+  state: Iowa
+  phone: 202-224-3744
+  stance: undecided
+  quote_html: ''
+- id: joni-ernst
+  full_name: Joni Ernst
+  type: Senator
+  state: Iowa
+  phone: 202-224-3254
+  stance: undecided
+  quote_html: ''
+- id: rod-blum
+  full_name: Rod Blum
+  type: Representative
+  state: Iowa
+  phone: 202-225-2911
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: david-loebsack
+  full_name: David Loebsack
+  type: Representative
+  state: Iowa
+  phone: 202-225-6576
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: david-young
+  full_name: David Young
+  type: Representative
+  state: Iowa
+  phone: 202-225-5476
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: steve-king
+  full_name: Steve King
+  type: Representative
+  state: Iowa
+  phone: 202-225-4426
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: jerry-moran
+  full_name: Jerry Moran
+  type: Senator
+  state: Kansas
+  phone: 202-224-6521
+  stance: undecided
+  quote_html: ''
+- id: pat-roberts
+  full_name: Pat Roberts
+  type: Senator
+  state: Kansas
+  phone: 202-224-4774
+  stance: undecided
+  quote_html: ''
+- id: roger-w-marshall
+  full_name: Roger W. Marshall
+  type: Representative
+  state: Kansas
+  phone: 202-225-2715
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: lynn-jenkins
+  full_name: Lynn Jenkins
+  type: Representative
+  state: Kansas
+  phone: 202-225-6601
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: kevin-yoder
+  full_name: Kevin Yoder
+  type: Representative
+  state: Kansas
+  phone: 202-225-2865
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: mitch-mcconnell
+  full_name: Mitch McConnell
+  type: Senator
+  state: Kentucky
+  phone: 202-224-2541
+  stance: undecided
+  quote_html: ''
+- id: rand-paul
+  full_name: Rand Paul
+  type: Senator
+  state: Kentucky
+  phone: 202-224-4343
+  stance: undecided
+  quote_html: ''
+- id: james-comer
+  full_name: James Comer
+  type: Representative
+  state: Kentucky
+  phone: 202-225-3115
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: brett-guthrie
+  full_name: Brett Guthrie
+  type: Representative
+  state: Kentucky
+  phone: 202-225-3501
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: john-a-yarmuth
+  full_name: John A. Yarmuth
+  type: Representative
+  state: Kentucky
+  phone: 202-225-5401
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: thomas-massie
+  full_name: Thomas Massie
+  type: Representative
+  state: Kentucky
+  phone: 202-225-3465
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: harold-rogers
+  full_name: Harold Rogers
+  type: Representative
+  state: Kentucky
+  phone: 202-225-4601
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: andy-barr
+  full_name: Andy Barr
+  type: Representative
+  state: Kentucky
+  phone: 202-225-4706
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: bill-cassidy
+  full_name: Bill Cassidy
+  type: Senator
+  state: Louisiana
+  phone: 202-224-5824
+  stance: undecided
+  quote_html: ''
+- id: john-kennedy
+  full_name: John Kennedy
+  type: Senator
+  state: Louisiana
+  phone: 202-224-4623
+  stance: undecided
+  quote_html: ''
+- id: steve-scalise
+  full_name: Steve Scalise
+  type: Representative
+  state: Louisiana
+  phone: 202-225-3015
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: cedric-l-richmond
+  full_name: Cedric L. Richmond
+  type: Representative
+  state: Louisiana
+  phone: 202-225-6636
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: clay-higgins
+  full_name: Clay Higgins
+  type: Representative
+  state: Louisiana
+  phone: 202-225-2031
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: mike-johnson
+  full_name: Mike Johnson
+  type: Representative
+  state: Louisiana
+  phone: 202-225-2777
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: ralph-lee-abraham
+  full_name: Ralph Lee Abraham
+  type: Representative
+  state: Louisiana
+  phone: 202-225-8490
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: garret-graves
+  full_name: Garret Graves
+  type: Representative
+  state: Louisiana
+  phone: 202-225-3901
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: angus-s-king-jr
+  full_name: 'Angus S. King, Jr.'
+  type: Senator
+  state: Maine
+  phone: 202-224-5344
+  stance: undecided
+  quote_html: ''
+- id: susan-m-collins
+  full_name: Susan M. Collins
+  type: Senator
+  state: Maine
+  phone: 202-224-2523
+  stance: undecided
+  quote_html: ''
+- id: chellie-pingree
+  full_name: Chellie Pingree
+  type: Representative
+  state: Maine
+  phone: 202-225-6116
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: bruce-poliquin
+  full_name: Bruce Poliquin
+  type: Representative
+  state: Maine
+  phone: 202-225-6306
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: benjamin-l-cardin
+  full_name: Benjamin L. Cardin
+  type: Senator
+  state: Maryland
+  phone: 202-224-4524
+  stance: undecided
+  quote_html: ''
+- id: chris-van-hollen
+  full_name: Chris Van Hollen
+  type: Senator
+  state: Maryland
+  phone: 202-224-4654
+  stance: undecided
+  quote_html: ''
+- id: andy-harris
+  full_name: Andy Harris
+  type: Representative
+  state: Maryland
+  phone: 202-225-5311
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: c-a-dutch-ruppersberger
+  full_name: C. A. Dutch Ruppersberger
+  type: Representative
+  state: Maryland
+  phone: 202-225-3061
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: john-p-sarbanes
+  full_name: John P. Sarbanes
+  type: Representative
+  state: Maryland
+  phone: 202-225-4016
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: anthony-g-brown
+  full_name: Anthony G. Brown
+  type: Representative
+  state: Maryland
+  phone: 202-225-8699
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: steny-h-hoyer
+  full_name: Steny H. Hoyer
+  type: Representative
+  state: Maryland
+  phone: 202-225-4131
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: john-k-delaney
+  full_name: John K. Delaney
+  type: Representative
+  state: Maryland
+  phone: 202-225-2721
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: elijah-e-cummings
+  full_name: Elijah E. Cummings
+  type: Representative
+  state: Maryland
+  phone: 202-225-4741
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: jamie-raskin
+  full_name: Jamie Raskin
+  type: Representative
+  state: Maryland
+  phone: 202-225-5341
+  stance: oppose
+  district: 8
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825864244851830784'></p>
+- id: edward-j-markey
+  full_name: Edward J. Markey
+  type: Senator
+  state: Massachusetts
+  phone: 202-224-2742
+  stance: undecided
+  quote_html: ''
+- id: elizabeth-warren
+  full_name: Elizabeth Warren
+  type: Senator
+  state: Massachusetts
+  phone: 202-224-4543
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825781131480072192'></p>
+- id: richard-e-neal
+  full_name: Richard E. Neal
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-5601
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: james-p-mcgovern
+  full_name: James P. McGovern
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-6101
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: niki-tsongas
+  full_name: Niki Tsongas
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-3411
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: joseph-p-kennedy-iii
+  full_name: Joseph P. Kennedy III
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-5931
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: katherine-m-clark
+  full_name: Katherine M. Clark
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-2836
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: seth-moulton
+  full_name: Seth Moulton
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-8020
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: michael-e-capuano
+  full_name: Michael E. Capuano
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-5111
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: stephen-f-lynch
+  full_name: Stephen F. Lynch
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-8273
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: william-r-keating
+  full_name: William R. Keating
+  type: Representative
+  state: Massachusetts
+  phone: 202-225-3111
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: debbie-stabenow
+  full_name: Debbie Stabenow
+  type: Senator
+  state: Michigan
+  phone: 202-224-4822
+  stance: undecided
+  quote_html: ''
+- id: gary-c-peters
+  full_name: Gary C. Peters
+  type: Senator
+  state: Michigan
+  phone: 202-224-6221
+  stance: undecided
+  quote_html: ''
+- id: jack-bergman
+  full_name: Jack Bergman
+  type: Representative
+  state: Michigan
+  phone: 202-225-4735
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: bill-huizenga
+  full_name: Bill Huizenga
+  type: Representative
+  state: Michigan
+  phone: 202-225-4401
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: justin-amash
+  full_name: Justin Amash
+  type: Representative
+  state: Michigan
+  phone: 202-225-3831
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: john-r-moolenaar
+  full_name: John R. Moolenaar
+  type: Representative
+  state: Michigan
+  phone: 202-225-3561
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: daniel-t-kildee
+  full_name: Daniel T. Kildee
+  type: Representative
+  state: Michigan
+  phone: 202-225-3611
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: fred-upton
+  full_name: Fred Upton
+  type: Representative
+  state: Michigan
+  phone: 202-225-3761
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: tim-walberg
+  full_name: Tim Walberg
+  type: Representative
+  state: Michigan
+  phone: 202-225-6276
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: mike-bishop
+  full_name: Mike Bishop
+  type: Representative
+  state: Michigan
+  phone: 202-225-4872
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: sander-m-levin
+  full_name: Sander M. Levin
+  type: Representative
+  state: Michigan
+  phone: 202-225-4961
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: paul-mitchell
+  full_name: Paul Mitchell
+  type: Representative
+  state: Michigan
+  phone: 202-225-2106
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: david-a-trott
+  full_name: David A. Trott
+  type: Representative
+  state: Michigan
+  phone: 202-225-8171
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: debbie-dingell
+  full_name: Debbie Dingell
+  type: Representative
+  state: Michigan
+  phone: 202-225-4071
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: john-conyers-jr
+  full_name: 'John Conyers, Jr.'
+  type: Representative
+  state: Michigan
+  phone: 202-225-5126
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: brenda-l-lawrence
+  full_name: Brenda L. Lawrence
+  type: Representative
+  state: Michigan
+  phone: 202-225-5802
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: al-franken
+  full_name: Al Franken
+  type: Senator
+  state: Minnesota
+  phone: 202-224-5641
+  stance: undecided
+  quote_html: ''
+- id: amy-klobuchar
+  full_name: Amy Klobuchar
+  type: Senator
+  state: Minnesota
+  phone: 202-224-3244
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825776631159615493'></p>
+- id: timothy-j-walz
+  full_name: Timothy J. Walz
+  type: Representative
+  state: Minnesota
+  phone: 202-225-2472
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: jason-lewis
+  full_name: Jason Lewis
+  type: Representative
+  state: Minnesota
+  phone: 202-225-2271
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: erik-paulsen
+  full_name: Erik Paulsen
+  type: Representative
+  state: Minnesota
+  phone: 202-225-2871
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: betty-mccollum
+  full_name: Betty McCollum
+  type: Representative
+  state: Minnesota
+  phone: 202-225-6631
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: keith-ellison
+  full_name: Keith Ellison
+  type: Representative
+  state: Minnesota
+  phone: 202-225-4755
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: tom-emmer
+  full_name: Tom Emmer
+  type: Representative
+  state: Minnesota
+  phone: 202-225-2331
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: collin-c-peterson
+  full_name: Collin C. Peterson
+  type: Representative
+  state: Minnesota
+  phone: 202-225-2165
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: richard-m-nolan
+  full_name: Richard M. Nolan
+  type: Representative
+  state: Minnesota
+  phone: 202-225-6211
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: roger-f-wicker
+  full_name: Roger F. Wicker
+  type: Senator
+  state: Mississippi
+  phone: 202-224-6253
+  stance: undecided
+  quote_html: ''
+- id: thad-cochran
+  full_name: Thad Cochran
+  type: Senator
+  state: Mississippi
+  phone: 202-224-5054
+  stance: undecided
+  quote_html: ''
+- id: trent-kelly
+  full_name: Trent Kelly
+  type: Representative
+  state: Mississippi
+  phone: 202-225-4306
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: bennie-g-thompson
+  full_name: Bennie G. Thompson
+  type: Representative
+  state: Mississippi
+  phone: 202-225-5876
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: gregg-harper
+  full_name: Gregg Harper
+  type: Representative
+  state: Mississippi
+  phone: 202-225-5031
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: steven-m-palazzo
+  full_name: Steven M. Palazzo
+  type: Representative
+  state: Mississippi
+  phone: 202-225-5772
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: claire-mccaskill
+  full_name: Claire McCaskill
+  type: Senator
+  state: Missouri
+  phone: 202-224-6154
+  stance: undecided
+  quote_html: ''
+- id: roy-blunt
+  full_name: Roy Blunt
+  type: Senator
+  state: Missouri
+  phone: 202-224-5721
+  stance: undecided
+  quote_html: ''
+- id: wm-lacy-clay
+  full_name: Wm. Lacy Clay
+  type: Representative
+  state: Missouri
+  phone: 202-225-2406
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: ann-wagner
+  full_name: Ann Wagner
+  type: Representative
+  state: Missouri
+  phone: 202-225-1621
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: blaine-luetkemeyer
+  full_name: Blaine Luetkemeyer
+  type: Representative
+  state: Missouri
+  phone: 202-225-2956
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: vicky-hartzler
+  full_name: Vicky Hartzler
+  type: Representative
+  state: Missouri
+  phone: 202-225-2876
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: emanuel-cleaver
+  full_name: Emanuel Cleaver
+  type: Representative
+  state: Missouri
+  phone: 202-225-4535
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: sam-graves
+  full_name: Sam Graves
+  type: Representative
+  state: Missouri
+  phone: 202-225-7041
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: billy-long
+  full_name: Billy Long
+  type: Representative
+  state: Missouri
+  phone: 202-225-6536
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: jason-smith
+  full_name: Jason Smith
+  type: Representative
+  state: Missouri
+  phone: 202-225-4404
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: jon-tester
+  full_name: Jon Tester
+  type: Senator
+  state: Montana
+  phone: 202-224-2644
+  stance: undecided
+  quote_html: ''
+- id: steve-daines
+  full_name: Steve Daines
+  type: Senator
+  state: Montana
+  phone: 202-224-2651
+  stance: undecided
+  quote_html: ''
+- id: ryan-k-zinke
+  full_name: Ryan K. Zinke
+  type: Representative
+  state: Montana
+  phone: 202-225-3211
+  stance: undecided
+  quote_html: ''
+- id: ben-sasse
+  full_name: Ben Sasse
+  type: Senator
+  state: Nebraska
+  phone: 202-224-4224
+  stance: undecided
+  quote_html: ''
+- id: deb-fischer
+  full_name: Deb Fischer
+  type: Senator
+  state: Nebraska
+  phone: 202-224-6551
+  stance: undecided
+  quote_html: ''
+- id: jeff-fortenberry
+  full_name: Jeff Fortenberry
+  type: Representative
+  state: Nebraska
+  phone: 202-225-4806
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: don-bacon
+  full_name: Don Bacon
+  type: Representative
+  state: Nebraska
+  phone: 202-225-4155
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: adrian-smith
+  full_name: Adrian Smith
+  type: Representative
+  state: Nebraska
+  phone: 202-225-6435
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: catherine-cortez-masto
+  full_name: Catherine Cortez Masto
+  type: Senator
+  state: Nevada
+  phone: 202-224-3542
+  stance: undecided
+  quote_html: ''
+- id: dean-heller
+  full_name: Dean Heller
+  type: Senator
+  state: Nevada
+  phone: 202-224-6244
+  stance: undecided
+  quote_html: ''
+- id: dina-titus
+  full_name: Dina Titus
+  type: Representative
+  state: Nevada
+  phone: 202-225-5965
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: mark-e-amodei
+  full_name: Mark E. Amodei
+  type: Representative
+  state: Nevada
+  phone: 202-225-6155
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: jacky-rosen
+  full_name: Jacky Rosen
+  type: Representative
+  state: Nevada
+  phone: 202-225-3252
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: ruben-kihuen
+  full_name: Ruben Kihuen
+  type: Representative
+  state: Nevada
+  phone: 202-225-9894
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: jeanne-shaheen
+  full_name: Jeanne Shaheen
+  type: Senator
+  state: New Hampshire
+  phone: 202-224-2841
+  stance: undecided
+  quote_html: ''
+- id: margaret-wood-hassan
+  full_name: Margaret Wood Hassan
+  type: Senator
+  state: New Hampshire
+  phone: 202-224-3324
+  stance: undecided
+  quote_html: ''
+- id: carol-shea-porter
+  full_name: Carol Shea-Porter
+  type: Representative
+  state: New Hampshire
+  phone: 202-225-5456
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: ann-m-kuster
+  full_name: Ann M. Kuster
+  type: Representative
+  state: New Hampshire
+  phone: 202-225-5206
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: cory-a-booker
+  full_name: Cory A. Booker
+  type: Senator
+  state: New Jersey
+  phone: 202-224-3224
+  stance: undecided
+  quote_html: ''
+- id: robert-menendez
+  full_name: Robert Menendez
+  type: Senator
+  state: New Jersey
+  phone: 202-224-4744
+  stance: undecided
+  quote_html: ''
+- id: donald-norcross
+  full_name: Donald Norcross
+  type: Representative
+  state: New Jersey
+  phone: 202-225-6501
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: frank-a-lobiondo
+  full_name: Frank A. LoBiondo
+  type: Representative
+  state: New Jersey
+  phone: 202-225-6572
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: thomas-macarthur
+  full_name: Thomas MacArthur
+  type: Representative
+  state: New Jersey
+  phone: 202-225-4765
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: christopher-h-smith
+  full_name: Christopher H. Smith
+  type: Representative
+  state: New Jersey
+  phone: 202-225-3765
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: josh-gottheimer
+  full_name: Josh Gottheimer
+  type: Representative
+  state: New Jersey
+  phone: 202-225-4465
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: frank-pallone-jr
+  full_name: 'Frank Pallone, Jr.'
+  type: Representative
+  state: New Jersey
+  phone: 202-225-4671
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: leonard-lance
+  full_name: Leonard Lance
+  type: Representative
+  state: New Jersey
+  phone: 202-225-5361
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: albio-sires
+  full_name: Albio Sires
+  type: Representative
+  state: New Jersey
+  phone: 202-225-7919
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: bill-pascrell-jr
+  full_name: 'Bill Pascrell, Jr.'
+  type: Representative
+  state: New Jersey
+  phone: 202-225-5751
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: donald-m-payne-jr
+  full_name: 'Donald M. Payne, Jr.'
+  type: Representative
+  state: New Jersey
+  phone: 202-225-3436
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: rodney-p-frelinghuysen
+  full_name: Rodney P. Frelinghuysen
+  type: Representative
+  state: New Jersey
+  phone: 202-225-5034
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: bonnie-watson-coleman
+  full_name: Bonnie Watson Coleman
+  type: Representative
+  state: New Jersey
+  phone: 202-225-5801
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: martin-heinrich
+  full_name: Martin Heinrich
+  type: Senator
+  state: New Mexico
+  phone: 202-224-5521
+  stance: undecided
+  quote_html: ''
+- id: tom-udall
+  full_name: Tom Udall
+  type: Senator
+  state: New Mexico
+  phone: 202-224-6621
+  stance: undecided
+  quote_html: ''
+- id: michelle-lujan-grisham
+  full_name: Michelle Lujan Grisham
+  type: Representative
+  state: New Mexico
+  phone: 202-225-6316
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: stevan-pearce
+  full_name: Stevan Pearce
+  type: Representative
+  state: New Mexico
+  phone: 202-225-2365
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: ben-ray-luján
+  full_name: Ben Ray Luján
+  type: Representative
+  state: New Mexico
+  phone: 202-225-6190
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: charles-e-schumer
+  full_name: Charles E. Schumer
+  type: Senator
+  state: New York
+  phone: 202-224-6542
+  stance: undecided
+  quote_html: ''
+- id: kirsten-e-gillibrand
+  full_name: Kirsten E. Gillibrand
+  type: Senator
+  state: New York
+  phone: 202-224-4451
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825799977951698944'></p>
+- id: lee-m-zeldin
+  full_name: Lee M. Zeldin
+  type: Representative
+  state: New York
+  phone: 202-225-3826
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: peter-t-king
+  full_name: Peter T. King
+  type: Representative
+  state: New York
+  phone: 202-225-7896
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: thomas-r-suozzi
+  full_name: Thomas R. Suozzi
+  type: Representative
+  state: New York
+  phone: 202-225-3335
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: kathleen-m-rice
+  full_name: Kathleen M. Rice
+  type: Representative
+  state: New York
+  phone: 202-225-5516
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: gregory-w-meeks
+  full_name: Gregory W. Meeks
+  type: Representative
+  state: New York
+  phone: 202-225-3461
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: grace-meng
+  full_name: Grace Meng
+  type: Representative
+  state: New York
+  phone: 202-225-2601
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: nydia-m-velázquez
+  full_name: Nydia M. Velázquez
+  type: Representative
+  state: New York
+  phone: 202-225-2361
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: hakeem-s-jeffries
+  full_name: Hakeem S. Jeffries
+  type: Representative
+  state: New York
+  phone: 202-225-5936
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: yvette-d-clarke
+  full_name: Yvette D. Clarke
+  type: Representative
+  state: New York
+  phone: 202-225-6231
+  stance: oppose
+  district: 9
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825713686945943553'></p>
+- id: jerrold-nadler
+  full_name: Jerrold Nadler
+  type: Representative
+  state: New York
+  phone: 202-225-5635
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: daniel-m-donovan-jr
+  full_name: 'Daniel M. Donovan, Jr.'
+  type: Representative
+  state: New York
+  phone: 202-225-3371
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: carolyn-b-maloney
+  full_name: Carolyn B. Maloney
+  type: Representative
+  state: New York
+  phone: 202-225-7944
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: adriano-espaillat
+  full_name: Adriano Espaillat
+  type: Representative
+  state: New York
+  phone: 202-225-4365
+  stance: oppose
+  district: 13
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825762980298113024'></p>
+- id: joseph-crowley
+  full_name: Joseph Crowley
+  type: Representative
+  state: New York
+  phone: 202-225-3965
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: josé-e-serrano
+  full_name: José E. Serrano
+  type: Representative
+  state: New York
+  phone: 202-225-4361
+  stance: undecided
+  district: 15
+  quote_html: ''
+- id: eliot-l-engel
+  full_name: Eliot L. Engel
+  type: Representative
+  state: New York
+  phone: 202-225-2464
+  stance: undecided
+  district: 16
+  quote_html: ''
+- id: nita-m-lowey
+  full_name: Nita M. Lowey
+  type: Representative
+  state: New York
+  phone: 202-225-6506
+  stance: undecided
+  district: 17
+  quote_html: ''
+- id: sean-patrick-maloney
+  full_name: Sean Patrick Maloney
+  type: Representative
+  state: New York
+  phone: 202-225-5441
+  stance: undecided
+  district: 18
+  quote_html: ''
+- id: john-j-faso
+  full_name: John J. Faso
+  type: Representative
+  state: New York
+  phone: 202-225-5614
+  stance: undecided
+  district: 19
+  quote_html: ''
+- id: paul-tonko
+  full_name: Paul Tonko
+  type: Representative
+  state: New York
+  phone: 202-225-5076
+  stance: undecided
+  district: 20
+  quote_html: ''
+- id: elise-m-stefanik
+  full_name: Elise M. Stefanik
+  type: Representative
+  state: New York
+  phone: 202-225-4611
+  stance: undecided
+  district: 21
+  quote_html: ''
+- id: claudia-tenney
+  full_name: Claudia Tenney
+  type: Representative
+  state: New York
+  phone: 202-225-3665
+  stance: undecided
+  district: 22
+  quote_html: ''
+- id: tom-reed
+  full_name: Tom Reed
+  type: Representative
+  state: New York
+  phone: 202-225-3161
+  stance: undecided
+  district: 23
+  quote_html: ''
+- id: john-katko
+  full_name: John Katko
+  type: Representative
+  state: New York
+  phone: 202-225-3701
+  stance: undecided
+  district: 24
+  quote_html: ''
+- id: louise-mcintosh-slaughter
+  full_name: Louise McIntosh Slaughter
+  type: Representative
+  state: New York
+  phone: 202-225-3615
+  stance: undecided
+  district: 25
+  quote_html: ''
+- id: brian-higgins
+  full_name: Brian Higgins
+  type: Representative
+  state: New York
+  phone: 202-225-3306
+  stance: undecided
+  district: 26
+  quote_html: ''
+- id: chris-collins
+  full_name: Chris Collins
+  type: Representative
+  state: New York
+  phone: 202-225-5265
+  stance: undecided
+  district: 27
+  quote_html: ''
+- id: richard-burr
+  full_name: Richard Burr
+  type: Senator
+  state: North Carolina
+  phone: 202-224-3154
+  stance: undecided
+  quote_html: ''
+- id: thom-tillis
+  full_name: Thom Tillis
+  type: Senator
+  state: North Carolina
+  phone: 202-224-6342
+  stance: undecided
+  quote_html: ''
+- id: g-k-butterfield
+  full_name: G. K. Butterfield
+  type: Representative
+  state: North Carolina
+  phone: 202-225-3101
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: george-holding
+  full_name: George Holding
+  type: Representative
+  state: North Carolina
+  phone: 202-225-3032
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: walter-b-jones
+  full_name: Walter B. Jones
+  type: Representative
+  state: North Carolina
+  phone: 202-225-3415
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: david-e-price
+  full_name: David E. Price
+  type: Representative
+  state: North Carolina
+  phone: 202-225-1784
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: virginia-foxx
+  full_name: Virginia Foxx
+  type: Representative
+  state: North Carolina
+  phone: 202-225-2071
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: mark-walker
+  full_name: Mark Walker
+  type: Representative
+  state: North Carolina
+  phone: 202-225-3065
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: david-rouzer
+  full_name: David Rouzer
+  type: Representative
+  state: North Carolina
+  phone: 202-225-2731
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: richard-hudson
+  full_name: Richard Hudson
+  type: Representative
+  state: North Carolina
+  phone: 202-225-3715
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: robert-pittenger
+  full_name: Robert Pittenger
+  type: Representative
+  state: North Carolina
+  phone: 202-225-1976
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: patrick-t-mchenry
+  full_name: Patrick T. McHenry
+  type: Representative
+  state: North Carolina
+  phone: 202-225-2576
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: mark-meadows
+  full_name: Mark Meadows
+  type: Representative
+  state: North Carolina
+  phone: 202-225-6401
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: alma-s-adams
+  full_name: Alma S. Adams
+  type: Representative
+  state: North Carolina
+  phone: 202-225-1510
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: ted-budd
+  full_name: Ted Budd
+  type: Representative
+  state: North Carolina
+  phone: 202-225-4531
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: heidi-heitkamp
+  full_name: Heidi Heitkamp
+  type: Senator
+  state: North Dakota
+  phone: 202-224-2043
+  stance: undecided
+  quote_html: ''
+- id: john-hoeven
+  full_name: John Hoeven
+  type: Senator
+  state: North Dakota
+  phone: 202-224-2551
+  stance: undecided
+  quote_html: ''
+- id: kevin-cramer
+  full_name: Kevin Cramer
+  type: Representative
+  state: North Dakota
+  phone: 202-225-2611
+  stance: undecided
+  quote_html: ''
+- id: gregorio-kilili-camacho-sablan
+  full_name: Gregorio Kilili Camacho Sablan
+  type: Representative
+  state: Northern Mariana Islands
+  phone: 202-225-2646
+  stance: undecided
+  quote_html: ''
+- id: rob-portman
+  full_name: Rob Portman
+  type: Senator
+  state: Ohio
+  phone: 202-224-3353
+  stance: undecided
+  quote_html: ''
+- id: sherrod-brown
+  full_name: Sherrod Brown
+  type: Senator
+  state: Ohio
+  phone: 202-224-2315
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825431416984977409'></p>
+- id: steve-chabot
+  full_name: Steve Chabot
+  type: Representative
+  state: Ohio
+  phone: 202-225-2216
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: brad-r-wenstrup
+  full_name: Brad R. Wenstrup
+  type: Representative
+  state: Ohio
+  phone: 202-225-3164
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: joyce-beatty
+  full_name: Joyce Beatty
+  type: Representative
+  state: Ohio
+  phone: 202-225-4324
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: jim-jordan
+  full_name: Jim Jordan
+  type: Representative
+  state: Ohio
+  phone: 202-225-2676
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: robert-e-latta
+  full_name: Robert E. Latta
+  type: Representative
+  state: Ohio
+  phone: 202-225-6405
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: bill-johnson
+  full_name: Bill Johnson
+  type: Representative
+  state: Ohio
+  phone: 202-225-5705
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: bob-gibbs
+  full_name: Bob Gibbs
+  type: Representative
+  state: Ohio
+  phone: 202-225-6265
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: warren-davidson
+  full_name: Warren Davidson
+  type: Representative
+  state: Ohio
+  phone: 202-225-6205
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: marcy-kaptur
+  full_name: Marcy Kaptur
+  type: Representative
+  state: Ohio
+  phone: 202-225-4146
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: michael-r-turner
+  full_name: Michael R. Turner
+  type: Representative
+  state: Ohio
+  phone: 202-225-6465
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: marcia-l-fudge
+  full_name: Marcia L. Fudge
+  type: Representative
+  state: Ohio
+  phone: 202-225-7032
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: patrick-j-tiberi
+  full_name: Patrick J. Tiberi
+  type: Representative
+  state: Ohio
+  phone: 202-225-5355
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: tim-ryan
+  full_name: Tim Ryan
+  type: Representative
+  state: Ohio
+  phone: 202-225-5261
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: david-p-joyce
+  full_name: David P. Joyce
+  type: Representative
+  state: Ohio
+  phone: 202-225-5731
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: steve-stivers
+  full_name: Steve Stivers
+  type: Representative
+  state: Ohio
+  phone: 202-225-2015
+  stance: undecided
+  district: 15
+  quote_html: ''
+- id: james-b-renacci
+  full_name: James B. Renacci
+  type: Representative
+  state: Ohio
+  phone: 202-225-3876
+  stance: undecided
+  district: 16
+  quote_html: ''
+- id: james-lankford
+  full_name: James Lankford
+  type: Senator
+  state: Oklahoma
+  phone: 202-224-5754
+  stance: undecided
+  quote_html: ''
+- id: james-m-inhofe
+  full_name: James M. Inhofe
+  type: Senator
+  state: Oklahoma
+  phone: 202-224-4721
+  stance: undecided
+  quote_html: ''
+- id: jim-bridenstine
+  full_name: Jim Bridenstine
+  type: Representative
+  state: Oklahoma
+  phone: 202-225-2211
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: markwayne-mullin
+  full_name: Markwayne Mullin
+  type: Representative
+  state: Oklahoma
+  phone: 202-225-2701
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: frank-d-lucas
+  full_name: Frank D. Lucas
+  type: Representative
+  state: Oklahoma
+  phone: 202-225-5565
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: tom-cole
+  full_name: Tom Cole
+  type: Representative
+  state: Oklahoma
+  phone: 202-225-6165
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: steve-russell
+  full_name: Steve Russell
+  type: Representative
+  state: Oklahoma
+  phone: 202-225-2132
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: jeff-merkley
+  full_name: Jeff Merkley
+  type: Senator
+  state: Oregon
+  phone: 202-224-3753
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825499517692805120'></p>
+- id: ron-wyden
+  full_name: Ron Wyden
+  type: Senator
+  state: Oregon
+  phone: 202-224-5244
+  stance: undecided
+  quote_html: ''
+- id: suzanne-bonamici
+  full_name: Suzanne Bonamici
+  type: Representative
+  state: Oregon
+  phone: 202-225-0855
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: greg-walden
+  full_name: Greg Walden
+  type: Representative
+  state: Oregon
+  phone: 202-225-6730
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: earl-blumenauer
+  full_name: Earl Blumenauer
+  type: Representative
+  state: Oregon
+  phone: 202-225-4811
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: peter-a-defazio
+  full_name: Peter A. DeFazio
+  type: Representative
+  state: Oregon
+  phone: 202-225-6416
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: kurt-schrader
+  full_name: Kurt Schrader
+  type: Representative
+  state: Oregon
+  phone: 202-225-5711
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: patrick-j-toomey
+  full_name: Patrick J. Toomey
+  type: Senator
+  state: Pennsylvania
+  phone: 202-224-4254
+  stance: undecided
+  quote_html: ''
+- id: robert-p-casey-jr
+  full_name: 'Robert P. Casey, Jr.'
+  type: Senator
+  state: Pennsylvania
+  phone: 202-224-6324
+  stance: undecided
+  quote_html: ''
+- id: robert-a-brady
+  full_name: Robert A. Brady
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-4731
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: dwight-evans
+  full_name: Dwight Evans
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-4001
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: mike-kelly
+  full_name: Mike Kelly
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-5406
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: scott-perry
+  full_name: Scott Perry
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-5836
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: glenn-thompson
+  full_name: Glenn Thompson
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-5121
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: ryan-a-costello
+  full_name: Ryan A. Costello
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-4315
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: patrick-meehan
+  full_name: Patrick Meehan
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-2011
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: brian-k-fitzpatrick
+  full_name: Brian K. Fitzpatrick
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-4276
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: bill-shuster
+  full_name: Bill Shuster
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-2431
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: tom-marino
+  full_name: Tom Marino
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-3731
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: lou-barletta
+  full_name: Lou Barletta
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-6511
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: keith-j-rothfus
+  full_name: Keith J. Rothfus
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-2065
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: brendan-f-boyle
+  full_name: Brendan F. Boyle
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-6111
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: michael-f-doyle
+  full_name: Michael F. Doyle
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-2135
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: charles-w-dent
+  full_name: Charles W. Dent
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-6411
+  stance: undecided
+  district: 15
+  quote_html: ''
+- id: lloyd-smucker
+  full_name: Lloyd Smucker
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-2411
+  stance: undecided
+  district: 16
+  quote_html: ''
+- id: matt-cartwright
+  full_name: Matt Cartwright
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-5546
+  stance: undecided
+  district: 17
+  quote_html: ''
+- id: tim-murphy
+  full_name: Tim Murphy
+  type: Representative
+  state: Pennsylvania
+  phone: 202-225-2301
+  stance: undecided
+  district: 18
+  quote_html: ''
+- id: jenniffer-gonzález-colón
+  full_name: Jenniffer González-Colón
+  type: Representative
+  state: Puerto Rico
+  phone: 202-225-2615
+  stance: undecided
+  quote_html: ''
+- id: jack-reed
+  full_name: Jack Reed
+  type: Senator
+  state: Rhode Island
+  phone: 202-224-4642
+  stance: undecided
+  quote_html: ''
+- id: sheldon-whitehouse
+  full_name: Sheldon Whitehouse
+  type: Senator
+  state: Rhode Island
+  phone: 202-224-2921
+  stance: undecided
+  quote_html: ''
+- id: david-n-cicilline
+  full_name: David N. Cicilline
+  type: Representative
+  state: Rhode Island
+  phone: 202-225-4911
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: james-r-langevin
+  full_name: James R. Langevin
+  type: Representative
+  state: Rhode Island
+  phone: 202-225-2735
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: lindsey-graham
+  full_name: Lindsey Graham
+  type: Senator
+  state: South Carolina
+  phone: 202-224-5972
+  stance: undecided
+  quote_html: ''
+- id: tim-scott
+  full_name: Tim Scott
+  type: Senator
+  state: South Carolina
+  phone: 202-224-6121
+  stance: undecided
+  quote_html: ''
+- id: mark-sanford
+  full_name: Mark Sanford
+  type: Representative
+  state: South Carolina
+  phone: 202-225-3176
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: joe-wilson
+  full_name: Joe Wilson
+  type: Representative
+  state: South Carolina
+  phone: 202-225-2452
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: jeff-duncan
+  full_name: Jeff Duncan
+  type: Representative
+  state: South Carolina
+  phone: 202-225-5301
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: trey-gowdy
+  full_name: Trey Gowdy
+  type: Representative
+  state: South Carolina
+  phone: 202-225-6030
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: mick-mulvaney
+  full_name: Mick Mulvaney
+  type: Representative
+  state: South Carolina
+  phone: 202-225-5501
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: james-e-clyburn
+  full_name: James E. Clyburn
+  type: Representative
+  state: South Carolina
+  phone: 202-225-3315
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: tom-rice
+  full_name: Tom Rice
+  type: Representative
+  state: South Carolina
+  phone: 202-225-9895
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: john-thune
+  full_name: John Thune
+  type: Senator
+  state: South Dakota
+  phone: 202-224-2321
+  stance: undecided
+  quote_html: ''
+- id: mike-rounds
+  full_name: Mike Rounds
+  type: Senator
+  state: South Dakota
+  phone: 202-224-5842
+  stance: undecided
+  quote_html: ''
+- id: kristi-l-noem
+  full_name: Kristi L. Noem
+  type: Representative
+  state: South Dakota
+  phone: 202-225-2801
+  stance: undecided
+  quote_html: ''
+- id: bob-corker
+  full_name: Bob Corker
+  type: Senator
+  state: Tennessee
+  phone: 202-224-3344
+  stance: undecided
+  quote_html: ''
+- id: lamar-alexander
+  full_name: Lamar Alexander
+  type: Senator
+  state: Tennessee
+  phone: 202-224-4944
+  stance: undecided
+  quote_html: ''
+- id: david-p-roe
+  full_name: David P. Roe
+  type: Representative
+  state: Tennessee
+  phone: 202-225-6356
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: john-j-duncan-jr
+  full_name: 'John J. Duncan, Jr.'
+  type: Representative
+  state: Tennessee
+  phone: 202-225-5435
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: charles-j-"chuck"-fleischmann
+  full_name: Charles J. "Chuck" Fleischmann
+  type: Representative
+  state: Tennessee
+  phone: 202-225-3271
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: scott-desjarlais
+  full_name: Scott DesJarlais
+  type: Representative
+  state: Tennessee
+  phone: 202-225-6831
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: jim-cooper
+  full_name: Jim Cooper
+  type: Representative
+  state: Tennessee
+  phone: 202-225-4311
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: diane-black
+  full_name: Diane Black
+  type: Representative
+  state: Tennessee
+  phone: 202-225-4231
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: marsha-blackburn
+  full_name: Marsha Blackburn
+  type: Representative
+  state: Tennessee
+  phone: 202-225-2811
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: david-kustoff
+  full_name: David Kustoff
+  type: Representative
+  state: Tennessee
+  phone: 202-225-4714
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: steve-cohen
+  full_name: Steve Cohen
+  type: Representative
+  state: Tennessee
+  phone: 202-225-3265
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: john-cornyn
+  full_name: John Cornyn
+  type: Senator
+  state: Texas
+  phone: 202-224-2934
+  stance: undecided
+  quote_html: ''
+- id: ted-cruz
+  full_name: Ted Cruz
+  type: Senator
+  state: Texas
+  phone: 202-224-5922
+  stance: undecided
+  quote_html: ''
+- id: louie-gohmert
+  full_name: Louie Gohmert
+  type: Representative
+  state: Texas
+  phone: 202-225-3035
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: ted-poe
+  full_name: Ted Poe
+  type: Representative
+  state: Texas
+  phone: 202-225-6565
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: sam-johnson
+  full_name: Sam Johnson
+  type: Representative
+  state: Texas
+  phone: 202-225-4201
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: john-ratcliffe
+  full_name: John Ratcliffe
+  type: Representative
+  state: Texas
+  phone: 202-225-6673
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: jeb-hensarling
+  full_name: Jeb Hensarling
+  type: Representative
+  state: Texas
+  phone: 202-225-3484
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: joe-barton
+  full_name: Joe Barton
+  type: Representative
+  state: Texas
+  phone: 202-225-2002
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: john-abney-culberson
+  full_name: John Abney Culberson
+  type: Representative
+  state: Texas
+  phone: 202-225-2571
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: kevin-brady
+  full_name: Kevin Brady
+  type: Representative
+  state: Texas
+  phone: 202-225-4901
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: al-green
+  full_name: Al Green
+  type: Representative
+  state: Texas
+  phone: 202-225-7508
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: michael-t-mccaul
+  full_name: Michael T. McCaul
+  type: Representative
+  state: Texas
+  phone: 202-225-2401
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: k-michael-conaway
+  full_name: K. Michael Conaway
+  type: Representative
+  state: Texas
+  phone: 202-225-3605
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: kay-granger
+  full_name: Kay Granger
+  type: Representative
+  state: Texas
+  phone: 202-225-5071
+  stance: undecided
+  district: 12
+  quote_html: ''
+- id: mac-thornberry
+  full_name: Mac Thornberry
+  type: Representative
+  state: Texas
+  phone: 202-225-3706
+  stance: undecided
+  district: 13
+  quote_html: ''
+- id: randy-k-weber-sr
+  full_name: 'Randy K. Weber, Sr.'
+  type: Representative
+  state: Texas
+  phone: 202-225-2831
+  stance: undecided
+  district: 14
+  quote_html: ''
+- id: vicente-gonzalez
+  full_name: Vicente Gonzalez
+  type: Representative
+  state: Texas
+  phone: 202-225-2531
+  stance: undecided
+  district: 15
+  quote_html: ''
+- id: beto-o'rourke
+  full_name: Beto O'Rourke
+  type: Representative
+  state: Texas
+  phone: 202-225-4831
+  stance: undecided
+  district: 16
+  quote_html: ''
+- id: bill-flores
+  full_name: Bill Flores
+  type: Representative
+  state: Texas
+  phone: 202-225-6105
+  stance: undecided
+  district: 17
+  quote_html: ''
+- id: sheila-jackson-lee
+  full_name: Sheila Jackson Lee
+  type: Representative
+  state: Texas
+  phone: 202-225-3816
+  stance: undecided
+  district: 18
+  quote_html: ''
+- id: jodey-c-arrington
+  full_name: Jodey C. Arrington
+  type: Representative
+  state: Texas
+  phone: 202-225-4005
+  stance: undecided
+  district: 19
+  quote_html: ''
+- id: joaquin-castro
+  full_name: Joaquin Castro
+  type: Representative
+  state: Texas
+  phone: 202-225-3236
+  stance: undecided
+  district: 20
+  quote_html: ''
+- id: lamar-smith
+  full_name: Lamar Smith
+  type: Representative
+  state: Texas
+  phone: 202-225-4236
+  stance: undecided
+  district: 21
+  quote_html: ''
+- id: pete-olson
+  full_name: Pete Olson
+  type: Representative
+  state: Texas
+  phone: 202-225-5951
+  stance: undecided
+  district: 22
+  quote_html: ''
+- id: will-hurd
+  full_name: Will Hurd
+  type: Representative
+  state: Texas
+  phone: 202-225-4511
+  stance: undecided
+  district: 23
+  quote_html: ''
+- id: kenny-marchant
+  full_name: Kenny Marchant
+  type: Representative
+  state: Texas
+  phone: 202-225-6605
+  stance: undecided
+  district: 24
+  quote_html: ''
+- id: roger-williams
+  full_name: Roger Williams
+  type: Representative
+  state: Texas
+  phone: 202-225-9896
+  stance: undecided
+  district: 25
+  quote_html: ''
+- id: michael-c-burgess
+  full_name: Michael C. Burgess
+  type: Representative
+  state: Texas
+  phone: 202-225-7772
+  stance: undecided
+  district: 26
+  quote_html: ''
+- id: blake-farenthold
+  full_name: Blake Farenthold
+  type: Representative
+  state: Texas
+  phone: 202-225-7742
+  stance: undecided
+  district: 27
+  quote_html: ''
+- id: henry-cuellar
+  full_name: Henry Cuellar
+  type: Representative
+  state: Texas
+  phone: 202-225-1640
+  stance: undecided
+  district: 28
+  quote_html: ''
+- id: gene-green
+  full_name: Gene Green
+  type: Representative
+  state: Texas
+  phone: 202-225-1688
+  stance: undecided
+  district: 29
+  quote_html: ''
+- id: eddie-bernice-johnson
+  full_name: Eddie Bernice Johnson
+  type: Representative
+  state: Texas
+  phone: 202-225-8885
+  stance: undecided
+  district: 30
+  quote_html: ''
+- id: john-r-carter
+  full_name: John R. Carter
+  type: Representative
+  state: Texas
+  phone: 202-225-3864
+  stance: undecided
+  district: 31
+  quote_html: ''
+- id: pete-sessions
+  full_name: Pete Sessions
+  type: Representative
+  state: Texas
+  phone: 202-225-2231
+  stance: undecided
+  district: 32
+  quote_html: ''
+- id: marc-a-veasey
+  full_name: Marc A. Veasey
+  type: Representative
+  state: Texas
+  phone: 202-225-9897
+  stance: undecided
+  district: 33
+  quote_html: ''
+- id: filemon-vela
+  full_name: Filemon Vela
+  type: Representative
+  state: Texas
+  phone: 202-225-9901
+  stance: undecided
+  district: 34
+  quote_html: ''
+- id: lloyd-doggett
+  full_name: Lloyd Doggett
+  type: Representative
+  state: Texas
+  phone: 202-225-4865
+  stance: undecided
+  district: 35
+  quote_html: ''
+- id: brian-babin
+  full_name: Brian Babin
+  type: Representative
+  state: Texas
+  phone: 202-225-1555
+  stance: undecided
+  district: 36
+  quote_html: ''
+- id: mike-lee
+  full_name: Mike Lee
+  type: Senator
+  state: Utah
+  phone: 202-224-5444
+  stance: undecided
+  quote_html: ''
+- id: orrin-g-hatch
+  full_name: Orrin G. Hatch
+  type: Senator
+  state: Utah
+  phone: 202-224-5251
+  stance: undecided
+  quote_html: ''
+- id: rob-bishop
+  full_name: Rob Bishop
+  type: Representative
+  state: Utah
+  phone: 202-225-0453
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: chris-stewart
+  full_name: Chris Stewart
+  type: Representative
+  state: Utah
+  phone: 202-225-9730
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: jason-chaffetz
+  full_name: Jason Chaffetz
+  type: Representative
+  state: Utah
+  phone: 202-225-7751
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: mia-b-love
+  full_name: Mia B. Love
+  type: Representative
+  state: Utah
+  phone: 202-225-3011
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: bernard-sanders
+  full_name: Bernard Sanders
+  type: Senator
+  state: Vermont
+  phone: 202-224-5141
+  stance: undecided
+  quote_html: ''
+- id: patrick-j-leahy
+  full_name: Patrick J. Leahy
+  type: Senator
+  state: Vermont
+  phone: 202-224-4242
+  stance: undecided
+  quote_html: ''
+- id: peter-welch
+  full_name: Peter Welch
+  type: Representative
+  state: Vermont
+  phone: 202-225-4115
+  stance: undecided
+  quote_html: ''
+- id: stacey-e-plaskett
+  full_name: Stacey E. Plaskett
+  type: Representative
+  state: Virgin Islands
+  phone: 202-225-1790
+  stance: undecided
+  quote_html: ''
+- id: mark-r-warner
+  full_name: Mark R. Warner
+  type: Senator
+  state: Virginia
+  phone: 202-224-2023
+  stance: undecided
+  quote_html: ''
+- id: tim-kaine
+  full_name: Tim Kaine
+  type: Senator
+  state: Virginia
+  phone: 202-224-4024
+  stance: undecided
+  quote_html: ''
+- id: robert-j-wittman
+  full_name: Robert J. Wittman
+  type: Representative
+  state: Virginia
+  phone: 202-225-4261
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: scott-taylor
+  full_name: Scott Taylor
+  type: Representative
+  state: Virginia
+  phone: 202-225-4215
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: robert-c-"bobby"-scott
+  full_name: Robert C. "Bobby" Scott
+  type: Representative
+  state: Virginia
+  phone: 202-225-8351
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: a-donald-mceachin
+  full_name: A. Donald McEachin
+  type: Representative
+  state: Virginia
+  phone: 202-225-6365
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: thomas-a-garrett-jr
+  full_name: 'Thomas A. Garrett, Jr.'
+  type: Representative
+  state: Virginia
+  phone: 202-225-4711
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: bob-goodlatte
+  full_name: Bob Goodlatte
+  type: Representative
+  state: Virginia
+  phone: 202-225-5431
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: dave-brat
+  full_name: Dave Brat
+  type: Representative
+  state: Virginia
+  phone: 202-225-2815
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: donald-s-beyer-jr
+  full_name: 'Donald S. Beyer, Jr.'
+  type: Representative
+  state: Virginia
+  phone: 202-225-4376
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: h-morgan-griffith
+  full_name: H. Morgan Griffith
+  type: Representative
+  state: Virginia
+  phone: 202-225-3861
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: barbara-comstock
+  full_name: Barbara Comstock
+  type: Representative
+  state: Virginia
+  phone: 202-225-5136
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: gerald-e-connolly
+  full_name: Gerald E. Connolly
+  type: Representative
+  state: Virginia
+  phone: 202-225-1492
+  stance: undecided
+  district: 11
+  quote_html: ''
+- id: maria-cantwell
+  full_name: Maria Cantwell
+  type: Senator
+  state: Washington
+  phone: 202-224-3441
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825483696518086656'></p>
+- id: patty-murray
+  full_name: Patty Murray
+  type: Senator
+  state: Washington
+  phone: 202-224-2621
+  stance: undecided
+  quote_html: ''
+- id: suzan-k-delbene
+  full_name: Suzan K. DelBene
+  type: Representative
+  state: Washington
+  phone: 202-225-6311
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: rick-larsen
+  full_name: Rick Larsen
+  type: Representative
+  state: Washington
+  phone: 202-225-2605
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: jaime-herrera-beutler
+  full_name: Jaime Herrera Beutler
+  type: Representative
+  state: Washington
+  phone: 202-225-3536
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: dan-newhouse
+  full_name: Dan Newhouse
+  type: Representative
+  state: Washington
+  phone: 202-225-5816
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: cathy-mcmorris-rodgers
+  full_name: Cathy McMorris Rodgers
+  type: Representative
+  state: Washington
+  phone: 202-225-2006
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: derek-kilmer
+  full_name: Derek Kilmer
+  type: Representative
+  state: Washington
+  phone: 202-225-5916
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: pramila-jayapal
+  full_name: Pramila Jayapal
+  type: Representative
+  state: Washington
+  phone: 202-225-3106
+  stance: oppose
+  district: 7
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825848985281650689'></p>
+- id: david-g-reichert
+  full_name: David G. Reichert
+  type: Representative
+  state: Washington
+  phone: 202-225-7761
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: adam-smith
+  full_name: Adam Smith
+  type: Representative
+  state: Washington
+  phone: 202-225-8901
+  stance: undecided
+  district: 9
+  quote_html: ''
+- id: denny-heck
+  full_name: Denny Heck
+  type: Representative
+  state: Washington
+  phone: 202-225-9740
+  stance: undecided
+  district: 10
+  quote_html: ''
+- id: joe-manchin-iii
+  full_name: 'Joe Manchin, III'
+  type: Senator
+  state: West Virginia
+  phone: 202-224-3954
+  stance: undecided
+  quote_html: ''
+- id: shelley-moore-capito
+  full_name: Shelley Moore Capito
+  type: Senator
+  state: West Virginia
+  phone: 202-224-6472
+  stance: undecided
+  quote_html: ''
+- id: david-b-mckinley
+  full_name: David B. McKinley
+  type: Representative
+  state: West Virginia
+  phone: 202-225-4172
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: alexander-x-mooney
+  full_name: Alexander X. Mooney
+  type: Representative
+  state: West Virginia
+  phone: 202-225-2711
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: evan-h-jenkins
+  full_name: Evan H. Jenkins
+  type: Representative
+  state: West Virginia
+  phone: 202-225-3452
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: ron-johnson
+  full_name: Ron Johnson
+  type: Senator
+  state: Wisconsin
+  phone: 202-224-5323
+  stance: undecided
+  quote_html: ''
+- id: tammy-baldwin
+  full_name: Tammy Baldwin
+  type: Senator
+  state: Wisconsin
+  phone: 202-224-5653
+  stance: oppose
+  quote_html: >
+    <p class='js-twitter-embed oembed oembed-twitter'
+    data-id='825765075533361152'></p>
+- id: paul-d-ryan
+  full_name: Paul D. Ryan
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-3031
+  stance: undecided
+  district: 1
+  quote_html: ''
+- id: mark-pocan
+  full_name: Mark Pocan
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-2906
+  stance: undecided
+  district: 2
+  quote_html: ''
+- id: ron-kind
+  full_name: Ron Kind
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-5506
+  stance: undecided
+  district: 3
+  quote_html: ''
+- id: gwen-moore
+  full_name: Gwen Moore
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-4572
+  stance: undecided
+  district: 4
+  quote_html: ''
+- id: f-james-sensenbrenner-jr
+  full_name: 'F. James Sensenbrenner, Jr.'
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-5101
+  stance: undecided
+  district: 5
+  quote_html: ''
+- id: glenn-grothman
+  full_name: Glenn Grothman
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-2476
+  stance: undecided
+  district: 6
+  quote_html: ''
+- id: sean-p-duffy
+  full_name: Sean P. Duffy
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-3365
+  stance: undecided
+  district: 7
+  quote_html: ''
+- id: mike-gallagher
+  full_name: Mike Gallagher
+  type: Representative
+  state: Wisconsin
+  phone: 202-225-5665
+  stance: undecided
+  district: 8
+  quote_html: ''
+- id: john-barrasso
+  full_name: John Barrasso
+  type: Senator
+  state: Wyoming
+  phone: 202-224-6441
+  stance: undecided
+  quote_html: ''
+- id: michael-b-enzi
+  full_name: Michael B. Enzi
+  type: Senator
+  state: Wyoming
+  phone: 202-224-3424
+  stance: undecided
+  quote_html: ''
+- id: liz-cheney
+  full_name: Liz Cheney
+  type: Representative
+  state: Wyoming
+  phone: 202-225-2311
+  stance: undecided
+  quote_html: ''

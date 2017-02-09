@@ -1,0 +1,14 @@
+
+<h2 id="search">Find your representatives</h2>
+
+<h3>Search with your address</h3>
+
+<p>Find your district representative on <a href="http://www.house.gov/representatives/find/">house.gov</a>, using your zip code or home address.</p> 
+<p class="action-link"><a href="http://www.house.gov/representatives/find/" style="font-size: 18px;">Visit house.gov</a></p>
+
+<h3>Or choose your state</h3>
+<ul class="states">
+{% for nextstate in site.data.states %}
+<li><a href="{{ site.baseurl }}/state/{{ nextstate.name | downcase | replace: ' ', '-' }}#members"><span>{{ nextstate.name }}</span></a></li>
+{% endfor %}
+</ul>

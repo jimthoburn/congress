@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% include statistics.html %}
+
+{% include find-your-representatives.html %}
+
+<h2 id="members">Support</h2>
+
+<ul class="members">
+
+{% for member in site.data.congress %}
+  {% if member.stance == 'support' %}
+    {% include member.html %}
+  {% endif %}
+{% endfor %}
+
+</ul>

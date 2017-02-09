@@ -1,0 +1,5 @@
+---
+name: Connecticut
+abbreviation: CT
+
+---

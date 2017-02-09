@@ -1,0 +1,5 @@
+---
+name: Guam
+abbreviation: GU
+
+---

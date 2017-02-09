@@ -1,0 +1,5 @@
+---
+name: Alaska
+abbreviation: AK
+
+---

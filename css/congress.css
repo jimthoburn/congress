@@ -1,0 +1,700 @@
+
+.congress .message textarea {
+  margin: 1.25em 0 0 0;
+  font-size: inherit;
+  font-family: inherit;
+  padding: 0;
+  border: 2px solid;
+  background: transparent;
+  padding: 0.625em 1.25em;
+  width: 100%;
+  box-sizing: border-box;
+  line-height: 1.25;
+  min-height: 12.75em;
+}
+.congress,
+.congress .members li,
+.congress .search,
+.congress .contact,
+.congress .totals + h2 {
+  margin-top: 3em;
+}
+.congress .totals + h2 {
+  margin-top: 6em;
+}
+.copy .congress .members    li,
+.copy .congress .statistics li {
+  opacity: 1;
+}
+.copy .congress .members    li::before,
+.copy .congress .statistics li::before {
+  content: none;
+}
+.congress .statistics li + li {
+  margin-top: 20px;
+}
+
+
+.congress .totals {
+  margin-top: 9em;
+  margin-bottom: 6em;
+  font-family: "Freight Text W03", Georgia, serif;
+}
+.congress .totals,
+.congress .totals li {
+  list-style: none;
+  padding-left: 0;
+}
+.congress .totals::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.congress .totals li {
+  float: left;
+  opacity: 1;
+  line-height: 1.5;
+  height: 1.5em;
+}
+.congress .totals li a {
+  display: block;
+  height: 1.5em;
+  text-shadow: none !important;
+  background-image: none;
+  line-height: 1.5;
+}
+.congress .totals li span {
+  position: absolute;
+  white-space: nowrap;
+  margin-top: 3em;
+  text-align: center;
+  line-height: 1.5;
+}
+.congress .totals li span i {
+  font-style: italic;
+  color: #202f33;
+}
+.congress .totals li span b {
+  margin-top: -0.25em;
+}
+.congress .totals .undecided span b {
+  position: absolute;
+  top: 0;
+  margin-top: -1.25em;
+}
+.congress .totals .support span {
+  text-align: left;
+}
+.congress .totals .oppose span {
+  text-align: right;
+}
+/*
+.congress .totals .support span b,
+.congress .totals .oppose span b {
+  position: absolute;
+  top: 1.5rem;
+}
+.congress .totals .oppose span b {
+  right: 0;
+}
+*/
+.congress .totals .undecided span {
+  margin-top: -3em;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.congress .totals .oppose span {
+  right: 0;
+}
+
+.congress .totals li span::before {
+  content: "";
+  border-left: 2px solid;
+  position: absolute;
+  top: -1.5em;
+  left: 0;
+  height: 1.5em;
+}
+
+.congress .totals .undecided span::before {
+  top: auto;
+  bottom: -1.5em;
+  left: 50%;
+}
+
+.congress .totals .oppose span::before {
+  left: auto;
+  right: 0;
+}
+
+.congress .totals li span b {
+  display: block;
+  font-size: 3em;
+  line-height: 1.25;
+}
+.congress .totals li::before {
+  display: none;
+}
+
+.congress .totals .support {
+  background: rgb(15, 157, 255); /* --blue */
+}
+.congress .totals .oppose {
+  background: rgb(238, 19, 92); /* --red */
+}
+.congress .totals .undecided {
+  background: rgb(125, 33, 190); /* --purple */
+}
+
+.congress .totals .support span::before {
+  color: rgb(15, 157, 255); /* --blue */
+}
+.congress .totals .oppose span::before {
+  color: rgb(238, 19, 92); /* --red */
+}
+.congress .totals .undecided span::before {
+  color: rgb(125, 33, 190); /* --purple */
+}
+
+.congress .totals .support b {
+  color: rgb(15, 157, 255); /* --blue */
+}
+.congress .totals .oppose b {
+  color: rgb(238, 19, 92); /* --red */
+}
+.congress .totals .undecided b {
+  color: rgb(125, 33, 190); /* --purple */
+}
+
+
+
+@media (false) {
+
+  .congress .percentage {
+    margin-top: 6em;
+    margin-bottom: 6em;
+  }
+  .congress .percentage,
+  .congress .percentage li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .congress .percentage::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .congress .percentage li {
+    float: left;
+    opacity: 1;
+  }
+  .congress .percentage li::before {
+    display: none;
+  }
+  .congress .percentage li a {
+    display: block;
+    height: 1.5em;
+    text-shadow: none !important;
+  }
+  .congress .percentage li a b,
+  .congress .percentage li a span {
+    position: absolute;
+    white-space: nowrap;
+  }
+  .congress .percentage .undecided a span {
+    transform: translateX(-50%);
+  }
+  .congress .percentage .oppose a span {
+    transform: translateX(-100%);
+  }
+  .congress .percentage li a b {
+    color: transparent;
+  }
+  .congress .percentage .support a b::before,
+  .congress .percentage .oppose a b::before {
+    content: "";
+    border-left: 2px solid rgb(238, 19, 92); /* --red */
+    position: absolute;
+    margin-top: -3em;
+    height: 1.5em;
+  }
+  .congress .percentage .support a b::before {
+    border-color: rgb(15, 157, 255); /* --blue */
+  }
+  .congress .percentage .support a b,
+  .congress .percentage .oppose a b {
+    margin-top: 3em;
+    padding-top: 1.5em;
+  }
+  .congress .percentage .support a span,
+  .congress .percentage .oppose a span {
+    margin-top: 1.5em;
+    padding-top: 1.5em;
+  }
+  .congress .percentage .support a span {
+    border-color: rgb(15, 157, 255); /* --blue */
+  }
+  .congress .percentage .undecided a b::before {
+    content: "";
+    border-left: 2px solid rgb(125, 33, 190); /* --purple */
+    position: absolute;
+    margin-top: 3em;
+    height: 1.5em;
+  }
+  .congress .percentage .undecided a b,
+  .congress .percentage .undecided a span {
+    left: 50%;
+  }
+  .congress .percentage .oppose a b,
+  .congress .percentage .oppose a span {
+    left: 100%;
+    left: calc(100% - 2px);
+  }
+  .congress .percentage .undecided a b {
+    margin-top: -4.5em;
+    padding-bottom: 1.5em;
+  }
+  .congress .percentage .undecided a span {
+    margin-top: -3em;
+    padding-bottom: 1.5em;
+  }
+  .congress .percentage .support a b,
+  .congress .percentage .support a span {
+  }
+  .congress .percentage .support a {
+    background: rgb(15, 157, 255); /* --blue */
+    color: rgb(15, 157, 255); /* --blue */
+  }
+  .congress .percentage .oppose a {
+    background: rgb(238, 19, 92); /* --red */
+    color: rgb(238, 19, 92); /* --red */
+  }
+  .congress .percentage .undecided a {
+    background: rgb(125, 33, 190); /* --purple */
+    color: rgb(125, 33, 190); /* --purple */
+  }
+  .congress .percentage .support {
+    width: 0.9276437848%;
+  }
+  .congress .percentage .oppose {
+    width: 10.20408163%;
+  }
+  .congress .percentage .undecided {
+    width: 88.8682745852%;
+  }
+
+}
+
+
+
+
+@media(false) { 
+  .congress .percentage {
+    margin-top: 54px;
+    margin-bottom: 34px;
+    max-width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 10px;
+    background: rgb(125, 33, 190);
+    background-image: linear-gradient(to left,  rgb(238, 19, 92),  rgb(238, 19, 92) 10.20408163%,   transparent 10.20408163%,  transparent),
+                      linear-gradient(to right, rgb(15, 157, 255), rgb(15, 157, 255) 0.9276437848%, transparent 0.9276437848%, transparent);
+  }
+}
+
+
+
+
+@media(false) { 
+  .congress .percentage {
+    margin-top: 54px;
+    margin-bottom: 34px;
+    max-width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .congress .percentage > div {
+    width: 100%;
+    padding-bottom: 10%;
+    position: relative;
+  }
+  .congress .percentage > div > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(125, 33, 190); /* --purple */
+    background-image: radial-gradient(circle at 100% 50%, rgb(238, 19, 92), rgb(238, 19, 92) 10.20408163%, transparent 10.20408163%,  transparent),
+                      radial-gradient(circle at 0 50%, rgb(15, 157, 255), rgb(15, 157, 255) 0.9276437848%, transparent 0.9276437848%, transparent);
+    /*
+    background-image: radial-gradient(
+      circle,
+      rgb(15, 157, 255),
+      rgb(15, 157, 255) 0.9276437848%,
+      rgb(238, 19, 92) 0.9276437848%,
+      rgb(238, 19, 92) 11.1317254148%,
+      transparent 11.1317254148%,
+      transparent
+    );
+    */
+  }
+}
+
+@media (false) {
+  .congress .statistics a {
+    display: block;
+    background: black;
+    color: white;
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+  .congress .statistics .support a {
+    background: rgb(15, 157, 255); /* --blue */
+  }
+  .congress .statistics .oppose a {
+    background: rgb(238, 19, 92); /* --red */
+  }
+  .congress .statistics .undecided a {
+    background: rgb(125, 33, 190); /* --purple */
+  }
+  .congress #statistics a b {
+    color: white !important
+  }
+  .congress #statistics a span {
+    color: rgba(255, 255, 255, 0.5) !important
+  }
+  .congress #statistics a span i {
+    color: white !important
+  }
+}
+
+
+
+.congress .statistics b {
+  display: block;
+  font-size: 4em;
+  line-height: 1.2em;
+  font-weight: inherit;
+}
+.congress .statistics span {
+  font-style: italic;
+}
+.congress .members h3 {
+  margin-bottom: 0;
+}
+.congress .members h3 + p {
+  margin-top: 0;
+}
+.congress .members h4 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: inherit;
+  line-height: inherit;
+}
+.congress .members h3 + h4 {
+  margin-top: 27px;
+}
+.congress .members iframe {
+  width: 750px !important;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 27px
+}
+.congress button,
+.congress .action-link a {
+  background: #9daeb3;
+  padding: 0.625em 1.25em;
+  font-weight: 600;
+  font-size: inherit;
+  font-family: 'Proxima Nova W01', Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-shadow: none !important;
+  background-image: none !important;
+  background-color: #2fd864;
+  border-color: #2fd864;
+  color: white;
+}
+.congress button:hover,
+.congress button:active,
+.congress button:focus,
+.congress .action-link a:hover,
+.congress .action-link a:active,
+.congress .action-link a:focus {
+  background-color: black !important;
+}
+.congress button {
+  font-size: 1.125em;
+}
+.copy .congress .website {
+  margin-top: 27px;
+  margin-bottom: 0;
+}
+.copy .congress .states a,
+.copy .congress .statistics a,
+.copy .congress .members a,
+.copy .congress .members-summary a {
+  text-shadow: none !important;
+  background-image: none !important;
+  text-decoration: underline;
+  color: rgb(0, 128, 208) !important;
+}
+
+.copy .congress .states a span,
+.copy .congress .statistics a span,
+.copy .congress .members a span,
+.copy .congress .members-summary a span {
+  color: rgb(32, 47, 51); /* --gray */
+}
+.copy .congress .states a:hover  span,
+.copy .congress .states a:active span,
+.copy .congress .states a:focus  span,
+.copy .congress .statistics a:hover  span,
+.copy .congress .statistics a:active span,
+.copy .congress .statistics a:focus  span,
+.copy .congress .members a:hover  span,
+.copy .congress .members a:active span,
+.copy .congress .members a:focus  span,
+.copy .congress .members-summary a:hover  span,
+.copy .congress .members-summary a:active span,
+.copy .congress .members-summary a:focus  span {
+  color: rgb(0, 128, 208);
+}
+.copy .congress .statistics a {
+  text-decoration: none;
+  color: inherit !important;
+}
+.copy .congress .statistics span {
+  text-decoration: underline;
+}
+.copy .congress .members .action-link a {
+  text-decoration: none;
+}
+.copy .congress .phone {
+  margin-top: 0;
+}
+
+.copy .congress .statistics .support ~ span,
+.copy .congress .members .support ~ a,
+.copy .congress .members .support ~ * a {
+  color: rgb(47, 216, 100) !important; /* --green */
+  color: rgb(238, 19, 92) !important; /* --red */
+  color: rgb(15, 157, 255) !important; /* --blue */
+}
+.copy .congress .members .support ~ .action-link a {
+  background-color: rgb(47, 216, 100) !important; /* --green */
+  background-color: rgb(238, 19, 92) !important; /* --red */
+  background-color: rgb(15, 157, 255) !important; /* --blue */
+}
+.copy .congress .support {
+  color: rgb(47, 216, 100) !important; /* --green */
+  color: rgb(238, 19, 92) !important; /* --red */
+  color: rgb(15, 157, 255) !important; /* --blue */
+}
+.copy .congress .statistics .oppose ~ span,
+.copy .congress .members .oppose ~ a,
+.copy .congress .members .oppose ~ * a {
+  color: rgb(125, 33, 190) !important; /* --purple */
+  color: rgb(253, 79, 25) !important; /* --orange */
+  color: rgb(15, 157, 255) !important; /* --blue */
+  color: rgb(238, 19, 92) !important; /* --red */
+}
+.copy .congress .members .oppose ~ .action-link a {
+  background-color: rgb(125, 33, 190) !important; /* --purple */
+  background-color: rgb(253, 79, 25) !important; /* --orange */
+  background-color: rgb(15, 157, 255) !important; /* --blue */
+  background-color: rgb(238, 19, 92) !important; /* --red */
+}
+.copy .congress .oppose {
+  color: rgb(125, 33, 190) !important; /* --purple */
+  color: rgb(253, 79, 25) !important; /* --orange */
+  color: rgb(15, 157, 255) !important; /* --blue */
+  color: rgb(238, 19, 92) !important; /* --red */
+}
+.copy .congress .statistics .undecided ~ span,
+.copy .congress .members .undecided ~ a,
+.copy .congress .members .undecided ~ * a {
+  color: rgb(247, 2, 124) !important; /* --pink */
+  color: rgb(15, 157, 255) !important; /* --blue */
+  color: rgb(125, 33, 190) !important; /* --purple */
+}
+.copy .congress .members .undecided ~ .action-link a {
+  background-color: rgb(247, 2, 124) !important; /* --pink */
+  background-color: rgb(15, 157, 255) !important; /* --blue */
+  background-color: rgb(125, 33, 190) !important; /* --purple */
+}
+.copy .congress .undecided {
+  color: rgb(247, 2, 124) !important; /* --pink */
+  color: rgb(15, 157, 255) !important; /* --blue */
+  color: rgb(125, 33, 190) !important; /* --purple */
+}
+
+.copy .congress .members .support ~ .action-link a:hover,
+.copy .congress .members .support ~ .action-link a:active,
+.copy .congress .members .support ~ .action-link a:focus,
+.copy .congress .members .oppose ~ .action-link a:hover,
+.copy .congress .members .oppose ~ .action-link a:active,
+.copy .congress .members .oppose ~ .action-link a:focus,
+.copy .congress .members .undecided ~ .action-link a:hover,
+.copy .congress .members .undecided ~ .action-link a:active,
+.copy .congress .members .undecided ~ .action-link a:focus {
+  background-color: black !important
+}
+
+.copy .congress .statistics .support ~ span i,
+.copy .congress .statistics .oppose ~ span i,
+.copy .congress .statistics .undecided ~ span i {
+  color: rgb(32, 47, 51); /* --gray */
+}
+
+.copy .congress .statistics a:hover  .support ~ span i,
+.copy .congress .statistics a:active .support ~ span i,
+.copy .congress .statistics a:focus  .support ~ span i,
+.copy .congress .statistics a:hover  .oppose ~ span i,
+.copy .congress .statistics a:active .oppose ~ span i,
+.copy .congress .statistics a:focus  .oppose ~ span i,
+.copy .congress .statistics a:hover  .undecided ~ span i,
+.copy .congress .statistics a:active .undecided ~ span i,
+.copy .congress .statistics a:focus  .undecided ~ span i,
+.copy .congress .members-summary .support a:hover span,
+.copy .congress .members-summary .support a:active span,
+.copy .congress .members-summary .support a:focus span,
+.copy .congress .members-summary .oppose a:hover span,
+.copy .congress .members-summary .oppose a:active span,
+.copy .congress .members-summary .oppose a:focus span,
+.copy .congress .members-summary .undecided a:hover span,
+.copy .congress .members-summary .undecided a:active span,
+.copy .congress .members-summary .undecided a:focus span,
+.copy .congress .members .support ~ a:hover span,
+.copy .congress .members .support ~ a:active span,
+.copy .congress .members .support ~ a:focus span,
+.copy .congress .members .oppose ~ a:hover span,
+.copy .congress .members .oppose ~ a:active span,
+.copy .congress .members .oppose ~ a:focus span,
+.copy .congress .members .undecided ~ a:hover span,
+.copy .congress .members .undecided ~ a:active span,
+.copy .congress .members .undecided ~ a:focus span,
+.copy .congress .members .support ~ * a:hover span,
+.copy .congress .members .support ~ * a:active span,
+.copy .congress .members .support ~ * a:focus span,
+.copy .congress .members .oppose ~ * a:hover span,
+.copy .congress .members .oppose ~ * a:active span,
+.copy .congress .members .oppose ~ * a:focus span,
+.copy .congress .members .undecided ~ * a:hover span,
+.copy .congress .members .undecided ~ * a:active span,
+.copy .congress .members .undecided ~ * a:focus span {
+  color: inherit !important;
+}
+
+.congress .states li,
+.congress .members-summary li {
+  opacity: 1;
+}
+
+.copy .congress p.action-link a,
+.copy .congress .members p.action-link a {
+  color: white !important;
+}
+
+.congress .members-summary {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.congress #members-summary-container .members-summary a {
+  color: inherit !important;
+}
+.congress #members-summary-container .members-summary a span {
+  color: rgb(32, 47, 51); /* --gray */
+}
+
+.congress .percentage,
+.congress .statistics {
+  max-width: none;
+}
+
+@supports(display: flex) {
+  .congress .statistics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .congress .statistics li + li {
+    margin-top: 0;
+  }
+  @media (min-width: 40em) {
+    .congress .statistics li {
+      flex-basis: 33.333%;
+      flex-grow: 1;
+    }
+  }
+}
+
+.congress .members-summary-container {
+  margin-top: 108px;
+  margin-top: 0;
+}
+.congress .members-summary-container > div {
+  padding-top: 54px;
+}
+
+@media (min-width: 40em) {
+  .congress .members-summary-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .congress .members-summary-container > div {
+    padding-top: 0;
+    flex-basis: 33.333%;
+    box-sizing: border-box;
+    flex-grow: 1;
+    padding-right: 0.625em;
+  }
+  .congress .statistics span {
+    position: absolute;
+    left: -9999px;
+  }
+}
+
+.congress .members .action-link {
+  display: none;
+}
+.action-link.undecided a {
+  text-align: center;
+  display: block;
+}
+
+@media (min-width: 40em) {
+  .congress {
+    position: relative;
+  }
+
+  h2.percentage-title {
+    max-width: none;
+    padding-right: 35%;
+    padding-right: calc(33.333% + 0.625em);
+  }
+
+  .action-link.undecided {
+    position: absolute;
+    top: 0.625em;
+    left: 66.666%;
+    width: 33.333%;
+  }
+}
+
+.find-representatives {
+  margin-top: 108px;
+  max-width: none;
+}
+.find-representatives h3,
+.find-representatives p {
+  max-width: none;
+}
+

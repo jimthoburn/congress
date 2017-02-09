@@ -1,0 +1,22 @@
+<li id="{{ member.id }}">
+
+<h3>{{ member.full_name }}</h3>
+
+<p>
+  {{ member.type }} for
+  {% if member.district > 0 %}
+    the {{ member.district }}{% if member.district == 1 %}st{% elsif member.district == 2 %}nd{% elsif member.district == 3 %}rd{% else %}th{% endif %} District of
+  {% endif %} 
+  {{ member.state }}
+</p>
+
+<h4 class="{{ member.stance }}">
+{% if member.stance == 'oppose' %}Opposes{% elsif member.stance == 'support' %}Supports{% else %}Undecided about{% endif %} Trump’s immigration order
+</h4>
+
+{{ member.quote_html }}
+
+<p class="website"><a href="{{ member.website }}"><span>{{ member.website | replace: 'http://', '' | replace: 'https://', '' }}</span></a></p>
+<p class="phone">{{ member.phone }}</p>
+
+</li>

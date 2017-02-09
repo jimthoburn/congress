@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% include statistics.html %}
+
+{% include find-your-representatives.html %}
+
+<h2 id="members">{{ page.name }}</h2>
+
+<ul class="members">
+
+{% for member in site.data.congress %}
+  {% if member.state == page.name %}
+    {% include member.html %}
+  {% endif %}
+{% endfor %}
+
+</ul>
