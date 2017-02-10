@@ -171,14 +171,13 @@
     text-align: center;
     line-height: 1.5;
   }
-  .congress .statistics li span i {
+  .congress .statistics li i {
     font-style: italic;
-    color: #202f33;
   }
-  .congress .statistics li span b {
+  .congress .statistics li b {
     margin-top: -0.25em;
   }
-  .congress .statistics .undecided span b {
+  .congress .statistics .undecided b {
     position: absolute;
     top: 0;
     margin-top: -1.25em;
@@ -214,7 +213,7 @@
     left: auto;
     right: 0;
   }
-  .congress .statistics li span b {
+  .congress .statistics li b {
     display: block;
     font-size: 3em;
     line-height: 1.25;
@@ -244,6 +243,24 @@
     color: rgb(238, 19, 92); /* --red */
   }
   .congress .statistics .undecided b {
+    color: rgb(125, 33, 190); /* --purple */
+  }
+  .congress .statistics .support i {
+    color: #202f33;
+  }
+  .congress .statistics .support a:hover  i,
+  .congress .statistics .support a:active i,
+  .congress .statistics .support a:focus  i {
+    color: rgb(15, 157, 255); /* --blue */
+  }
+  .congress .statistics .oppose a:hover  i,
+  .congress .statistics .oppose a:active i,
+  .congress .statistics .oppose a:focus  i {
+    color: rgb(238, 19, 92); /* --red */
+  }
+  .congress .statistics .undecided a:hover  i,
+  .congress .statistics .undecided a:active i,
+  .congress .statistics .undecided a:focus  i {
     color: rgb(125, 33, 190); /* --purple */
   }
 
