@@ -76,20 +76,15 @@
 
   /* =Colors
   ----------------------------------------------- */
-  .copy .congress .states a,
   .congress .members a {
     text-shadow: none !important;
     background-image: none !important;
     text-decoration: underline;
     color: rgb(0, 128, 208) !important;
   }
-  .congress .states a span,
   .congress .members a span {
     color: rgb(32, 47, 51); /* --gray */
   }
-  .congress .states a:hover  span,
-  .congress .states a:active span,
-  .congress .states a:focus  span,
   .congress .members a:hover  span,
   .congress .members a:active span,
   .congress .members a:focus  span {
@@ -298,7 +293,6 @@
   -----------------------------------------------
   Override base styles for the “.copy” element
   ----------------------------------------------- */
-  .congress .states li,
   .congress .members li,
   .congress .statistics li {
     opacity: 1;
@@ -307,4 +301,3 @@
   .congress .statistics li::before {
     content: none;
   }
-
