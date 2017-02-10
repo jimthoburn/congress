@@ -166,35 +166,32 @@
   }
   .congress .statistics li span {
     position: absolute;
+    left: 0;
     white-space: nowrap;
     margin-top: 3em;
-    text-align: center;
     line-height: 1.5;
+  }
+  .congress .statistics .undecided span {
+    margin-top: -6em;
+  }
+  .congress .statistics .align-center span {
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+  .congress .statistics .align-right span {
+    left: auto;
+    right: 0;
+    text-align: right;
   }
   .congress .statistics li i {
     font-style: italic;
   }
   .congress .statistics li b {
     margin-top: -0.25em;
-  }
-  .congress .statistics .undecided b {
-    position: absolute;
-    top: 0;
-    margin-top: -1.25em;
-  }
-  .congress .statistics .support span {
-    text-align: left;
-  }
-  .congress .statistics .oppose span {
-    text-align: right;
-  }
-  .congress .statistics .undecided span {
-    margin-top: -3em;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-  .congress .statistics .oppose span {
-    right: 0;
+    display: block;
+    font-size: 3em;
+    line-height: 1.25;
   }
   .congress .statistics li span::before {
     content: "";
@@ -207,16 +204,13 @@
   .congress .statistics .undecided span::before {
     top: auto;
     bottom: -1.5em;
+  }
+  .congress .statistics .align-center span::before {
     left: 50%;
   }
-  .congress .statistics .oppose span::before {
+  .congress .statistics .align-right span::before {
     left: auto;
     right: 0;
-  }
-  .congress .statistics li b {
-    display: block;
-    font-size: 3em;
-    line-height: 1.25;
   }
   .congress .statistics .support {
     background: rgb(15, 157, 255); /* --blue */

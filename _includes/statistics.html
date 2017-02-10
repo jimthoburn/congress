@@ -1,29 +1,58 @@
 
 <h2>Members of Congress who support or oppose Trump’s immigration order</h2>
 
-<ul class="statistics">
-  <li class="support" style="width: 0.9276437848%"><!-- 5/539 -->
+{% assign total = 539 %}
+{% assign support = 438 %}
+{% assign oppose = 100 %}
+{% assign undecided = total | minus: support | minus: oppose %}
+
+{% assign total_minus_one_hundred = total | minus: 100 %}
+
+{% comment %}
+Prevent the undecided label from running into the left or right side of the screen
+{% endcomment %}
+{% assign undecided_alignment = 'align-center' %}
+{% if undecided > 100 %}
+  {% assign undecided_alignment = 'align-center' %}
+{% elsif support > 100 and support < total_minus_one_hundred %}
+  {% assign undecided_alignment = 'align-center' %}
+{% elsif oppose > 100 and oppose < total_minus_one_hundred %}
+  {% assign undecided_alignment = 'align-center' %}
+{% elsif oppose > support %}
+  {% assign undecided_alignment = 'align-left' %}
+{% else %}
+  {% assign undecided_alignment = 'align-right' %}
+{% endif %}
+
+<ul class="statistics" id="statistics">
+  {% if support > 0 %}
+  <li class="support align-left" style="width: {{ support | times: 100.0 | divided_by: total }}%">
     <a href="{{ site.baseurl }}/support/#members">
       <span>
-        <b>5</b>
+        <b>{{ support }}</b>
         <i>support</i>
       </span>
     </a>
   </li>
-  <li class="undecided" style="width: 88.8682745852%;"><!-- 479/539 -->
+  {% endif %}
+  {% if undecided > 0 %}
+  <li class="undecided {{ undecided_alignment }}" style="width: {{ undecided | times: 100.0 | divided_by: total }}%">
     <a href="{{ site.baseurl }}/undecided/#members">
       <span>
-        <b>479</b>
+        <b>{{ undecided }}</b>
         <i>undecided</i>
       </span>
     </a>
   </li>
-  <li class="oppose" style="width: 10.20408163%"><!-- 55/539 -->
+  {% endif %}
+  {% if oppose > 0 %}
+  <li class="oppose align-right" style="width: {{ oppose | times: 100.0 | divided_by: total }}%">
     <a href="{{ site.baseurl }}/oppose/#members">
       <span>
-        <b>55</b>
+        <b>{{ oppose }}</b>
         <i>oppose</i>
       </span>
     </a>
   </li>
+  {% endif %}
 </ul>
