@@ -33,6 +33,9 @@
 
   /* =Form (Representatives by state)
   ----------------------------------------------- */
+  .congress form:not(:last-child) {
+    margin-bottom: 6em;
+  }
   .congress form select {
     font-size: inherit;
     width: 100%;
