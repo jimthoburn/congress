@@ -309,7 +309,4 @@
   .congress .statistics li::before {
     content: none;
   }
-  .congress .states li {
-    opacity: 1;
-  }
 
