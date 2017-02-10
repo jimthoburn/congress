@@ -2,8 +2,8 @@
 <h2>Members of Congress who support or oppose Trump’s immigration order</h2>
 
 {% assign total = 539 %}
-{% assign support = 438 %}
-{% assign oppose = 100 %}
+{% assign support = 5 %}
+{% assign oppose = 55 %}
 {% assign undecided = total | minus: support | minus: oppose %}
 
 {% assign total_minus_one_hundred = total | minus: 100 %}
@@ -11,17 +11,12 @@
 {% comment %}
 Prevent the undecided label from running into the left or right side of the screen
 {% endcomment %}
-{% assign undecided_alignment = 'align-center' %}
-{% if undecided > 100 %}
-  {% assign undecided_alignment = 'align-center' %}
-{% elsif support > 100 and support < total_minus_one_hundred %}
-  {% assign undecided_alignment = 'align-center' %}
-{% elsif oppose > 100 and oppose < total_minus_one_hundred %}
-  {% assign undecided_alignment = 'align-center' %}
-{% elsif oppose > support %}
+{% if oppose > total_minus_one_hundred %}
   {% assign undecided_alignment = 'align-left' %}
-{% else %}
+{% elsif support > total_minus_one_hundred %}
   {% assign undecided_alignment = 'align-right' %}
+{% else %}
+  {% assign undecided_alignment = 'align-center' %}
 {% endif %}
 
 <ul class="statistics" id="statistics">
