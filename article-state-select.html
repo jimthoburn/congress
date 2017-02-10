@@ -9,7 +9,8 @@ layout: default
 <h3>Or choose your state</h3>
 <form action="{{ site.baseurl }}/state/california#members" method="get">
   <p>
-    <select name="state">
+    <label for="congress-state-select">Choose your state</label>
+    <select name="state" id="congress-state-select">
     {% for nextstate in site.data.states %}
       <option>{{ nextstate.name }}</option>
     {% endfor %}

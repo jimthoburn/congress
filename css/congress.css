@@ -286,24 +286,29 @@
   max-width: none;
 }
 
+
+@media (min-width: 750px) {
+  .congress form {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .congress form label {
+    position: absolute;
+    left: -9999px;
+  }
+  .congress form p {
+    max-width: 20em;
+    margin-left: 0;
+  }
+}
+
 .congress select {
   font-size: inherit;
   width: 100%;
-  margin-bottom: 0.375em;
+  margin-bottom: 0.75em;
 }
 
 .congress form button {
   line-height: 1;
-}
-
-@media (min-width: 30em) {
-  .congress select,
-  .congress button {
-    width: auto;
-    vertical-align: middle;
-  }
-  .congress select {
-    margin-bottom: 0;
-    margin-right: 0.375em;
-  }
 }
