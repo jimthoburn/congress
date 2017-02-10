@@ -288,11 +288,22 @@
 
 .congress select {
   font-size: inherit;
+  width: 100%;
+  margin-bottom: 0.375em;
 }
 
 .congress form button {
-  display: inline-block;
-  width: auto;
-  vertical-align: middle;
   line-height: 1;
+}
+
+@media (min-width: 30em) {
+  .congress select,
+  .congress button {
+    width: auto;
+    vertical-align: middle;
+  }
+  .congress select {
+    margin-bottom: 0;
+    margin-right: 0.375em;
+  }
 }
