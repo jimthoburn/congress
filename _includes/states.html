@@ -1,0 +1,7 @@
+
+<h3>Or choose your state</h3>
+<ul class="states">
+{% for nextstate in site.data.states %}
+<li><a href="{{ site.baseurl }}/state/{{ nextstate.name | downcase | replace: ' ', '-' }}#members"><span>{{ nextstate.name }}</span></a></li>
+{% endfor %}
+</ul>

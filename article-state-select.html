@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% include statistics.html %}
+
+{% include find-your-representatives.html %}
+
+<h3>Or choose your state</h3>
+<form action="{{ site.baseurl }}/state/california#members" method="get">
+  <p>
+    <select name="state">
+    {% for nextstate in site.data.states %}
+      <option>{{ nextstate.name }}</option>
+    {% endfor %}
+    </select>
+    <button type="submit">Go</button>
+  </p>
+</form>

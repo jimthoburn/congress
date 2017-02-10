@@ -277,12 +277,22 @@
   color: white !important;
 }
 
-.find-representatives {
+.congress .find-representatives {
   margin-top: 108px;
   max-width: none;
 }
-.find-representatives h3,
-.find-representatives p {
+.congress .find-representatives h3,
+.congress .find-representatives p {
   max-width: none;
 }
 
+.congress select {
+  font-size: inherit;
+}
+
+.congress form button {
+  display: inline-block;
+  width: auto;
+  vertical-align: middle;
+  line-height: 1;
+}
