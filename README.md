@@ -15,7 +15,7 @@ _layouts/*
 
 ### CSS
 ```
-/css/congress.css
+/_sass/congress.scss
 ```
 
 ### Example pages
@@ -26,10 +26,11 @@ support.html
 undecided.html
 ```
 
-### Files for demonstration
+### Files for demonstration on GitHub
 ```
 index.html
 /screenshots/*
+/css/*
 ```
 
 ### Files for Jekyll and Node.js

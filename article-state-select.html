@@ -1,9 +1,10 @@
----
-layout: default
----
-
-{% include statistics.html %}
-
-{% include find-your-representatives.html %}
-
-{% include states.html %}
+<!doctype HTML>
+<html>
+<head>
+{% assign redirect_url = site.baseurl | append: 'article' %}
+<meta http-equiv="refresh" content="0; url={{ redirect_url }}" />
+</head>
+<body>
+  <h1>This page has moved to <a href="{{ redirect_url }}">{{ redirect_url }}</a></h1>
+</body>
+</html>

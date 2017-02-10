@@ -1,18 +1,40 @@
 
+  /* =Reset
+  -----------------------------------------------
+  Override base styles for the “.copy” element
+  ----------------------------------------------- */
+  .congress .members li,
+  .congress .statistics li {
+    opacity: 1;
+  }
+  .congress .members    li::before,
+  .congress .statistics li::before {
+    content: none;
+  }
+  .congress .action-link a,
+  .congress .statistics a,
+  .congress .members a {
+    text-shadow: none !important;
+    background-image: none !important;
+    text-decoration: underline;
+  }
+
 
   /* =Button
   ----------------------------------------------- */
   .congress button,
   .congress .action-link a {
-    background: #9daeb3;
-    padding: 0.625em 1.25em;
-    font-weight: 600;
+    /* Reset */
+    text-decoration: inherit;
     font-size: inherit;
-    font-family: 'Proxima Nova W01', Helvetica Neue, Helvetica, Arial, sans-serif;
-    text-shadow: none !important;
-    background-image: none !important;
-    background-color: #2fd864;
-    border-color: #2fd864;
+    line-height: inherit;
+    border-width: 0;
+
+    padding: 0.625em 1.25em;
+    font-family: 'Proxima Nova W01', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+
+    background-color: rgb(47, 216, 100);
     color: white;
   }
   .congress button:hover,
@@ -26,7 +48,9 @@
   .congress button {
     font-size: 1.125em;
   }
-  .congress p.action-link a {
+
+  /* SHIM: Override base styles for the “.copy” element */
+  .copy .congress .action-link a {
     color: white !important;
   }
 
@@ -36,13 +60,18 @@
   .congress form:not(:last-child) {
     margin-bottom: 6em;
   }
-  .congress form select {
+  .congress select {
     font-size: inherit;
     width: 100%;
     margin-bottom: 0.75em;
   }
-  .congress form button {
-    line-height: 1;
+  /* Hide the label, since it’s redundant with the headline */
+  .congress label > span:first-child {
+    position: absolute;
+    left: -9999px;
+  }
+  .congress label br {
+    display: none;
   }
 
   @media (min-width: 750px) {
@@ -50,10 +79,6 @@
       max-width: 750px;
       margin-left: auto;
       margin-right: auto;
-    }
-    .congress form label {
-      position: absolute;
-      left: -9999px;
     }
     .congress form p {
       max-width: 20em;
@@ -71,65 +96,6 @@
   }
   .congress .statistics + h2 {
     margin-top: 6em;
-  }
-
-
-  /* =Colors
-  ----------------------------------------------- */
-  .congress .members a {
-    text-shadow: none !important;
-    background-image: none !important;
-    text-decoration: underline;
-    color: rgb(0, 128, 208) !important;
-  }
-  .congress .members a span {
-    color: rgb(32, 47, 51); /* --gray */
-  }
-  .congress .members a:hover  span,
-  .congress .members a:active span,
-  .congress .members a:focus  span {
-    color: rgb(0, 128, 208);
-  }
-  .congress .members .support ~ a,
-  .congress .members .support ~ * a {
-    color: rgb(15, 157, 255) !important; /* --blue */
-  }
-  .congress .support {
-    color: rgb(15, 157, 255) !important; /* --blue */
-  }
-  .congress .members .oppose ~ a,
-  .congress .members .oppose ~ * a {
-    color: rgb(238, 19, 92) !important; /* --red */
-  }
-  .congress .oppose {
-    color: rgb(238, 19, 92) !important; /* --red */
-  }
-  .congress .members .undecided ~ a,
-  .congress .members .undecided ~ * a {
-    color: rgb(125, 33, 190) !important; /* --purple */
-  }
-  .congress .undecided {
-    color: rgb(125, 33, 190) !important; /* --purple */
-  }
-  .congress .members .support ~ a:hover span,
-  .congress .members .support ~ a:active span,
-  .congress .members .support ~ a:focus span,
-  .congress .members .oppose ~ a:hover span,
-  .congress .members .oppose ~ a:active span,
-  .congress .members .oppose ~ a:focus span,
-  .congress .members .undecided ~ a:hover span,
-  .congress .members .undecided ~ a:active span,
-  .congress .members .undecided ~ a:focus span,
-  .congress .members .support ~ * a:hover span,
-  .congress .members .support ~ * a:active span,
-  .congress .members .support ~ * a:focus span,
-  .congress .members .oppose ~ * a:hover span,
-  .congress .members .oppose ~ * a:active span,
-  .congress .members .oppose ~ * a:focus span,
-  .congress .members .undecided ~ * a:hover span,
-  .congress .members .undecided ~ * a:active span,
-  .congress .members .undecided ~ * a:focus span {
-    color: inherit !important;
   }
 
 
@@ -158,8 +124,6 @@
   .congress .statistics li a {
     display: block;
     height: 1.5em;
-    text-shadow: none !important;
-    background-image: none;
     line-height: 1.5;
   }
   .congress .statistics li span {
@@ -271,6 +235,15 @@
     font-size: inherit;
     line-height: inherit;
   }
+  .congress .members .support h4 {
+    color: rgb(15, 157, 255); /* --blue */
+  }
+  .congress .members .oppose h4 {
+    color: rgb(238, 19, 92); /* --red */
+  }
+  .congress .members .undecided h4 {
+    color: rgb(125, 33, 190); /* --purple */
+  }
   .congress .members h3 + h4 {
     margin-top: 27px;
   }
@@ -287,17 +260,20 @@
   .congress .members .phone {
     margin-top: 0;
   }
-
-
-  /* =Shims
-  -----------------------------------------------
-  Override base styles for the “.copy” element
-  ----------------------------------------------- */
-  .congress .members li,
-  .congress .statistics li {
-    opacity: 1;
+  .congress .members .support a {
+    color: rgb(15, 157, 255) !important; /* --blue */
   }
-  .congress .members    li::before,
-  .congress .statistics li::before {
-    content: none;
+  .congress .members .oppose a {
+    color: rgb(238, 19, 92) !important; /* --red */
+  }
+  .congress .members .undecided a {
+    color: rgb(125, 33, 190) !important; /* --purple */
+  }
+  .congress .members a span {
+    color: rgb(32, 47, 51); /* --gray */
+  }
+  .congress .members a:hover  span,
+  .congress .members a:active span,
+  .congress .members a:focus  span {
+    color: inherit !important;
   }
