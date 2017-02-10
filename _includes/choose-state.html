@@ -5,8 +5,8 @@
     <label>
       <span>State</span><br />
       <select name="state">
-      {% for nextstate in site.data.states %}
-        <option>{{ nextstate.name }}</option>
+      {% for state in site.data.states %}
+        <option {% if page.name == state.name %}selected{% endif %}>{{ state.name }}</option>
       {% endfor %}
       </select>
     </label>
