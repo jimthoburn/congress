@@ -73,7 +73,7 @@
 
   /* =Colors
   ----------------------------------------------- */
-  .congress .states a,
+  .copy .congress .states a,
   .congress .members a {
     text-shadow: none !important;
     background-image: none !important;
@@ -295,6 +295,7 @@
   -----------------------------------------------
   Override base styles for the “.copy” element
   ----------------------------------------------- */
+  .congress .states li,
   .congress .members li,
   .congress .statistics li {
     opacity: 1;
